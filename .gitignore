@@ -1,2 +1,22 @@
-.DS_Store
-.DS***
+# local test file
+src/neo4j-quickstart/local_test.py
+
+# Mac related files
+*.DS_Store
+
+# Any env files anywhere in sub repositories
+*.env
+
+# Python related files
+__pycache__/
+*.py[cod]
+*$py.class
+*__pycache__
+
+# Plots
+src/neo4j-quickstart/plots/graphs/*
+!src/neo4j-quickstart/plots/graphs/.gitkeep
+# Cluster plots
+src/neo4j-quickstart/plots/clusters/*
+!src/neo4j-quickstart/plots/clusters/.gitkeep
+

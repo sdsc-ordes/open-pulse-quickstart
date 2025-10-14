@@ -269,16 +269,6 @@ def visualize_graph(
             )
         )
 
-    # ax.legend(
-    #     handles=legend_elements,
-    #     loc="upper left",
-    #     fontsize=11,
-    #     framealpha=0.9,
-    #     facecolor="#3a3a3a",
-    #     edgecolor="#ffffff",
-    #     labelcolor="#ffffff",
-    # )
-
     # Place legend outside the plot for large graphs to prevent clipping
     ax.legend(
         handles=legend_elements,
@@ -293,7 +283,7 @@ def visualize_graph(
         bbox_transform=fig.transFigure
     )
 
-    # Adjust layout manually (tight_layout can clip legends outside the figure)
+    # Adjust layout manually
     fig.subplots_adjust(right=0.80)  # Leave space for the legend
 
     ax.set_title(

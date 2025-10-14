@@ -43,15 +43,15 @@ def df_to_pydantic_models(df: pd.DataFrame, relationships) -> GraphData:
             continue
 
         # Apply relationship logic
-        if prop == "member of" and source_type == "user" and target_type == "org":
+        if prop == "member_of" and source_type == "user" and target_type == "org":
             target_obj.members.append(source)
 
-        elif prop == "owner of":
+        elif prop == "owner_of":
             if target_type == "repo":
                 source_obj.owner_of.append(target)
                 graph.repos[target].owner = source
 
-        elif prop == "contributor of":
+        elif prop == "contributor_of":
             if target_type == "repo":
                 source_obj.contributor_of.append(target)
                 graph.repos[target].contributors.append(source)

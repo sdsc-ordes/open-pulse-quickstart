@@ -6,6 +6,7 @@ src/neo4j-quickstart/local_test.py
 
 # Any env files anywhere in sub repositories
 *.env
+*quickstart.egg-info
 
 # Python related files
 __pycache__/

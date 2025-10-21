@@ -1,20 +1,18 @@
-FROM python:3.10-slim
-
-# TO-DO how to generalize for other tools. i.e. CHAOSS and a graph database access
+FROM jupyter/minimal-notebook:python-3.11
 
 # Install uv
 COPY --from=ghcr.io/astral-sh/uv:0.6.12 /uv /uvx /bin/
 
 # Copy the project into the image
-ADD src/neo4j-quickstart /app/neo4j-quickstart
+ADD src/ /app/
+
+# make uv's python the default python for the image
+ENV PATH="/app/.venv/bin:$PATH"
+
+# Set PYTHONPATH for imports
+ENV PYTHONPATH=/app/
 
 # Sync the project into a new environment, using the frozen lockfile
 WORKDIR /app
-RUN cd neo4j-quickstart && uv sync
-
-# make uv's python the default python for the image
-ENV PATH="/app/neo4j-quickstart/.venv/bin:$PATH"
-
-# Set PYTHONPATH for imports
-ENV PYTHONPATH=/app/neo4j-quickstart
+RUN uv sync && uv run ipython kernel install --user --env VIRTUAL_ENV $(pwd)/.venv --name=open-pulse && uv run --with jupyter jupyter lab
 

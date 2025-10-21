@@ -9,3 +9,9 @@ We are using uv ([installation instructions here](https://docs.astral.sh/uv/gett
 1. Create virtual environment: `uv venv`
 2. Activate it: `source .venv/bin/activate`
 3. Get all predefined dependencies from the `uv.lock` file by running the command: `uv sync`
+
+## Build docker
+
+Locally: `docker build -f tools/images/Dockerfile -t test .`
+
+Else there is an integrated github CI in the github workflows of this repository.

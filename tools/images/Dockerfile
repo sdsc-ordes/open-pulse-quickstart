@@ -1,4 +1,4 @@
-FROM jupyter/minimal-notebook:python-3.11
+FROM python:3.10-slim
 
 # Install uv
 COPY --from=ghcr.io/astral-sh/uv:0.6.12 /uv /uvx /bin/

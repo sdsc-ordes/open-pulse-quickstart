@@ -1,0 +1,12 @@
+# This requirements file captures all the dependencies from all submodules of the quickstart
+# all mentioned packages should be obtained from the pyproject toml of the uv setup of each submodule
+
+# NEO4J 
+adjusttext>=1.3.0
+dotenv>=0.9.9
+matplotlib>=3.10.7
+neo4j>=6.0.2
+networkx>=3.4.2
+numpy>=2.2.6
+pandas>=2.3.3
+pydantic>=2.12.1

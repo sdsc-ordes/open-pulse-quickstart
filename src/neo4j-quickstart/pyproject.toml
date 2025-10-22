@@ -1,0 +1,16 @@
+[project]
+name = "neo4j-quickstart"
+version = "0.1.0"
+description = "Quickstart for using Neo4j for Open Pulse"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "adjusttext>=1.3.0",
+    "dotenv>=0.9.9",
+    "matplotlib>=3.10.7",
+    "neo4j>=6.0.2",
+    "networkx>=3.4.2",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.1",
+]

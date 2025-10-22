@@ -3,13 +3,11 @@ name: Build and Push Docker Image for Quickstart
 on:
   release:
     type: [published]
-  #trigger on each commit of each branch and push with latest tag
   push :
-  # pull_request:
-  #   paths:
-  #     - 'pyproject.toml'
-  #     - './docker/**'
-  #     - '.github/workflows/**'
+    paths:
+      - 'src/neo4j-quickstart/**'
+      - 'tools/images/Dockerfile-neo4j'
+      - '.github/workflows/**'
 
 env:
   REGISTRY: ghcr.io
@@ -29,7 +27,7 @@ jobs:
 
       - name: lowercase image name
         run: |
-          echo "IMAGE_NAME=${GITHUB_REPOSITORY,,}" >> ${GITHUB_ENV}
+          echo "IMAGE_NAME=${GITHUB_REPOSITORY,,}-neo4j" >> ${GITHUB_ENV}
 
       # https://github.com/docker/setup-qemu-action
       - name: Set up QEMU
@@ -53,7 +51,7 @@ jobs:
         with:
           context: .
           platforms: linux/amd64
-          file: tools/images/Dockerfile
+          file: tools/images/Dockerfile-neo4j
           push: false
           tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.release-version.outputs.version_build }}
           build-args: PLATFORM=cu124
@@ -73,7 +71,7 @@ jobs:
 
       - name: lowercase image name
         run: |
-          echo "IMAGE_NAME=${GITHUB_REPOSITORY,,}" >> ${GITHUB_ENV}
+          echo "IMAGE_NAME=${GITHUB_REPOSITORY,,}-neo4j" >> ${GITHUB_ENV}
 
       # https://github.com/docker/setup-qemu-action
       - name: Set up QEMU
@@ -115,7 +113,7 @@ jobs:
         with:
           context: .
           platforms: linux/amd64
-          file: tools/images/Dockerfile
+          file: tools/images/Dockerfile-neo4j
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}

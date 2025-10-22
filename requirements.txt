@@ -1,5 +1,6 @@
 # This requirements file captures all the dependencies from all submodules of the quickstart
 # all mentioned packages should be obtained from the pyproject toml of the uv setup of each submodule
+# at the root of the repository to be picked up by Renku setup
 
 # NEO4J 
 adjusttext>=1.3.0

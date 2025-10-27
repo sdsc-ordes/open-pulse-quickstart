@@ -12,6 +12,14 @@ dependencies = [
     "rdflib",
     "pandas",
     "ipykernel",
+    "numpy",
+    "pytz",
+    "pyparsing",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
 ]
 
 

@@ -1,0 +1,25 @@
+[project]
+name = "tentris-notebook-env"
+version = "0.1.0"
+description = "Python environment for the Tentris SPARQL query notebook."
+
+# Specify the minimum Python version required by Tentris
+requires-python = ">=3.12"
+
+# Define the project dependencies
+dependencies = [
+    "tentris",
+    "rdflib",
+    "pandas",
+    "ipykernel",
+    "numpy",
+    "pytz",
+    "pyparsing",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
+]
+
+

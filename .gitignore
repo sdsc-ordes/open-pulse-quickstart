@@ -1,3 +1,9 @@
+# Tentris environment
+src/tentris-quickstart/.venv/
+
+# Local environment
+.venv/
+
 # local test file
 src/neo4j-quickstart/local_test.py
 

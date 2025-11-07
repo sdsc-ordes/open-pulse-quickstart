@@ -1,0 +1,563 @@
+{
+  "link": "https://github.com/petrasvestartas/unordered_dense",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:17:16.732648",
+  "output": {
+    "name": "unordered_dense",
+    "applicationCategory": [
+      "Information engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/unordered_dense"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2023-12-07",
+    "datePublished": "2023-12-07",
+    "description": "A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion",
+    "featureList": null,
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/MIT.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "petrasvestartas"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Original author",
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Vestartas, Petras",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Exact name match for 'Petras Vestartas' found in Infoscience author database.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using lo...",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas is the sole author of this doctoral thesis found in his Infoscience publications.",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "author_name",
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "8031bf95-ef35-4bcc-976a-129bd9daa3ee",
+              "title": "Robotic Timber Construction",
+              "authors": [
+                "Rogeau, Nicolas",
+                "Vestartas, Petras"
+              ],
+              "abstract": null,
+              "doi": null,
+              "publication_date": "2022-11-05",
+              "publication_type": "conference poster",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/192128",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas is co-author on this conference poster in Infoscience.",
+            "externalId": null,
+            "matchedOn": [
+              "author_name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries. While loc...",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas is first author on this conference paper in his publication list.",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "author_name",
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "6ec1dd73-6e72-4721-b23b-9f6ea078f95a",
+              "title": "Joinery Solver for Whole Timber Structures",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents a digital joinery generation method for whole-timber structures using wood-wood connections. The research is based on a collaboration with a local timber company located in a mountain area [1]. In this context, there is a need to explore available round-wood stock to increase its...",
+              "doi": null,
+              "publication_date": "2020-11-30",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173741",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas is co-author on this non-proceedings conference paper in his publication list.",
+            "externalId": null,
+            "matchedOn": [
+              "author_name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "9f72fcb9-8901-431f-a518-f9abcf1a1192",
+              "title": "Structural design methodology in Integrally-Attached Timber Plate structures",
+              "authors": [
+                "Rezaei Rad, Aryan",
+                "Vestartas, Petras"
+              ],
+              "abstract": "The immediate application of research discoveries requires a global and exact understanding of the structure under consideration. To gain insight into the complex behavior of structures, numerical simulations are carried out in parallel to physical experiments and digital fabrication, computer-aided...",
+              "doi": "10.1201/9781003139713",
+              "publication_date": "2021",
+              "publication_type": "book part",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/180439",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas contributed to this book chapter in his publication list.",
+            "externalId": "10.1201/9781003139713",
+            "matchedOn": [
+              "author_name",
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "66567a68-d64b-4ea2-a8cf-6762424eae4e",
+              "title": "Parametric Workshop",
+              "authors": [
+                "Rogeau, Nicolas",
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": null,
+              "doi": null,
+              "publication_date": "2019-02-01",
+              "publication_type": "teaching material",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/167686",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas is a co-author on this teaching material entry in his Infoscience publications.",
+            "externalId": null,
+            "matchedOn": [
+              "author_name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "b8ad3cf5-f503-4b57-8d88-d015b65b77f1",
+              "title": "Robotically-Fabricated Nexorades from Whole Timber",
+              "authors": [
+                "Vestartas, Petras",
+                "Rezaei Rad, Aryan",
+                "Weinand, Yves"
+              ],
+              "abstract": null,
+              "doi": null,
+              "publication_date": "2021-09-15",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/180771",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas co-authored this conference paper, as listed in his Infoscience publications.",
+            "externalId": null,
+            "matchedOn": [
+              "author_name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "b59dfb53-ec07-43b3-bab8-e5003fe5b05b",
+              "title": "Design framework for the structural analysis of free-form timber plate structures using wood-wood connections",
+              "authors": [
+                "Nguyen, Anh Chi",
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "Geometrically complex timber plate structures using wood-wood connections are increasingly designed thanks to digital fabrication. Whereas their fabrication has been automated using computer-aided design programming, research focused on the development of automated numerical tools for their structur...",
+              "doi": "10.1016/j.autcon.2019.102948",
+              "publication_date": "2019-11-01",
+              "publication_type": "journal article",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/161077",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Petras Vestartas is a co-author on this journal article in his Infoscience publications.",
+            "externalId": "10.1016/j.autcon.2019.102948",
+            "matchedOn": [
+              "author_name",
+              "doi"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Person",
+        "name": "Martin Leitner-Ankerl",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "martinus"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Chris Elrod",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "chriselrod"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Jean-Michaël Celerier",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "jcelerier"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Huang Rui",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "vowstar"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Justus Ranvier",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "justusranvier"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Stuart",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "sb362"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Linux",
+      "MacOS",
+      "Windows"
+    ],
+    "programmingLanguage": [
+      "C++"
+    ],
+    "softwareRequirements": [
+      "CMake >= 3.14",
+      "C++17 compatible compiler"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": null,
+    "url": "https://github.com/petrasvestartas/unordered_dense",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/unordered_dense/blob/main/README.md",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/unordered_dense/blob/main/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/unordered_dense/blob/main/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Information engineering"
+    ],
+    "disciplineJustification": [
+      "The software is a C++ library implementing efficient data structures, which falls under information engineering."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "Dynatrace, Inc.",
+      "Open Transactions"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "Dynatrace, Inc.",
+        "hasRorId": "https://ror.org/05h5wn731",
+        "alternateNames": [
+          "Dynatrace"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.dynatrace.com/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Open Transactions",
+        "hasRorId": null,
+        "alternateNames": [
+          "OpenTransactions",
+          "Open Transactions Project"
+        ],
+        "organizationType": "Software Project",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://opentransactions.org/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": null,
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "The repository hosts source code for a software library."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.4,
+    "relatedToEPFLJustification": "1. Infoscience database record: Petras Vestartas appears in EPFL's Infoscience repository, indicating an EPFL affiliation (weight 0.4). No other EPFL-related evidence (no @epfl.ch email, no ORCID employment, no README or bio mention, no company field, no EPFL org membership, no location in Lausanne, no EPFL-related organizations). Cumulative confidence = 0.4, below 0.5 threshold, so repository is not related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "Martin Leitner-Ankerl",
+        "email": "martin.ankerl@gmail.com",
+        "commits": {
+          "total": 184,
+          "firstCommitDate": "2022-06-24",
+          "lastCommitDate": "2023-10-07"
+        }
+      },
+      {
+        "name": "Chris Elrod",
+        "email": "elrodc@gmail.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2023-01-17",
+          "lastCommitDate": "2023-01-22"
+        }
+      },
+      {
+        "name": "Martin Leitner-Ankerl",
+        "email": "martin.leitner-ankerl@dynatrace.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2022-07-13",
+          "lastCommitDate": "2022-07-13"
+        }
+      },
+      {
+        "name": "Justus Ranvier",
+        "email": "justus@opentransactions.org",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2022-12-11",
+          "lastCommitDate": "2023-08-27"
+        }
+      },
+      {
+        "name": "chriselrod",
+        "email": "elrodc@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2023-01-17",
+          "lastCommitDate": "2023-01-22"
+        }
+      },
+      {
+        "name": "Huang Rui",
+        "email": "vowstar@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2022-11-03",
+          "lastCommitDate": "2022-11-03"
+        }
+      },
+      {
+        "name": "Jean-Michaël Celerier",
+        "email": "jeanmichael.celerier@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2022-07-28",
+          "lastCommitDate": "2022-07-28"
+        }
+      },
+      {
+        "name": "Martin Ankerl",
+        "email": "martin.ankerl@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2022-06-24",
+          "lastCommitDate": "2023-10-07"
+        }
+      },
+      {
+        "name": "stuart",
+        "email": "sballantyne@pm.me",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2023-02-23",
+          "lastCommitDate": "2023-02-23"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://github.com/petrasvestartas/unordered_dense"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 38802,
+    "estimated_output_tokens": 4221,
+    "estimated_total_tokens": 43023,
+    "duration": 287.445728,
+    "start_time": "2025-11-04T18:12:29.286705",
+    "end_time": "2025-11-04T18:17:16.732433",
+    "status_code": 200
+  }
+}

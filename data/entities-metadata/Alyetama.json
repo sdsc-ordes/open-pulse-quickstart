@@ -1,0 +1,166 @@
+{
+  "link": "https://github.com/Alyetama",
+  "type": "user",
+  "parsedTimestamp": "2025-11-07T08:45:44.044839",
+  "output": {
+    "name": "Mohammad Alyetama",
+    "fullname": "Mohammad Alyetama",
+    "githubHandle": "Alyetama",
+    "githubUserMetadata": {
+      "login": "Alyetama",
+      "name": "Mohammad Alyetama",
+      "bio": null,
+      "email": null,
+      "location": null,
+      "company": null,
+      "blog": "",
+      "twitter_username": null,
+      "public_repos": 90,
+      "public_gists": 16,
+      "followers": 40,
+      "following": 21,
+      "created_at": "2019-10-08T21:20:33Z",
+      "updated_at": "2025-11-05T18:56:09Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56323389?v=4",
+      "html_url": "https://github.com/Alyetama",
+      "orcid": null,
+      "orcid_activities": null,
+      "organizations": [
+        "Strasser-Laboratory",
+        "bchaselab",
+        "Deep-FAMS",
+        "Biodiversity-CatTracker2",
+        "bird-feeder"
+      ],
+      "social_accounts": [],
+      "readme_url": "https://github.com/Alyetama/Alyetama/blob/main/README.md",
+      "readme_content": "![Metrics](/github-metrics.svg)\n"
+    },
+    "relatedToOrganization": [
+      "Swiss Data Science Center",
+      "EPFL",
+      "Strasser-Laboratory",
+      "bchaselab",
+      "Deep-FAMS",
+      "Biodiversity-CatTracker2",
+      "bird-feeder",
+      "Carlsberg Laboratory",
+      "bchaselab",
+      "Deepglint",
+      "Biodiversity Research Institute",
+      "Birds Canada",
+      {
+        "type": "Organization",
+        "legalName": "Carlsberg Laboratory",
+        "hasRorId": "https://ror.org/055hfb865",
+        "alternateNames": [
+          "Carlsberg Research Center"
+        ],
+        "organizationType": "Research Laboratory",
+        "parentOrganization": null,
+        "country": "Denmark",
+        "website": "http://www.carlsberglab.dk/Pages/default.aspx",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "bchaselab",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": null,
+        "parentOrganization": null,
+        "country": null,
+        "website": null,
+        "attributionConfidence": 0.1,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Deepglint",
+        "hasRorId": "https://ror.org/0348v8v06",
+        "alternateNames": [
+          "Beijing Deepglint Technology Co Ltd",
+          "Beijing Deepglint Technology Limited",
+          "Deep Glint"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "China",
+        "website": "https://www.deepglint.com/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Biodiversity Research Institute",
+        "hasRorId": "https://ror.org/00ddyzb69",
+        "alternateNames": [
+          "BRI"
+        ],
+        "organizationType": "Research Institute",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "http://www.briloon.org/center-for-loon-conservation-overview-page",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Birds Canada",
+        "hasRorId": "https://ror.org/04ezxnp02",
+        "alternateNames": [
+          "BSC",
+          "Bird Studies Canada",
+          "Long Point Bird Observatory"
+        ],
+        "organizationType": "Non-profit organization",
+        "parentOrganization": null,
+        "country": "Canada",
+        "website": "https://www.birdscanada.org/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "README states: “Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.”",
+      "README states affiliation with EPFL via Swiss Data Science Center.",
+      "User is a member of the GitHub organization 'Strasser-Laboratory'.",
+      "User is a member of the GitHub organization 'bchaselab'.",
+      "User is a member of the GitHub organization 'Deep-FAMS'.",
+      "User is a member of the GitHub organization 'Biodiversity-CatTracker2'.",
+      "User is a member of the GitHub organization 'bird-feeder'."
+    ],
+    "discipline": [
+      "Information engineering"
+    ],
+    "disciplineJustification": [
+      "Working as a Data Engineer at the Swiss Data Science Center involves data architectures, pipelines, and computational methods in information engineering."
+    ],
+    "position": [
+      "Data Engineer"
+    ],
+    "positionJustification": [
+      "README explicitly states: “Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.”"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "We found multiple independent pieces of evidence linking Mohammad Alyetama to EPFL:\n1. README mentions EPFL via the Swiss Data Science Center: “Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.” (BIO_MENTION: +0.25)\n2. Related organization list includes “Swiss Data Science Center,” which is a joint initiative of EPFL and ETH Zürich, indicating a strong EPFL connection. (RELATED_ORGANIZATION: +0.25)\n3. Related organization list includes “EPFL” directly. (RELATED_ORGANIZATION: +0.25)\n\nSumming these contributions yields a cumulative confidence of 0.75, exceeding the 0.5 threshold, so the user is related to EPFL.",
+    "relatedToEPFLConfidence": 0.75,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 9160,
+    "estimated_output_tokens": 1237,
+    "estimated_total_tokens": 10397,
+    "duration": 194.828496,
+    "start_time": "2025-11-07T08:42:29.216097",
+    "end_time": "2025-11-07T08:45:44.044593",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4968,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

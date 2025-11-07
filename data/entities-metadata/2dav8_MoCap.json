@@ -1,0 +1,280 @@
+{
+  "link": "https://github.com/2dav8/MoCap",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-07T10:06:10.642363",
+  "output": {
+    "name": "MoCap",
+    "applicationCategory": [
+      "Computer engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/2dav8/MoCap"
+    ],
+    "conditionsOfAccess": "Free to use",
+    "dateCreated": "2021-04-21",
+    "datePublished": "2022-05-18",
+    "description": "Framework and examples for routing motion capture data via OptiTrack NatNet and OSC to various platforms such as Blender, Cinema4D, openFrameworks, Processing, Python, and Unity.",
+    "featureList": [
+      "Read MoCap data from OptiTrack NatNet",
+      "Stream data via OSC",
+      "Integrations for Blender",
+      "Integrations for Cinema4D",
+      "Integrations for openFrameworks",
+      "Integrations for Processing",
+      "Integrations for Python",
+      "Integrations for Unity"
+    ],
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/MIT.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "David Rebiffé",
+        "email": null,
+        "orcid": null,
+        "gitAuthorIds": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Maintainer and primary developer",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "David Jonas",
+        "email": null,
+        "orcid": null,
+        "gitAuthorIds": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Original author",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Arnaud Loonstra",
+        "email": null,
+        "orcid": null,
+        "gitAuthorIds": null,
+        "affiliations": [
+          "CLEVER°FRANKE"
+        ],
+        "currentAffiliation": "CLEVER°FRANKE",
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Mark Korput",
+        "email": null,
+        "orcid": null,
+        "gitAuthorIds": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "programmingLanguage": [
+      "Python",
+      "C++",
+      "Java",
+      "C#"
+    ],
+    "softwareRequirements": [
+      "OptiTrack NatNet SDK",
+      "Blender",
+      "openFrameworks",
+      "Processing",
+      "Unity",
+      "Python 3.x"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": [],
+    "url": "https://github.com/2dav8/MoCap",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/2dav8/MoCap/blob/master/README.md",
+    "hasExecutableInstructions": "https://github.com/2dav8/MoCap/blob/master/README.md",
+    "hasExecutableNotebook": null,
+    "readme": "https://github.com/2dav8/MoCap/blob/master/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "Framework for motion capture data processing and integration across platforms, relevant to computer engineering"
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [
+      "Clever Advertising (Portugal)",
+      "Z25",
+      "Sphaero",
+      {
+        "type": "Organization",
+        "legalName": "Clever Advertising (Portugal)",
+        "hasRorId": "https://ror.org/02k4kfh71",
+        "alternateNames": [
+          "CLEVER°FRANKE"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Portugal",
+        "website": "https://cleveradvertising.com/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Z25",
+        "hasRorId": null,
+        "alternateNames": [
+          "z25.org"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://z25.org/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Sphaero",
+        "hasRorId": null,
+        "alternateNames": [
+          "sphaero.org"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://sphaero.org/",
+        "attributionConfidence": 0.75,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Contributor Arnaud Loonstra is affiliated with CLEVER°FRANKE"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains source code, examples, and libraries"
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.0,
+    "relatedToEPFLJustification": "Exhaustive review of all available data for the MoCap repository found no evidence linking it to EPFL. Specifically:\n1. No authors or committers have an @epfl.ch email domain.\n2. No ORCID records or affiliations mention EPFL or École Polytechnique Fédérale de Lausanne.\n3. The repository’s README and description make no mention of EPFL, SDSC, or any EPFL labs or departments.\n4. Related organizations (Clever Advertising, Z25, Sphaero) have no ties to EPFL.\n5. Git commit metadata shows only email domains from Gmail, z25.org, and sphaero.org—all non-EPFL.\n6. No Infoscience entities or ROR records link to EPFL.\nGiven the absence of any qualifying evidence, the cumulative confidence remains 0.0, which is below the 0.5 threshold, so relatedToEPFL is false.",
+    "gitAuthors": [
+      {
+        "name": "Mark van de Korput",
+        "email": "dr.theman@gmail.com",
+        "commits": {
+          "total": 118,
+          "firstCommitDate": "2015-12-10",
+          "lastCommitDate": "2016-03-31"
+        }
+      },
+      {
+        "name": "David Jonas",
+        "email": "davidjonasdesign@gmail.com",
+        "commits": {
+          "total": 19,
+          "firstCommitDate": "2015-10-15",
+          "lastCommitDate": "2021-04-20"
+        }
+      },
+      {
+        "name": "Mark",
+        "email": "dr.theman@gmail.com",
+        "commits": {
+          "total": 17,
+          "firstCommitDate": "2015-12-10",
+          "lastCommitDate": "2016-03-31"
+        }
+      },
+      {
+        "name": "David Jonas",
+        "email": "davidjonas@DavidJonas.local",
+        "commits": {
+          "total": 15,
+          "firstCommitDate": "2015-12-08",
+          "lastCommitDate": "2015-12-15"
+        }
+      },
+      {
+        "name": "ikbenmacje",
+        "email": "machiel@z25.org",
+        "commits": {
+          "total": 7,
+          "firstCommitDate": "2018-03-27",
+          "lastCommitDate": "2018-03-29"
+        }
+      },
+      {
+        "name": "Arnaud Loonstra",
+        "email": "arnaud@sphaero.org",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2018-03-28",
+          "lastCommitDate": "2018-03-29"
+        }
+      },
+      {
+        "name": "Machiel Veltkamp",
+        "email": "machiel@z25.org",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2018-03-27",
+          "lastCommitDate": "2018-03-29"
+        }
+      },
+      {
+        "name": "Laptopuser",
+        "email": "Laptopuser@MAC7457.local",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2016-03-14",
+          "lastCommitDate": "2016-03-14"
+        }
+      }
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 33360,
+    "estimated_output_tokens": 2135,
+    "estimated_total_tokens": 35495,
+    "duration": 342.624266,
+    "start_time": "2025-11-07T10:00:28.017870",
+    "end_time": "2025-11-07T10:06:10.642136",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4914,
+    "github_rate_reset": "2025-11-07T10:58:02"
+  }
+}

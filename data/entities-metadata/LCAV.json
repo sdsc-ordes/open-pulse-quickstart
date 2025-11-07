@@ -1,0 +1,468 @@
+{
+  "link": "https://github.com/LCAV",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T09:13:28.066510",
+  "output": {
+    "name": "Audiovisual Communications Laboratory",
+    "organizationType": "Academic Research Group",
+    "githubOrganizationMetadata": {
+      "login": "LCAV",
+      "name": "Audiovisual Communications Laboratory",
+      "description": "The mission of the Audiovisual Communications laboratory is to perform basic and applied research in signal processing for communications.",
+      "email": null,
+      "location": "I&C, EPFL, Switzerland",
+      "company": null,
+      "blog": "lcav.epfl.ch",
+      "twitter_username": null,
+      "public_repos": 41,
+      "public_gists": 0,
+      "followers": 73,
+      "following": 0,
+      "created_at": "2013-09-06T09:05:49Z",
+      "updated_at": "2017-08-15T11:35:25Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5398462?v=4",
+      "html_url": "https://github.com/LCAV",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjUzOTg0NjI=",
+      "url": "https://api.github.com/orgs/LCAV",
+      "repos_url": "https://api.github.com/orgs/LCAV/repos",
+      "events_url": "https://api.github.com/orgs/LCAV/events",
+      "hooks_url": "https://api.github.com/orgs/LCAV/hooks",
+      "issues_url": "https://api.github.com/orgs/LCAV/issues",
+      "members_url": "https://api.github.com/orgs/LCAV/members{/member}",
+      "public_members": [
+        "ebezzam",
+        "SepandKashani"
+      ],
+      "repositories": [
+        "pyroomacoustics",
+        "audioROS",
+        "COM202-old",
+        "COM202",
+        "audio-localization-dataset",
+        "FRIDA",
+        "LenslessPiCam",
+        "linvpy",
+        "dsp-labs",
+        "MP3Lab",
+        "Pyramic",
+        "AcousticRakeReceiver",
+        "DSPNumex",
+        "SignalsOfTheDay",
+        "edmbox",
+        "crazyflie-audio",
+        "lippmann-photography",
+        "SparseFHT",
+        "sketchrls",
+        "AcousticRobot",
+        "PyTurntableBK9640",
+        "CompactSix",
+        "localization-icassp2018",
+        "continuous-localization",
+        "MFSP_notebooks",
+        "easy-dsp",
+        "lcav25",
+        "pylocus",
+        "crazyflie-firmware",
+        "TimeDomainAcousticRakeReceiver",
+        "surface-reconstruction",
+        "RegularizedTauEstimator",
+        "fingerings",
+        "lcav-base",
+        "mooc-hwlab",
+        "Lauzhack2020",
+        "FukushimaInverse-ICASSP2013",
+        "templates",
+        "mkl_fft",
+        "KrylovFRITools",
+        "SphericalFRI"
+      ],
+      "teams": [],
+      "readme_url": null,
+      "readme_content": null,
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "The Audiovisual Communications Laboratory (LCAV) is a university-affiliated research laboratory housed in the Institute of Communication Systems (I&C) at EPFL, with a stated mission of basic and applied research, multiple publications, and an EPFL lab listing.",
+    "description": "The mission of the Audiovisual Communications laboratory is to perform basic and applied research in signal processing for communications.",
+    "relatedToOrganization": [
+      "École Polytechnique Fédérale de Lausanne",
+      "Audiovisual Communications Laboratory",
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": null,
+        "alternateNames": [
+          "EPFL",
+          "Ecole Polytechnique Federale de Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 0.95,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Audiovisual Communications Laboratory",
+        "hasRorId": null,
+        "alternateNames": [
+          "LCAV"
+        ],
+        "organizationType": "Research Laboratory",
+        "parentOrganization": "École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://lcav.epfl.ch/",
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "name": "Audiovisual Communications Laboratory",
+              "uuid": "058acbbf-0b82-4681-9e2d-0c482426fade",
+              "partOf": "IINFCOM",
+              "url": "https://infoscience.epfl.ch/entities/orgunit/058acbbf-0b82-4681-9e2d-0c482426fade"
+            },
+            "confidence": 0.9,
+            "justification": "Official EPFL organizational unit found in Infoscience with matching name and GitHub metadata",
+            "matchedOn": []
+          }
+        ]
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Electrical engineering",
+      "Computer engineering",
+      "Information engineering",
+      "Systems science and engineering"
+    ],
+    "disciplineJustification": [
+      "The LCAV mission is “signal processing for communications,” a core area of Electrical engineering.",
+      "Repositories such as pyroomacoustics and dsp-labs implement signal algorithms, tying to Computer engineering.",
+      "The focus on communications systems and data processing aligns with Information engineering.",
+      "Complex audio‐visual systems research and hardware prototyping involve system‐level engineering, i.e. Systems science and engineering."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "1. Parent Organization (0.6): The Audiovisual Communications Laboratory is listed with parent organization “École Polytechnique Fédérale de Lausanne” in relatedToOrganization metadata, indicating direct institutional linkage to EPFL.\n2. Website Domain (0.5): The GitHub 'blog' field is “lcav.epfl.ch,” an EPFL subdomain, demonstrating an official EPFL web presence.\n3. Location Field (0.2): The GitHub location is “I&C, EPFL, Switzerland,” explicitly naming EPFL in its geographical affiliation.\n4. Infoscience Entity (0.4): The lab appears as an official orgunit in EPFL’s Infoscience repository, confirming its status as an EPFL research laboratory.\nSumming these weights yields 1.7, capped at 1.0, which exceeds the 0.5 threshold for a definitive EPFL relationship.",
+    "relatedToEPFLConfidence": 1.0,
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "39cb7262-54b5-4dae-aabe-8c94e941ef04",
+          "name": "Kashani, Sepand",
+          "email": null,
+          "orcid": null,
+          "affiliation": "LCAV",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/39cb7262-54b5-4dae-aabe-8c94e941ef04"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match on full name and affiliation from lab profile found via search_infoscience_authors_tool",
+        "matchedOn": [
+          "name",
+          "affiliation"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "e9947d1d-5415-4933-9116-cc27358d0153",
+          "title": "Optimization Notes",
+          "authors": [
+            "Kashani, Sepand"
+          ],
+          "abstract": "While optimization is well studied for real-valued functions $f : \\mathbb{R}^{N} \\to \\mathbb{R}$, many physical problems are (partially) specified in terms of complex-valued functions $f_{c} : \\mathbb{C}^{N} \\to \\mathbb{C}^{M}$. Current optimization packages have limited support for such functions.",
+          "doi": null,
+          "publication_date": "2019-12-16",
+          "publication_type": "report",
+          "url": "https://infoscience.epfl.ch/entities/publication/e9947d1d-5415-4933-9116-cc27358d0153",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "First-order Methods",
+            "Algorithmic Differentiation"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Authored by Sepand Kashani, retrieved from his publications list",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "bac10894-8241-47d7-a277-e2cf8ca254dc",
+          "title": "Towards Real-Time High-Resolution Interferometric Imaging with Bluebild",
+          "authors": [
+            "Kashani, Sepand"
+          ],
+          "abstract": "Rooted in radio-astronomy, the Bluebild algorithm is a paradigm-changing imager to estimate the sky intensity function. However, current imaging pipelines in radio-astronomy are highly-tailored to the CLEAN-family of imagers, and hence lack the flexibility required to properly experiment with Bluebi...",
+          "doi": null,
+          "publication_date": "2017-08-01",
+          "publication_type": "master thesis",
+          "url": "https://infoscience.epfl.ch/entities/publication/bac10894-8241-47d7-a277-e2cf8ca254dc",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Radio-interferometry",
+            "LCAV-MSP",
+            "LCAV-SSP"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Authored by Sepand Kashani from his EPFL master thesis list",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "9bfd653d-761b-461b-a269-fac735ae250e",
+          "title": "Computational Imaging: a Multi-Facet Perspective",
+          "authors": [
+            "Kashani, Sepand"
+          ],
+          "abstract": "Computational Imaging (CI) is the field concerned with reconstructing images of some quantity of interest from a finite number of measurements. It is pervasive in science and engineering problems by enabling the reconstruction of images from a variety of measurements that are often indirect or non-t...",
+          "doi": "10.5075/epfl-thesis-9748",
+          "publication_date": "2025",
+          "publication_type": "doctoral thesis",
+          "url": "https://infoscience.epfl.ch/entities/publication/9bfd653d-761b-461b-a269-fac735ae250e",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Computational Imaging",
+            "NUFFT operators",
+            "XRT operators"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Doctoral thesis by Sepand Kashani identified via his author publications",
+        "matchedOn": [
+          "doi",
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "36439c33-8d31-4f7b-b424-4ca7f84b3f0a",
+          "name": "Bezzam, Eric",
+          "email": null,
+          "orcid": "0000-0003-4837-5031",
+          "affiliation": null,
+          "profile_url": "https://infoscience.epfl.ch/entities/person/36439c33-8d31-4f7b-b424-4ca7f84b3f0a"
+        },
+        "confidence": 0.75,
+        "justification": "Found author profile matching GitHub handle 'ebezzam' as Eric Bezzam",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "2b224137-b455-41d2-8cae-a616d746f786",
+          "title": "Sampling at the rate of innovation for ultrasound imaging and localization",
+          "authors": [
+            "Bezzam, Eric"
+          ],
+          "abstract": null,
+          "doi": null,
+          "publication_date": "2018",
+          "publication_type": "master thesis",
+          "url": "https://infoscience.epfl.ch/entities/publication/2b224137-b455-41d2-8cae-a616d746f786",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Ultrasound imaging",
+            "Localization",
+            "Plane wave imaging",
+            "Finite rate of innovation",
+            "FRI"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Master thesis authored by Eric Bezzam found in his publication list",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "7eb422eb-36c7-48d7-926d-1e8eefa2ee6a",
+          "title": "Robust, Generalizable, and Reproducible Computational Imaging: A Lensless Perspective",
+          "authors": [
+            "Bezzam, Eric"
+          ],
+          "abstract": "Computational imaging combines innovative camera designs with physics-informed algorithms to enable new sensing capabilities, modalities, and applications. Such cameras can relax optical design constraints and enable encoding of higher-dimensional data.",
+          "doi": "10.5075/epfl-thesis-11016",
+          "publication_date": "2025",
+          "publication_type": "doctoral thesis",
+          "url": "https://infoscience.epfl.ch/entities/publication/7eb422eb-36c7-48d7-926d-1e8eefa2ee6a",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Computational Imaging",
+            "Physics-Informed Machine Learning",
+            "Robustness",
+            "Generalizability",
+            "Optical Encryption"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Doctoral thesis by Eric Bezzam retrieved from his author publications",
+        "matchedOn": [
+          "doi",
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "007deab2-1573-42e3-8849-d395833a8b9a",
+          "title": "Generalizing Learning-Based Lensless Image Reconstruction to Mask Pattern Changes",
+          "authors": [
+            "Bezzam, Eric",
+            "Vetterli, Martin"
+          ],
+          "abstract": "Lensless imaging seeks to replace/remove the lens in a conventional imaging system. The earliest cameras were in fact lensless, relying on long exposure times to form images on the other end of a small aperture in a darkened room/container (camera obscura). The introduction of a lens allowed for mor...",
+          "doi": "10.1364/COSI.2024.CF1A.3",
+          "publication_date": "2024",
+          "publication_type": "conference paper",
+          "url": "https://infoscience.epfl.ch/entities/publication/007deab2-1573-42e3-8849-d395833a8b9a",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "lensless imaging",
+            "mask design",
+            "deep learning"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Conference paper co-authored by Eric Bezzam found in his publication list",
+        "matchedOn": [
+          "doi",
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "orgunit",
+        "entity": {
+          "type": "InfoscienceLab",
+          "uuid": "058acbbf-0b82-4681-9e2d-0c482426fade",
+          "name": "Audiovisual Communications Laboratory",
+          "description": null,
+          "url": "https://infoscience.epfl.ch/entities/orgunit/058acbbf-0b82-4681-9e2d-0c482426fade",
+          "parent_organization": "IINFCOM",
+          "website": null,
+          "research_areas": null
+        },
+        "confidence": 0.9,
+        "justification": "Lab 'LCAV' found as 'Audiovisual Communications Laboratory' matching input name",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "94440240-a775-43a3-9806-baeb433da021",
+          "title": "LCAV-31: a dataset for light field object recognition",
+          "authors": [
+            "Ghasemi, Alireza",
+            "Afonso, Nelly Julie",
+            "Vetterli, Martin"
+          ],
+          "abstract": "We present LCAV-31, a multi-view object recognition dataset designed specifically for benchmarking light field image analysis tasks. The principal distinctive factor of LCAV-31 compared to similar datasets is its design goals and availability of novel visual information for more accurate recognition...",
+          "doi": "10://10.1117/12.2041097",
+          "publication_date": "2014",
+          "publication_type": "conference paper",
+          "url": "https://infoscience.epfl.ch/entities/publication/94440240-a775-43a3-9806-baeb433da021",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Plenoptic Function",
+            "Light Field Imaging",
+            "Object Recognition",
+            "Computer Vision Benchmarking"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Title contains 'LCAV', directly indicating the lab project",
+        "matchedOn": [
+          "title"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "39bea52d-3bc0-41f7-9e93-625ec4e8d19e",
+          "title": "Development of a hyperspectral camera",
+          "authors": [
+            "Latty, Arnaud"
+          ],
+          "abstract": "The audiovisual communications laboratory (lcav.epfl.ch) is looking for students for the development of an interferential hyperspectral camera, as part of a semester project. It involves building, testing and improving, in collaboration with the scientific and technical team, a portable prototype ba...",
+          "doi": null,
+          "publication_date": "2018",
+          "publication_type": "student work",
+          "url": "https://infoscience.epfl.ch/entities/publication/39bea52d-3bc0-41f7-9e93-625ec4e8d19e",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "LCAVPP",
+            "BS_SEMESTER",
+            "MS_SEMESTER"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Abstract explicitly references 'audiovisual communications laboratory (lcav.epfl.ch)'",
+        "matchedOn": [
+          "abstract"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 10615,
+    "estimated_output_tokens": 3283,
+    "estimated_total_tokens": 13898,
+    "duration": 329.474018,
+    "start_time": "2025-11-07T09:07:58.592277",
+    "end_time": "2025-11-07T09:13:28.066295",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4846,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

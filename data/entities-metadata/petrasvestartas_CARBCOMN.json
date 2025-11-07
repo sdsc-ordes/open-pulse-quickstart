@@ -1,0 +1,510 @@
+{
+  "link": "https://github.com/petrasvestartas/CARBCOMN",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:54:36.886700",
+  "output": {
+    "name": "CARBCOMN",
+    "applicationCategory": [
+      "Structural engineering",
+      "Computational geometry",
+      "Building information modeling",
+      "Finite element analysis"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/CARBCOMN"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2025-01-22",
+    "datePublished": "2025-01-22",
+    "description": "CARBCOMN computational intro",
+    "featureList": [
+      "Geometry creation and conversion",
+      "Rhino integration",
+      "Finite element analysis workflows",
+      "Masonry and grid analysis",
+      "IFC import/export and property set manipulation",
+      "Interactive visualization"
+    ],
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": "https://github.com/BlockResearchGroup/CARBCOMN",
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/NOASSERTION",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Vestartas, Petras",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Exact author profile found via Infoscience author search for \"Petras Vestartas\"",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "uuid"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using lo...",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Wood-wood Connections",
+                "Joinery",
+                "Robotic Fabrication",
+                "Raw-Timber",
+                "Assembly"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "8031bf95-ef35-4bcc-976a-129bd9daa3ee",
+              "title": "Robotic Timber Construction",
+              "authors": [
+                "Rogeau, Nicolas",
+                "Vestartas, Petras"
+              ],
+              "abstract": null,
+              "doi": null,
+              "publication_date": "2022-11-05",
+              "publication_type": "conference poster",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/192128",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": null,
+            "matchedOn": [
+              "name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries. While loc...",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Laser Scanning",
+                "Industrial Robot",
+                "Robotic Fabrication",
+                "Unprocessed Timber",
+                "Raw-wood"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "6ec1dd73-6e72-4721-b23b-9f6ea078f95a",
+              "title": "Joinery Solver for Whole Timber Structures",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents a digital joinery generation method for whole-timber structures using wood-wood connections. The research is based on a collaboration with a local timber company located in a mountain area [1]. In this context, there is a need to explore available round-wood stock to increase its...",
+              "doi": null,
+              "publication_date": "2020-11-30",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173741",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": null,
+            "matchedOn": [
+              "name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "9f72fcb9-8901-431f-a518-f9abcf1a1192",
+              "title": "Structural design methodology in Integrally-Attached Timber Plate structures",
+              "authors": [
+                "Rezaei Rad, Aryan",
+                "Vestartas, Petras"
+              ],
+              "abstract": "The immediate application of research discoveries requires a global and exact understanding of the structure under consideration. To gain insight into the complex behavior of structures, numerical simulations are carried out in parallel to physical experiments and digital fabrication, computer-aided...",
+              "doi": "10.1201/9781003139713",
+              "publication_date": "2021",
+              "publication_type": "book chapter",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/180439",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": "10.1201/9781003139713",
+            "matchedOn": [
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "66567a68-d64b-4ea2-a8cf-6762424eae4e",
+              "title": "Parametric Workshop",
+              "authors": [
+                "Rogeau, Nicolas",
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This bi-annual workshop is an introduction to parametric design for Master 1 students following Studio Weinand. The following topics are being discussed: impact of digital technologies on the design process, fabrication and assembly constraints, collaborative workflows, geometry fundamentals, constr...",
+              "doi": null,
+              "publication_date": "2019-02-01",
+              "publication_type": "teaching material",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/167686",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": null,
+            "matchedOn": [
+              "name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "b8ad3cf5-f503-4b57-8d88-d015b65b77f1",
+              "title": "Robotically-Fabricated Nexorades from Whole Timber",
+              "authors": [
+                "Vestartas, Petras",
+                "Rezaei Rad, Aryan",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper introduces the conceptual design of sustainable timber structures using raw wood. It pre-sents a workflow for systematically generating Nexorades using a tiling method for multi-valence quad subdivided surfaces. The system is designed based on an integrated framework combining re-sources ...",
+              "doi": null,
+              "publication_date": "2021-09-15",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/180771",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": null,
+            "matchedOn": [
+              "name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "b59dfb53-ec07-43b3-bab8-e5003fe5b05b",
+              "title": "Design framework for the structural analysis of free-form timber plate structures using wood-wood connections",
+              "authors": [
+                "Nguyen, Anh Chi",
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "Geometrically complex timber plate structures using wood-wood connections are increasingly designed thanks to digital fabrication. Whereas their fabrication has been automated using computer-aided design programming, research focused on the development of automated numerical tools for their structur...",
+              "doi": "10.1016/j.autcon.2019.102948",
+              "publication_date": "2019-11-01",
+              "publication_type": "journal article",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/161077",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Timber plate structures",
+                "Wood-wood connections",
+                "Digital fabrication",
+                "Finite element method",
+                "Semi-rigidity"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Found in Petras Vestartas's publication list via Infoscience get_author_publications",
+            "externalId": "10.1016/j.autcon.2019.102948",
+            "matchedOn": [
+              "doi"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Person",
+        "name": "Tom Van Mele",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [
+          "compas-dev"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Alessandro Dell'Endice",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Li",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ],
+    "softwareRequirements": [
+      "Python (>=3.8)",
+      "COMPAS framework and related packages (compas, compas_dr, compas_fd, compas_fea2, compas_ifc, compas_masonry, compas_grid, compas_rhino, compas_viewer, compas_occ)",
+      "NumPy",
+      "Rhino"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/petrasvestartas/CARBCOMN",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/CARBCOMN#readme",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/CARBCOMN/blob/master/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/CARBCOMN/blob/master/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Architecture",
+      "Civil engineering"
+    ],
+    "disciplineJustification": [
+      "The software provides computational workflows for architectural geometry modeling and structural analysis in civil engineering."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "COMPAS Developer Community",
+      "Block Research Group",
+      "ETH Zurich"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "COMPAS Developer Community",
+        "hasRorId": null,
+        "alternateNames": [
+          "compas-dev"
+        ],
+        "organizationType": "Community",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://github.com/compas-dev",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Block Research Group",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Research Group",
+        "parentOrganization": "ETH Zurich",
+        "country": "Switzerland",
+        "website": "https://block.arch.ethz.ch/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "ETH Zurich",
+        "hasRorId": "https://ror.org/01bjkx676",
+        "alternateNames": [
+          "ETHZ",
+          "Swiss Federal Institute of Technology in Zurich"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://ethz.ch/",
+        "attributionConfidence": 0.4,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Contributor Tom Van Mele is affiliated with compas-dev",
+      "Software is based on BlockResearchGroup/CARBCOMN repository"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "The repository contains source code for computational modeling workflows and tutorials."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.4,
+    "relatedToEPFLJustification": "1. Infoscience profile for Petras Vestartas found in EPFL Infoscience repository (0.4).\n\nTotal confidence = 0.4 (below threshold 0.5) → relatedToEPFL = false.",
+    "gitAuthors": [
+      {
+        "name": "tomvanmele",
+        "email": "tom.v.mele@gmail.com",
+        "commits": {
+          "total": 13,
+          "firstCommitDate": "2024-12-19",
+          "lastCommitDate": "2025-01-22"
+        }
+      },
+      {
+        "name": "Alessandro Dell'Endice",
+        "email": "34266891+adellendice@users.noreply.github.com",
+        "commits": {
+          "total": 6,
+          "firstCommitDate": "2025-01-20",
+          "lastCommitDate": "2025-01-21"
+        }
+      },
+      {
+        "name": "Li",
+        "email": "leochen1990@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2025-01-22",
+          "lastCommitDate": "2025-01-22"
+        }
+      },
+      {
+        "name": "Li Chen",
+        "email": "leochen1990@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2025-01-22",
+          "lastCommitDate": "2025-01-22"
+        }
+      },
+      {
+        "name": "petras",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2025-01-22",
+          "lastCommitDate": "2025-01-22"
+        }
+      }
+    ],
+    "webpagesToCheck": null,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 35351,
+    "estimated_output_tokens": 4024,
+    "estimated_total_tokens": 39375,
+    "duration": 285.812876,
+    "start_time": "2025-11-04T17:49:51.073608",
+    "end_time": "2025-11-04T17:54:36.886484",
+    "status_code": 200
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "link": "https://github.com/A-Baji",
+  "type": "user",
+  "parsedTimestamp": "2025-11-07T08:42:37.506170",
+  "output": {
+    "name": "Adib Baji",
+    "fullname": "Adib Baji",
+    "githubHandle": "A-Baji",
+    "githubUserMetadata": {
+      "login": "A-Baji",
+      "name": "Adib Baji",
+      "bio": null,
+      "email": null,
+      "location": null,
+      "company": "@datajoint ",
+      "blog": "",
+      "twitter_username": null,
+      "public_repos": 46,
+      "public_gists": 0,
+      "followers": 0,
+      "following": 0,
+      "created_at": "2020-03-09T20:24:52Z",
+      "updated_at": "2025-06-28T20:59:25Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61991709?v=4",
+      "html_url": "https://github.com/A-Baji",
+      "orcid": null,
+      "orcid_activities": null,
+      "organizations": [
+        "Placeholder-LMS"
+      ],
+      "social_accounts": [],
+      "readme_url": null,
+      "readme_content": null
+    },
+    "relatedToOrganization": [
+      "Placeholder-LMS",
+      "London Mathematical Society",
+      {
+        "type": "Organization",
+        "legalName": "London Mathematical Society",
+        "hasRorId": "https://ror.org/01r1e1h27",
+        "alternateNames": [
+          "LMS"
+        ],
+        "organizationType": "scholarly society",
+        "parentOrganization": null,
+        "country": "United Kingdom",
+        "website": "http://www.lms.ac.uk/",
+        "attributionConfidence": 0.2,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [],
+    "disciplineJustification": [],
+    "position": [],
+    "positionJustification": [],
+    "relatedToEPFL": false,
+    "relatedToEPFLJustification": "No evidence of EPFL affiliation was found. The GitHub profile has no EPFL-related email domain, bio mention, company affiliation, location in Lausanne, ORCID records, organization memberships, README content, or related organizations indicating a link to EPFL.",
+    "relatedToEPFLConfidence": 0.0,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 6979,
+    "estimated_output_tokens": 631,
+    "estimated_total_tokens": 7610,
+    "duration": 62.765264,
+    "start_time": "2025-11-07T08:41:34.740674",
+    "end_time": "2025-11-07T08:42:37.505938",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4984,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

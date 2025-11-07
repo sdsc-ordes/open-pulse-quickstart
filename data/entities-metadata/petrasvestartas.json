@@ -1,0 +1,353 @@
+{
+  "link": "https://github.com/petrasvestartas",
+  "type": "user",
+  "parsedTimestamp": "2025-11-04T17:18:07.127627",
+  "output": {
+    "name": "Petras Vestartas",
+    "fullname": "Petras Vestartas",
+    "githubHandle": "petrasvestartas",
+    "githubUserMetadata": {
+      "login": "petrasvestartas",
+      "name": "Petras Vestartas",
+      "bio": null,
+      "email": "petrasvestartas@gmail.com",
+      "location": null,
+      "company": null,
+      "blog": "www.vestartas.com",
+      "twitter_username": null,
+      "public_repos": 82,
+      "public_gists": 10,
+      "followers": 149,
+      "following": 200,
+      "created_at": "2016-03-22T18:33:41Z",
+      "updated_at": "2025-10-30T16:42:27Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18013985?v=4",
+      "html_url": "https://github.com/petrasvestartas",
+      "orcid": null,
+      "orcid_activities": null,
+      "organizations": [],
+      "social_accounts": [],
+      "readme_url": "https://github.com/petrasvestartas/petrasvestartas/blob/main/README.md",
+      "readme_content": "### Hi there, I'm [Petras Vestartas](https://petrasvestartas.com) 👋\n\n\n\n<!--\n**petrasvestartas/petrasvestartas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- 🔭 I’m currently working on ...\n- 🌱 I’m currently learning ...\n- 👯 I’m looking to collaborate on ...\n- 🤔 I’m looking for help with ...\n- 💬 Ask me about ...\n- 📫 How to reach me: ...\n- 😄 Pronouns: ...\n- ⚡ Fun fact: ...\n-->\n\n### Github stats\n\n![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrasvestartas&theme=default) \n\n![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrasvestartas&theme=default) \n![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrasvestartas&theme=default) \n![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrasvestartas&theme=default) \n![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petrasvestartas&theme=default&utcOffset=8) \n"
+    },
+    "relatedToOrganization": [
+      "Swiss Data Science Center",
+      "EPFL"
+    ],
+    "relatedToOrganizationsROR": [],
+    "relatedToOrganizationJustification": [
+      "Explicitly stated in README: 'Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.'",
+      "Affiliated through Swiss Data Science Center based at EPFL, as noted in the README sentence."
+    ],
+    "discipline": [
+      "Information engineering",
+      "Statistics"
+    ],
+    "disciplineJustification": [
+      "Data Engineer role involves data infrastructure and processing, aligning with Information engineering.",
+      "Data engineering work at a data science center requires application of statistical methods, aligning with Statistics."
+    ],
+    "position": [
+      "Data Engineer"
+    ],
+    "positionJustification": [
+      "Explicitly stated in README: 'Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.'"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "1) Infoscience affiliation: A direct match on Infoscience shows ‘Vestartas, Petras’ with affiliation “Chair of Timber Construction, EPFL”, indicating an active EPFL appointment. Contribution: 0.4.\n2) README mention of EPFL/SDSC: The user’s profile README explicitly states “Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL”, confirming current employment in an EPFL-affiliated center. Contribution: 0.25.\n3) Related organization SDSC: The user is linked to the Swiss Data Science Center, a joint initiative by EPFL and ETH Zürich, reinforcing the EPFL connection. Contribution: 0.25.\n\nTotal confidence = 0.4 + 0.25 + 0.25 = 0.9 (capped at 1.0). Since 0.9 >= 0.5, the user is related to EPFL.",
+    "relatedToEPFLConfidence": 0.9,
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+          "name": "Vestartas, Petras",
+          "email": null,
+          "orcid": "0000-0002-4428-1110",
+          "affiliation": "Chair of Timber Construction, EPFL",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+          "publication_count": 19,
+          "research_interests": []
+        },
+        "confidence": 0.95,
+        "justification": "Direct match on full name returned by search_infoscience_authors_tool. ORCID matches profile. Affiliation inferred from publications and lab.",
+        "externalId": "0000-0002-4428-1110",
+        "matchedOn": [
+          "name",
+          "orcid"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "8031bf95-ef35-4bcc-976a-129bd9daa3ee",
+          "title": "Robotic Timber Construction",
+          "authors": [
+            "Rogeau, Nicolas",
+            "Vestartas, Petras"
+          ],
+          "abstract": null,
+          "doi": null,
+          "publication_date": "2022-11-05",
+          "publication_type": "conference poster",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/192128",
+          "repository_url": null,
+          "lab": null,
+          "subjects": []
+        },
+        "confidence": 0.9,
+        "justification": "Listed under Petras Vestartas’s publications on Infoscience.",
+        "externalId": null,
+        "matchedOn": [
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+          "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+          "authors": [
+            "Vestartas, Petras",
+            "Weinand, Yves"
+          ],
+          "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries.",
+          "doi": "10.22260/ISARC2020/0107",
+          "publication_date": "2020-10-27",
+          "publication_type": "conference paper",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Laser Scanning",
+            "Industrial Robot",
+            "Robotic Fabrication",
+            "Unprocessed Timber",
+            "Raw-wood"
+          ]
+        },
+        "confidence": 0.92,
+        "justification": "Conference paper by Vestartas on Infoscience with DOI.",
+        "externalId": "10.22260/ISARC2020/0107",
+        "matchedOn": [
+          "doi",
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+          "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+          "authors": [
+            "Vestartas, Petras"
+          ],
+          "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using local resources.",
+          "doi": "10.5075/epfl-thesis-8928",
+          "publication_date": "2021",
+          "publication_type": "doctoral thesis",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Wood-wood Connections",
+            "Joinery",
+            "Robotic Fabrication",
+            "Raw-Timber",
+            "Assembly"
+          ]
+        },
+        "confidence": 0.95,
+        "justification": "Doctoral thesis authored solely by Vestartas with DOI from Infoscience.",
+        "externalId": "10.5075/epfl-thesis-8928",
+        "matchedOn": [
+          "doi",
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "6ec1dd73-6e72-4721-b23b-9f6ea078f95a",
+          "title": "Joinery Solver for Whole Timber Structures",
+          "authors": [
+            "Vestartas, Petras",
+            "Weinand, Yves"
+          ],
+          "abstract": "This paper presents a digital joinery generation method for whole-timber structures using wood-wood connections. The research is based on a collaboration with a local timber company located in a mountain area.",
+          "doi": null,
+          "publication_date": "2020-11-30",
+          "publication_type": "conference paper",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/173741",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Whole-timber",
+            "Round-wood",
+            "Joints",
+            "Connections",
+            "Robotic Fabrication"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Conference paper listed under Vestartas’s Infoscience publications.",
+        "externalId": null,
+        "matchedOn": [
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "9f72fcb9-8901-431f-a518-f9abcf1a1192",
+          "title": "Structural design methodology in Integrally-Attached Timber Plate structures",
+          "authors": [
+            "Rezaei Rad, Aryan",
+            "Vestartas, Petras"
+          ],
+          "abstract": "The immediate application of research discoveries requires a global and exact understanding of the structure under consideration. To gain insight into the complex behavior of structures, numerical simulations are carried out in parallel to physical experiments and digital fabrication, computer-aided...",
+          "doi": "10.1201/9781003139713",
+          "publication_date": "2021",
+          "publication_type": "book chapter",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/180439",
+          "repository_url": null,
+          "lab": null,
+          "subjects": []
+        },
+        "confidence": 0.9,
+        "justification": "Book chapter co-authored by Vestartas with DOI, retrieved from Infoscience.",
+        "externalId": "10.1201/9781003139713",
+        "matchedOn": [
+          "doi",
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "66567a68-d64b-4ea2-a8cf-6762424eae4e",
+          "title": "Parametric Workshop",
+          "authors": [
+            "Rogeau, Nicolas",
+            "Vestartas, Petras",
+            "Weinand, Yves"
+          ],
+          "abstract": "This bi-annual workshop is an introduction to parametric design for Master 1 students following Studio Weinand. The following topics are being discussed: impact of digital technologies on the design process, fabrication and assembly constraints, collaborative workflows, geometry fundamentals, constr...",
+          "doi": null,
+          "publication_date": "2019-02-01",
+          "publication_type": "teaching material",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/167686",
+          "repository_url": null,
+          "lab": null,
+          "subjects": []
+        },
+        "confidence": 0.9,
+        "justification": "Teaching material entry authored by Vestartas on Infoscience.",
+        "externalId": null,
+        "matchedOn": [
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "b8ad3cf5-f503-4b57-8d88-d015b65b77f1",
+          "title": "Robotically-Fabricated Nexorades from Whole Timber",
+          "authors": [
+            "Vestartas, Petras",
+            "Rezaei Rad, Aryan",
+            "Weinand, Yves"
+          ],
+          "abstract": "This paper introduces the conceptual design of sustainable timber structures using raw wood. It presents a workflow for systematically generating Nexorades using a tiling method for multi-valence quad subdivided surfaces.",
+          "doi": null,
+          "publication_date": "2021-09-15",
+          "publication_type": "conference paper",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/180771",
+          "repository_url": null,
+          "lab": null,
+          "subjects": []
+        },
+        "confidence": 0.9,
+        "justification": "Conference paper by Vestartas in Infoscience publications list.",
+        "externalId": null,
+        "matchedOn": [
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "b59dfb53-ec07-43b3-bab8-e5003fe5b05b",
+          "title": "Design framework for the structural analysis of free-form timber plate structures using wood-wood connections",
+          "authors": [
+            "Nguyen, Anh Chi",
+            "Vestartas, Petras",
+            "Weinand, Yves"
+          ],
+          "abstract": "Geometrically complex timber plate structures using wood-wood connections are increasingly designed thanks to digital fabrication. Whereas their fabrication has been automated using computer-aided design programming, research focused on the development of automated numerical tools for their structur...",
+          "doi": "10.1016/j.autcon.2019.102948",
+          "publication_date": "2019-11-01",
+          "publication_type": "journal article",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/161077",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Timber plate structures",
+            "Wood-wood connections",
+            "Digital fabrication",
+            "Finite element method",
+            "Semi-rigidity"
+          ]
+        },
+        "confidence": 0.92,
+        "justification": "Journal article with DOI authored by Vestartas, retrieved from Infoscience.",
+        "externalId": "10.1016/j.autcon.2019.102948",
+        "matchedOn": [
+          "doi",
+          "author_name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "orgunit",
+        "entity": {
+          "uuid": "bb426c80-a571-49e9-b6b2-71ab5a30300f",
+          "name": "Chair of Timber Construction",
+          "description": null,
+          "url": "https://infoscience.epfl.ch/entities/orgunit/bb426c80-a571-49e9-b6b2-71ab5a30300f",
+          "parent_organization": "IIC",
+          "website": null,
+          "publication_count": null,
+          "research_areas": []
+        },
+        "confidence": 0.8,
+        "justification": "Found lab entry matching 'Timber Construction' via search_infoscience_labs_tool.",
+        "externalId": null,
+        "matchedOn": [
+          "name"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 9655,
+    "estimated_output_tokens": 2870,
+    "estimated_total_tokens": 12525,
+    "duration": 140.183698,
+    "start_time": "2025-11-04T17:15:46.943710",
+    "end_time": "2025-11-04T17:18:07.127408",
+    "status_code": 200
+  }
+}

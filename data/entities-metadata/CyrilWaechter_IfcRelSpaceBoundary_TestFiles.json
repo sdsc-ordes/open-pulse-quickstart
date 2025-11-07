@@ -1,0 +1,192 @@
+{
+  "link": "https://github.com/CyrilWaechter/IfcRelSpaceBoundary_TestFiles",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:19:30.578802",
+  "output": {
+    "name": "IfcRelSpaceBoundary_TestFiles",
+    "applicationCategory": [
+      "Building information modeling",
+      "Architecture"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/IfcRelSpaceBoundary_TestFiles"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2023-06-23",
+    "datePublished": "2023-06-23",
+    "description": "A repository containing IFC test files for IfcRelSpaceBoundary definitions across different authoring software and IFC schema versions.",
+    "featureList": null,
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/CC0-1.0",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Cyril Waechter",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": null,
+        "affiliation": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects, École Polytechnique Fédérale de Lausanne (EPFL)"
+        ],
+        "affiliations": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+          "École Polytechnique Fédérale de Lausanne (EPFL)"
+        ],
+        "currentAffiliation": "CNPA - Laboratory of Numeric Cultures for Architectural Projects, École Polytechnique Fédérale de Lausanne (EPFL)",
+        "affiliationHistory": [],
+        "contributionSummary": "Created and maintains IFC space boundary test files repository.",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "programmingLanguage": [],
+    "softwareRequirements": null,
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": null,
+    "url": "https://github.com/CyrilWaechter/IfcRelSpaceBoundary_TestFiles",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/CyrilWaechter/IfcRelSpaceBoundary_TestFiles/blob/main/README.md",
+    "hasExecutableInstructions": null,
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://raw.githubusercontent.com/CyrilWaechter/IfcRelSpaceBoundary_TestFiles/main/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Architecture"
+    ],
+    "disciplineJustification": [
+      "Repository contains building information modeling IFC test files used in architectural design and analysis workflows."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "BIM Insight SA",
+      "École Polytechnique Fédérale de Lausanne",
+      "Laboratory of Digital Culture for Architectural Projects"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "BIM Insight SA",
+        "hasRorId": null,
+        "alternateNames": [
+          "BIM Insight"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.biminsight.ch/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": "https://ror.org/03yrm5f87",
+        "alternateNames": [
+          "EPFL",
+          "Ecole Polytechnique Federale de Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 1.0,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Laboratory of Digital Culture for Architectural Projects",
+        "hasRorId": null,
+        "alternateNames": [
+          "CNPA",
+          "Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "organizationType": "Research Laboratory",
+        "parentOrganization": "École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://cnpa.epfl.ch/",
+        "attributionConfidence": 0.85,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "uuid": "3410604b-eee9-4e41-942b-00d602b69118",
+              "name": "Laboratory of Digital Culture for Architectural Projects",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null,
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.8,
+            "justification": "Found in EPFL Infoscience as the lab corresponding to CNPA via search_infoscience_labs_tool.",
+            "externalId": null,
+            "matchedOn": []
+          }
+        ]
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Author affiliation includes EPFL via CNPA group."
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains code repository for managing and distributing IFC test files for software validation."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 0.9,
+    "relatedToEPFLJustification": "This repository is strongly linked to EPFL based on multiple independent signals:\n1. The author metadata explicitly lists “École Polytechnique Fédérale de Lausanne (EPFL)” as their affiliation (0.25).\n2. The repository’s relatedToOrganizationsROR array includes a ROR entry for EPFL (https://ror.org/03yrm5f87) (0.25).\n3. The author’s lab (“Laboratory of Digital Culture for Architectural Projects”) is verified in EPFL’s Infoscience database, confirming formal EPFL association (0.40).\nSumming these gives 0.25 + 0.25 + 0.40 = 0.90, well above the 0.50 threshold, so relatedToEPFL is true.",
+    "gitAuthors": [
+      {
+        "name": "CyrilWaechter",
+        "email": "cyril@biminsight.ch",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2023-06-23",
+          "lastCommitDate": "2023-06-23"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcRelSpaceBoundary.htm",
+      "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcRelSpaceBoundary1stLevel.htm",
+      "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcRelSpaceBoundary2ndLevel.htm",
+      "https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/link/ifcrelspaceboundary.htm"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 12531,
+    "estimated_output_tokens": 2605,
+    "estimated_total_tokens": 15136,
+    "duration": 276.322046,
+    "start_time": "2025-11-04T18:14:54.256598",
+    "end_time": "2025-11-04T18:19:30.578644",
+    "status_code": 200
+  }
+}

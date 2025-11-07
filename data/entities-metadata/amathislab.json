@@ -1,0 +1,407 @@
+{
+  "link": "https://github.com/amathislab",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T08:40:53.613711",
+  "output": {
+    "name": "Mathis Group @ EPFL",
+    "organizationType": "Academic Research Group",
+    "githubOrganizationMetadata": {
+      "login": "amathislab",
+      "name": "Mathis Group @ EPFL",
+      "description": "Computational Neuroscience and AI",
+      "email": null,
+      "location": "Geneva",
+      "company": null,
+      "blog": "https://www.mathislab.org/",
+      "twitter_username": "amathislab",
+      "public_repos": 36,
+      "public_gists": 0,
+      "followers": 87,
+      "following": 0,
+      "created_at": "2020-04-23T21:33:02Z",
+      "updated_at": "2025-06-19T23:31:46Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64230525?v=4",
+      "html_url": "https://github.com/amathislab",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjY0MjMwNTI1",
+      "url": "https://api.github.com/orgs/amathislab",
+      "repos_url": "https://api.github.com/orgs/amathislab/repos",
+      "events_url": "https://api.github.com/orgs/amathislab/events",
+      "hooks_url": "https://api.github.com/orgs/amathislab/hooks",
+      "issues_url": "https://api.github.com/orgs/amathislab/issues",
+      "members_url": "https://api.github.com/orgs/amathislab/members{/member}",
+      "public_members": [
+        "AlexEMG",
+        "arashsm79",
+        "CharlieLeee",
+        "LucZot",
+        "zhoumu53"
+      ],
+      "repositories": [
+        "Kinesis",
+        "amathislab.github.io",
+        "HOISDF",
+        "EPFL-Smart-Kitchen",
+        "wildclip",
+        "BehaveMAE",
+        "DLC2action",
+        "dlc2action_annotation",
+        "myochallenge",
+        "arnold-the-generalist",
+        "BrownBear_ReID",
+        "BUCTD",
+        "lmms-eval",
+        "lattice",
+        "POET-live-GUI",
+        "POET-live",
+        "MammAlps",
+        ".github",
+        "Horse-10-benchmark",
+        "NX-414",
+        "myochallenge-lattice",
+        "ProprioceptiveIllusions",
+        "Task-driven-Proprioception",
+        "lmms-eval-lemonade",
+        "dmap",
+        "poet",
+        "DeepDraw",
+        "MyoChallengeAnalysis",
+        "DLCutils",
+        "odeformer",
+        "Megatron-LLM",
+        "LemanicHackathon",
+        "myosuite",
+        "AcinoSet",
+        "DeepLabCut-Workshop-Materials",
+        "Primer-MotionCapture"
+      ],
+      "teams": [],
+      "readme_url": "https://github.com/amathislab/.github/blob/main/profile/README.md",
+      "readme_content": "# Welcome to the A. Mathis Group at EPFL! \n\nBroadly speaking, we work at the intersection of computational neuroscience and machine learning, aka *AI4(Neuro)Science*. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  \n\nCheck out [group's website for more information](http://www.mathislab.org), and see our open source code below!\n\nWe also share open data/model weights on [Zenodo](https://zenodo.org/communities/amg/records?q=&l=list&p=1&s=10&sort=newest) and [Huggingface](https://huggingface.co/amathislab)! \n\n## Packages for behavioral analysis:\n\n- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut): for animal pose estimation\n- [DLC2action](https://github.com/amathislab/DLC2action): for action segmentation\n- [hBehaveMAE](https://github.com/amathislab/BehaveMAE): unsupervised action decomposition for hierarchical behavior\n- [LLaVAction](https://github.com/AdaptiveMotorControlLab/LLaVAction): multimodal language model for action recognition\n\n## Selected Code from published research projects 👩‍💻:\n\n**Computer Vision and Behavioral Analysis:**\n\n- [Elucidating the Hierarchical Nature of Behavior with Masked Autoencoders](https://github.com/amathislab/BehaveMAE): Stoffl, Bonnetto, d'Ascoli & Mathis  ECCV 2024\n- [HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields](https://amathislab.github.io/HOISDF/): Code for Haozhe Qi, Chen Zhao, Mathieu Salzmann, & Alexander Mathis. CVPR 2024\n- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis International Journal of Computer Vision 2024 (also oral at CVPR CV4animals 2023)\n- [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV 2023. State of the art code for performing 2D pose estimation in crowded scenes. \n- [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): Code for POET model, Stoffl, Vidal & Mathis arxiv 2021\n- [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), Joska et al. ICRA 2021\n- [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Mathis et al. Neuron 2020\n\n**AI4Science including modeling proprioception and sensorimotor control:**\n\n- [Deep-learning models of the ascending proprioceptive pathway are subject to illusions](https://github.com/amathislab/ProprioceptiveIllusions): Code for modeling proprioceptive illusions. Adriana Perez Rotondo, Merkourios Simos, Florian David, Sebastian Pigeon, Olaf Blanke, & Alexander Mathis. [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1), in press at Experimental Physiology\n- [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. Cell 2024\n- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data\n- [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023\n\n\n**Reinforcement learning (mostly for motor skills also relevant for modeling sensorimotor control):**\n\n- [Arnold: a generalist muscle transformer policy](https://github.com/amathislab/arnold-the-generalist): Code for Chiappa & An et al., arxiv 2025\n- [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, arxiv 2025\n- [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024\n- [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.\n- [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 \n- [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022\n- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022\n\n**Datasets and benchmarks:**\n\n- [EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://github.com/amathislab/EPFL-Smart-Kitchen): Code and data for Bonnetto*, Qi* et al. arxiv 2025\n- [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. Gabeff et al. CVPR spotlight 2025\n\n\n\n🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.\n\nWe often collaborate with the group of Mackenzie Mathis, and also [recommend checking out their GitHub repository!](https://github.com/AdaptiveMotorControlLab)\n<!--\n\n**Here are some ideas to get you started:**\n\n🙋‍♀️ A short introduction - what is your organization all about?\n🌈 Contribution guidelines - how can the community get involved?\n👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?\n🍿 Fun facts - what does your team eat for breakfast?\n🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\n-->\n",
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "The organization is led by Prof. Alexander Mathis at EPFL, focuses on research projects, publishes academic code alongside peer-reviewed publications, and is hosted within an EPFL lab structure.",
+    "description": "Computational Neuroscience and AI",
+    "relatedToOrganization": [
+      "École Polytechnique Fédérale de Lausanne",
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": "https://ror.org/02s376052",
+        "alternateNames": [
+          "EPFL",
+          "Swiss Federal Institute of Technology in Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": "Board of the Swiss Federal Institutes of Technology",
+        "country": "Switzerland",
+        "website": "http://www.epfl.ch/",
+        "attributionConfidence": 0.85,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "type": "InfoscienceAuthor",
+              "uuid": "4935f194-314a-44ef-b0ac-a6b2197df007",
+              "name": "Prof Alexander Mathis Group",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null
+            },
+            "confidence": 0.95,
+            "justification": "The 'Mathis Group @ EPFL' matches the Infoscience entry for Prof Alexander Mathis Group, confirming it as an EPFL lab within EPFL.",
+            "matchedOn": []
+          }
+        ]
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Computer engineering",
+      "Information engineering",
+      "Systems science and engineering",
+      "Biological engineering"
+    ],
+    "disciplineJustification": [
+      "Computer engineering: Develops and applies machine learning and transformer-based models (e.g., POET, ODEformer, Megatron-LLM)",
+      "Information engineering: Works on vision-language models, data retrieval (WildCLIP) and communication of sensorimotor signals",
+      "Systems science and engineering: Models dynamical systems in proprioception and motor control, reinforcement learning for musculoskeletal systems",
+      "Biological engineering: Computational modeling of biological neural pathways and proprioceptive systems"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "1. Organization Name Contains \"EPFL\": The GitHub organization is named \"Mathis Group @ EPFL\", clearly indicating EPFL affiliation (confidence contribution: 0.5).\n2. README Mentions EPFL: The organization’s README opens with \"Welcome to the A. Mathis Group at EPFL!\" confirming the EPFL connection (confidence contribution: 0.3).\n3. ROR Entry Links to EPFL: The `relatedToOrganization` field includes the EPFL ROR ID (https://ror.org/02s376052), a direct institutional link (confidence contribution: 0.4).\n4. Infoscience Lab Entity Found: Infoscience returns an orgunit \"Prof Alexander Mathis Group\" matching the Mathis group @ EPFL (confidence contribution: 0.4).\n\nSumming contributions: 0.5 + 0.3 + 0.4 + 0.4 = 1.6, capped at 1.0. Since confidence ≥ 0.5, relatedToEPFL is true.",
+    "relatedToEPFLConfidence": 1.0,
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "62d35ac0-fd65-46de-9363-f5be84bdc673",
+          "title": "Acquiring musculoskeletal skills with curriculum-based reinforcement learning - model weights",
+          "authors": [
+            "Chiappa, Alberto",
+            "Tano, Pablo",
+            "Patel, Nisheet",
+            "Ingster, Abigaïl Rebecca Lise",
+            "Pouget, Alexandre",
+            "Mathis, Alexander"
+          ],
+          "abstract": "Here we provide the weights of the neural network policies used for the analysis presented in our article.",
+          "doi": "10.5281/zenodo.13753695",
+          "publication_date": "2024",
+          "publication_type": "dataset",
+          "url": "https://infoscience.epfl.ch/entities/publication/62d35ac0-fd65-46de-9363-f5be84bdc673"
+        },
+        "confidence": 0.75,
+        "justification": "Returned in Infoscience search for query 'amathislab', authored by Alexander Mathis and colleagues affiliated with the Mathis Lab.",
+        "matchedOn": [
+          "query"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "add1521f-f328-46d1-b12c-b470bfabd162",
+          "title": "Task-driven neural network models predict neural dynamics of proprioception: Synthetic muscle spindle datasets",
+          "authors": [
+            "Marin Vargas, Alessandro",
+            "Bisi, Axel",
+            "Chiappa, Alberto Silvio",
+            "Versteeg, Christopher",
+            "Miller, Lee E.",
+            "Mathis, Alexander"
+          ],
+          "abstract": "Here we provide the synthetic spindle datasets of our article \"Task-driven neural network models predict neural dynamics of proprioception\".",
+          "doi": "10.5281/zenodo.10530013",
+          "publication_date": "2024",
+          "publication_type": "dataset",
+          "subjects": [
+            "proprioception",
+            "task-driven models",
+            "neural networks",
+            "somatosensory cortex",
+            "cuneate nucleus"
+          ],
+          "url": "https://infoscience.epfl.ch/entities/publication/add1521f-f328-46d1-b12c-b470bfabd162"
+        },
+        "confidence": 0.75,
+        "justification": "Returned in Infoscience search for query 'amathislab', authored by Alexander Mathis group.",
+        "matchedOn": [
+          "query"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "8d945cd3-f6e9-4c84-b3ac-fab49cca3f9c",
+          "title": "Rethinking pose estimation in crowds: overcoming the detection information bottleneck and ambiguity",
+          "authors": [
+            "Zhou, Mu",
+            "Stoffl, Lucas",
+            "Mathis, Mackenzie",
+            "Mathis, Alexander"
+          ],
+          "abstract": "Here we provide neural networks weights for the best models in our article \"Rethinking pose estimation in crowds...\".",
+          "doi": "10.5281/zenodo.10039883",
+          "publication_date": "2023",
+          "publication_type": "dataset",
+          "subjects": [
+            "COCO",
+            "CrowdPose",
+            "OCHuman",
+            "Pose estimation",
+            "ICCV 2023"
+          ],
+          "url": "https://infoscience.epfl.ch/entities/publication/8d945cd3-f6e9-4c84-b3ac-fab49cca3f9c"
+        },
+        "confidence": 0.75,
+        "justification": "Returned in Infoscience search for query 'amathislab', co-authored by Mu Zhou and Alexander Mathis.",
+        "matchedOn": [
+          "query"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "f23ec60f-f256-42bb-8221-3c72e8c3d6c9",
+          "title": "Data for Contrasting action and posture coding with hierarchical deep neural network models of proprioception",
+          "authors": [
+            "Sandbrink, Kai",
+            "Mamidanna, Pranav",
+            "Michaelis, Claudio",
+            "Bethge, Matthias",
+            "Mathis, Mackenzie",
+            "Mathis, Alexander"
+          ],
+          "abstract": "Dataset for the study on contrasting action and posture coding with hierarchical deep neural network models of proprioception.",
+          "doi": "10.5281/zenodo.14544688",
+          "publication_date": "2024",
+          "publication_type": "dataset",
+          "url": "https://infoscience.epfl.ch/entities/publication/f23ec60f-f256-42bb-8221-3c72e8c3d6c9"
+        },
+        "confidence": 0.75,
+        "justification": "Returned in Infoscience search for query 'amathislab', co-authored by Alexander Mathis.",
+        "matchedOn": [
+          "query"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "bae76ecc-64de-4b49-a764-5b0f861ecab9",
+          "title": "Elucidating the Hierarchical Nature of Behavior with Masked Autoencoders",
+          "authors": [
+            "Stoffl, Lucas",
+            "d’Ascoli, Stéphane",
+            "Bonnetto, Andy",
+            "Mathis, Alexander"
+          ],
+          "abstract": "Natural behavior is hierarchical... We create a synthetic basketball playing benchmark and extend BABEL into a hierarchical framework.",
+          "doi": "10.1101/2024.08.06.606796v1",
+          "publication_date": "2024-08-08",
+          "publication_type": "text::preprint",
+          "url": "https://infoscience.epfl.ch/entities/publication/bae76ecc-64de-4b49-a764-5b0f861ecab9"
+        },
+        "confidence": 0.75,
+        "justification": "Returned in Infoscience search for query 'amathislab', co-authored by Alexander Mathis.",
+        "matchedOn": [
+          "query"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "01654480-b4ac-4bb0-bb0a-20f6eef92316",
+          "name": "Mathis, Alexander",
+          "email": null,
+          "orcid": "0000-0002-3777-2202",
+          "affiliation": "UPAMATHIS",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/01654480-b4ac-4bb0-bb0a-20f6eef92316"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match on author name 'Alexander Mathis' in Infoscience author search.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "62d35ac0-fd65-46de-9363-f5be84bdc673",
+          "title": "Acquiring musculoskeletal skills with curriculum-based reinforcement learning - model weights",
+          "authors": [
+            "Chiappa, Alberto",
+            "Tano, Pablo",
+            "Patel, Nisheet",
+            "Ingster, Abigaïl Rebecca Lise",
+            "Pouget, Alexandre",
+            "Mathis, Alexander"
+          ],
+          "doi": "10.5281/zenodo.13753695",
+          "publication_date": "2024",
+          "publication_type": "dataset",
+          "url": "https://infoscience.epfl.ch/entities/publication/62d35ac0-fd65-46de-9363-f5be84bdc673"
+        },
+        "confidence": 0.9,
+        "justification": "Alexander Mathis is listed as an author and publication was returned for 'amathislab' organization search.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "6169798b-476a-43e5-874f-957bda9bf68a",
+          "name": "Zhou, Mu",
+          "email": null,
+          "orcid": null,
+          "affiliation": null,
+          "profile_url": "https://infoscience.epfl.ch/entities/person/6169798b-476a-43e5-874f-957bda9bf68a"
+        },
+        "confidence": 0.85,
+        "justification": "Exact match on author name 'Mu Zhou' in Infoscience author search.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "8d945cd3-f6e9-4c84-b3ac-fab49cca3f9c",
+          "title": "Rethinking pose estimation in crowds: overcoming the detection information bottleneck and ambiguity",
+          "authors": [
+            "Zhou, Mu",
+            "Stoffl, Lucas",
+            "Mathis, Mackenzie",
+            "Mathis, Alexander"
+          ],
+          "doi": "10.5281/zenodo.10039883",
+          "publication_date": "2023",
+          "publication_type": "dataset",
+          "url": "https://infoscience.epfl.ch/entities/publication/8d945cd3-f6e9-4c84-b3ac-fab49cca3f9c"
+        },
+        "confidence": 0.85,
+        "justification": "Mu Zhou is the first author and publication was returned in the 'amathislab' organization search.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "orgunit",
+        "entity": {
+          "type": "InfoscienceLab",
+          "uuid": "4935f194-314a-44ef-b0ac-a6b2197df007",
+          "name": "Prof Alexander Mathis Group",
+          "description": null,
+          "url": "https://infoscience.epfl.ch/entities/orgunit/4935f194-314a-44ef-b0ac-a6b2197df007",
+          "parent_organization": "Brain Mind Institute (BMI)",
+          "website": null,
+          "research_areas": null
+        },
+        "confidence": 0.8,
+        "justification": "The 'Prof Alexander Mathis Group' is the Mathis Lab at EPFL, matching the 'amathislab' website and affiliation 'UPAMATHIS'.",
+        "matchedOn": [
+          "name",
+          "affiliation"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 11648,
+    "estimated_output_tokens": 2908,
+    "estimated_total_tokens": 14556,
+    "duration": 212.082847,
+    "start_time": "2025-11-07T08:37:21.530627",
+    "end_time": "2025-11-07T08:40:53.613474",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4895,
+    "github_rate_reset": "2025-11-07T08:37:44"
+  }
+}

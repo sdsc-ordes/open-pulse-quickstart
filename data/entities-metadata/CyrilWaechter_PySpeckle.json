@@ -1,0 +1,462 @@
+{
+  "link": "https://github.com/CyrilWaechter/PySpeckle",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:30:26.175653",
+  "output": {
+    "name": "PySpeckle",
+    "applicationCategory": [
+      "Computer engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/PySpeckle"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2019-06-08",
+    "datePublished": "2019-06-08",
+    "description": "Python client library for interacting with Speckle Server API, enabling registration, authentication, and manipulation of streams, projects, objects, comments, and API clients.",
+    "featureList": null,
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/MIT.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Cyril Waechter",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "CyrilWaechter"
+        ],
+        "affiliation": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Primary author",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Antoine Dao",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "AntoineDao"
+        ],
+        "affiliation": [
+          "Ladybug Tools",
+          "Pollination"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Dimitrie Stefanescu",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "didimitrie"
+        ],
+        "affiliation": [
+          "Speckle Works",
+          "Buildings and Habitats object Model",
+          "AEC∆",
+          "Speckle"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "izzy lyseggen",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "izzylys"
+        ],
+        "affiliation": [
+          "Speckle Works",
+          "Buildings and Habitats object Model"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Tom Svilans",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "tsvilans"
+        ],
+        "affiliation": [
+          "CITA"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Long",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "htlcnn"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "pjkottke",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "pjkottke"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ],
+    "softwareRequirements": [
+      "requests",
+      "pydantic",
+      "websocket-client"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": [],
+    "url": "https://github.com/CyrilWaechter/PySpeckle",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": null,
+    "hasExecutableInstructions": "https://github.com/CyrilWaechter/PySpeckle/blob/master/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": null,
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "The software is a Python API client library for interacting with web services."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation",
+      "Centre for Information Technology and Architecture (CITA)",
+      "Mallzee Ltd",
+      "BIM Insight",
+      "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+      "Ladybug Tools",
+      "Pollination",
+      "Speckle Works",
+      "Speckle"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation",
+        "hasRorId": "https://ror.org/03dj51c06",
+        "alternateNames": [
+          "KADK",
+          "Royal Danish Academy"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Denmark",
+        "website": "https://kadk.dk/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Centre for Information Technology and Architecture (CITA)",
+        "hasRorId": null,
+        "alternateNames": [
+          "CITA"
+        ],
+        "organizationType": "Research Centre",
+        "parentOrganization": "Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation",
+        "country": "Denmark",
+        "website": "https://kadk.dk/forskning/cita",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Mallzee Ltd",
+        "hasRorId": null,
+        "alternateNames": [
+          "Mallzee"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "United Kingdom",
+        "website": "https://mallzee.com/",
+        "attributionConfidence": 0.4,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "BIM Insight",
+        "hasRorId": null,
+        "alternateNames": [
+          "BIM Insight GmbH"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://biminsight.ch/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+        "hasRorId": null,
+        "alternateNames": [
+          "CNPA Lab"
+        ],
+        "organizationType": "Research Laboratory",
+        "parentOrganization": null,
+        "country": null,
+        "website": null,
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Ladybug Tools",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Nonprofit Organization",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://www.ladybug.tools/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Pollination",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://pollination.ai/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Speckle Works",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://speckle.works/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Speckle",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Software Platform",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://speckle.systems/",
+        "attributionConfidence": 0.2,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Project author set in docs/conf.py",
+      "Primary author affiliation"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "This repository contains source code for a software library for interacting with Speckle server."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.0,
+    "relatedToEPFLJustification": "After exhaustive review of all available data for the 'PySpeckle' repository, no evidence was found linking the repository or its authors to EPFL. Specifically:\n\n1. EMAIL_DOMAIN: No git author or author metadata uses an @epfl.ch email address.\n2. ORCID_EMPLOYMENT / ORCID_AFFILIATION: No author has an ORCID record or employment affiliation at EPFL.\n3. BIO_MENTION / README_MENTION: Neither the repository description nor the README mentions EPFL, École Polytechnique Fédérale de Lausanne, or SDSC.\n4. COMPANY_FIELD: No 'company' field is present on related GitHub profiles, nor does it mention EPFL.\n5. ORGANIZATION_MEMBERSHIP: No contributors are members of EPFL GitHub organizations.\n6. RELATED_ORGANIZATION / PARENT_ORGANIZATION: None of the relatedToOrganizations or relatedToOrganizationsROR entries is EPFL or an EPFL-affiliated entity.\n7. LOCATION: No location field for authors indicates Lausanne, Switzerland.\n8. INFOSCIENCE_ENTITY: No Infoscience publications or entities from EPFL were discovered.\n9. GIT_AUTHOR_EMAIL / GIT_COMMIT_PERCENTAGE: None of the commit emails are from epfl.ch, and 0% of commits originate from EPFL-affiliated addresses.\n\nAll evidence contributions sum to 0.0, which is below the 0.5 threshold. Therefore, the repository is not related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "Tom Svilans",
+        "email": "tom.svilans@gmail.com",
+        "commits": {
+          "total": 38,
+          "firstCommitDate": "2018-11-15",
+          "lastCommitDate": "2020-07-07"
+        }
+      },
+      {
+        "name": "AntoineDao",
+        "email": "antoinedao1@gmail.com",
+        "commits": {
+          "total": 30,
+          "firstCommitDate": "2019-05-25",
+          "lastCommitDate": "2020-06-17"
+        }
+      },
+      {
+        "name": "Tom Svilans",
+        "email": "tsvi@kadk.dk",
+        "commits": {
+          "total": 11,
+          "firstCommitDate": "2018-11-15",
+          "lastCommitDate": "2019-08-09"
+        }
+      },
+      {
+        "name": "Tom Svilans",
+        "email": "tsvilans@hotmail.com",
+        "commits": {
+          "total": 5,
+          "firstCommitDate": "2019-01-15",
+          "lastCommitDate": "2019-02-11"
+        }
+      },
+      {
+        "name": "Dimitrie Stefanescu",
+        "email": "didimitrie@gmail.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2018-11-15",
+          "lastCommitDate": "2019-06-15"
+        }
+      },
+      {
+        "name": "izzylys",
+        "email": "izzy.lyseggen@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2019-02-17",
+          "lastCommitDate": "2020-06-17"
+        }
+      },
+      {
+        "name": "AntoineDao",
+        "email": "antoine@mallzee.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2019-08-02",
+          "lastCommitDate": "2019-08-02"
+        }
+      },
+      {
+        "name": "CyrilWaechter",
+        "email": "cyril@biminsight.ch",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-10-01",
+          "lastCommitDate": "2020-10-01"
+        }
+      },
+      {
+        "name": "Long",
+        "email": "931924+htlcnn@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-03-16",
+          "lastCommitDate": "2020-03-16"
+        }
+      },
+      {
+        "name": "izzy lyseggen",
+        "email": "izzy.lyseggen@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2019-02-17",
+          "lastCommitDate": "2020-06-17"
+        }
+      },
+      {
+        "name": "pjkottke",
+        "email": "pjkottke@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-07-10",
+          "lastCommitDate": "2020-07-10"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://pypi.org/project/speckle/",
+      "https://github.com/CyrilWaechter/PySpeckle"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 36561,
+    "estimated_output_tokens": 3207,
+    "estimated_total_tokens": 39768,
+    "duration": 226.361005,
+    "start_time": "2025-11-04T18:26:39.814432",
+    "end_time": "2025-11-04T18:30:26.175437",
+    "status_code": 200
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "link": "https://github.com/CyrilWaechter/pythonocc-core",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:34:26.786519",
+  "output": {
+    "name": "pythonocc-core",
+    "applicationCategory": [
+      "Computer engineering",
+      "Industrial and production engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/pythonocc-core"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2021-10-27",
+    "datePublished": "2021-10-27",
+    "description": "An industrial strength 3D CAD Python package providing Python bindings for Open CASCADE Technology",
+    "featureList": [
+      "Python bindings for Open CASCADE Technology",
+      "3D CAD modeling",
+      "WebGL rendering",
+      "Jupyter notebook integration",
+      "SWIG-based interfaces"
+    ],
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/LGPL-3.0-or-later.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Cyril Waechter",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Primary author and maintainer",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Thomas Paviot",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [
+          "STEPcode Consortium"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Original author and contributor of Jupyter and WebGL renderers",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "programmingLanguage": [
+      "Python",
+      "C++",
+      "SWIG"
+    ],
+    "softwareRequirements": [
+      "Python \u00003.6",
+      "Open CASCADE Technology 7.5.2",
+      "six",
+      "numpy",
+      "pythreejs",
+      "ipywidgets",
+      "PyQt5 \u00005",
+      "PySide2 \u00005",
+      "wxPython \u00004",
+      "flask",
+      "svgwrite",
+      "mypy"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/CyrilWaechter/pythonocc-core",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "http://www.pythonocc.org/",
+    "hasExecutableInstructions": "https://github.com/CyrilWaechter/pythonocc-core/blob/master/INSTALL.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/CyrilWaechter/pythonocc-core/blob/master/README.md",
+    "hasFunding": null,
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "Provides computational tools for engineering design and CAD workflows"
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [
+      "École Polytechnique Fédérale de Lausanne",
+      "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+      "German Aerospace Center",
+      "Simto",
+      "Laughlin Research",
+      "Arbor Automation",
+      "New York University",
+      "Université Rennes 1",
+      "Carl Zeiss AG",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire des Nanostructures Inorganiques (LNC)",
+      "European Spallation Source",
+      "STEPcode Consortium",
+      "conda-forge community"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": "https://ror.org/031e4ne30",
+        "alternateNames": [
+          "EPFL",
+          "Ecole Polytechnique Federale de Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Lab",
+        "parentOrganization": "École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": null,
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "German Aerospace Center",
+        "hasRorId": "https://ror.org/01h53dc46",
+        "alternateNames": [
+          "Deutsches Zentrum für Luft- und Raumfahrt e.V.",
+          "DLR"
+        ],
+        "organizationType": "Governmental Research Institute",
+        "parentOrganization": null,
+        "country": "Germany",
+        "website": "https://www.dlr.de/",
+        "attributionConfidence": 0.85,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Simto",
+        "hasRorId": null,
+        "alternateNames": [
+          "Simto Solutions"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://simto.online/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Laughlin Research",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://laughlinresearch.com/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Arbor Automation",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://arborautomation.co/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "New York University",
+        "hasRorId": "https://ror.org/02m63jt53",
+        "alternateNames": [
+          "NYU"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.nyu.edu/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Université Rennes 1",
+        "hasRorId": "https://ror.org/044agaz07",
+        "alternateNames": [
+          "University of Rennes 1"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "France",
+        "website": "https://www.univ-rennes1.fr/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Carl Zeiss AG",
+        "hasRorId": "https://ror.org/03f24n936",
+        "alternateNames": [
+          "ZEISS"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Germany",
+        "website": "https://www.zeiss.com/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Centre National de la Recherche Scientifique",
+        "hasRorId": "https://ror.org/02cpw0m25",
+        "alternateNames": [
+          "CNRS",
+          "French National Centre for Scientific Research"
+        ],
+        "organizationType": "Governmental Research Institute",
+        "parentOrganization": null,
+        "country": "France",
+        "website": "https://www.cnrs.fr/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Laboratoire des Nanostructures Inorganiques (LNC)",
+        "hasRorId": null,
+        "alternateNames": [
+          "LNC"
+        ],
+        "organizationType": "Lab",
+        "parentOrganization": "Centre National de la Recherche Scientifique",
+        "country": "France",
+        "website": null,
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "European Spallation Source",
+        "hasRorId": "https://ror.org/02j809v34",
+        "alternateNames": [
+          "ESS"
+        ],
+        "organizationType": "Research Institute",
+        "parentOrganization": null,
+        "country": "Sweden",
+        "website": "https://europeanspallationsource.se/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "STEPcode Consortium",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Research Consortium",
+        "parentOrganization": null,
+        "country": null,
+        "website": null,
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "conda-forge community",
+        "hasRorId": null,
+        "alternateNames": [
+          "conda forge"
+        ],
+        "organizationType": "Open Source Community",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://conda-forge.org/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": []
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Cyril Waechter is affiliated with ENAC-CNPA",
+      "Thomas Paviot is affiliated with STEPcode Consortium",
+      "Package is available and maintained on conda-forge"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains source code for a Python software library providing CAD functionality"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 0.5,
+    "relatedToEPFLJustification": "1. The repository metadata’s relatedToOrganizations list includes “École Polytechnique Fédérale de Lausanne,” providing a direct link to EPFL (confidence contribution 0.25).\n2. The relatedToOrganizationsROR data includes “CNPA - Laboratory of Numeric Cultures for Architectural Projects” with parent organization EPFL, indicating an EPFL-affiliated lab (confidence contribution 0.25).\nSumming these two high-confidence related-organization signals yields a total confidence of 0.50, which meets the threshold for establishing EPFL relationship.",
+    "gitAuthors": [
+      {
+        "name": "Thomas Paviot",
+        "email": "tpaviot@gmail.com",
+        "commits": {
+          "total": 767,
+          "firstCommitDate": "2014-08-25",
+          "lastCommitDate": "2021-10-23"
+        }
+      },
+      {
+        "name": "tpaviot",
+        "email": "tpaviot@gmail.com",
+        "commits": {
+          "total": 489,
+          "firstCommitDate": "2014-08-25",
+          "lastCommitDate": "2021-10-23"
+        }
+      },
+      {
+        "name": "Jelle Feringa",
+        "email": "jelleferinga@gmail.com",
+        "commits": {
+          "total": 39,
+          "firstCommitDate": "2014-08-26",
+          "lastCommitDate": "2016-12-22"
+        }
+      },
+      {
+        "name": "thomas",
+        "email": "tpaviot@gmail.com",
+        "commits": {
+          "total": 31,
+          "firstCommitDate": "2014-08-25",
+          "lastCommitDate": "2021-10-23"
+        }
+      },
+      {
+        "name": "Martin Siggel",
+        "email": "martin.siggel@dlr.de",
+        "commits": {
+          "total": 24,
+          "firstCommitDate": "2015-12-02",
+          "lastCommitDate": "2019-11-18"
+        }
+      },
+      {
+        "name": "Andreas Plesch",
+        "email": "andreasplesch@users.noreply.github.com",
+        "commits": {
+          "total": 7,
+          "firstCommitDate": "2020-05-27",
+          "lastCommitDate": "2020-05-28"
+        }
+      },
+      {
+        "name": "Adam Urbańczyk",
+        "email": "adam-urbanczyk@users.noreply.github.com",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2016-11-17",
+          "lastCommitDate": "2019-01-12"
+        }
+      },
+      {
+        "name": "thomas severin",
+        "email": "thomas.severin@simto.online",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2017-10-04",
+          "lastCommitDate": "2017-11-19"
+        }
+      },
+      {
+        "name": "thorade",
+        "email": "matthis.thorade@gmail.com",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2017-09-29",
+          "lastCommitDate": "2018-03-27"
+        }
+      },
+      {
+        "name": "Matthis Thorade",
+        "email": "matthis.thorade@gmail.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2017-09-29",
+          "lastCommitDate": "2018-03-27"
+        }
+      },
+      {
+        "name": "jelle feringa",
+        "email": "jelleferinga@gmail.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2014-08-26",
+          "lastCommitDate": "2016-12-22"
+        }
+      },
+      {
+        "name": "paddy-r",
+        "email": "50209911+paddy-r@users.noreply.github.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2020-07-06",
+          "lastCommitDate": "2020-07-06"
+        }
+      },
+      {
+        "name": "Aaron Ang",
+        "email": "awz.ang@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2018-11-12",
+          "lastCommitDate": "2018-11-12"
+        }
+      },
+      {
+        "name": "Bernard Uguen",
+        "email": "bernard.uguen@univ-rennes1.fr",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2018-03-12",
+          "lastCommitDate": "2018-03-12"
+        }
+      },
+      {
+        "name": "Hachenberg, Fabian (Zeiss)",
+        "email": "fabian.hachenberg@zeiss.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2021-10-21",
+          "lastCommitDate": "2021-10-21"
+        }
+      },
+      {
+        "name": "Jeremy Wright",
+        "email": "wrightjmf@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2015-05-20",
+          "lastCommitDate": "2015-05-20"
+        }
+      },
+      {
+        "name": "Trevor Laughlin",
+        "email": "trevor@laughlinresearch.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2017-03-31",
+          "lastCommitDate": "2017-04-01"
+        }
+      },
+      {
+        "name": "ma haidong",
+        "email": "13501108114@163.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2019-12-05",
+          "lastCommitDate": "2020-11-30"
+        }
+      },
+      {
+        "name": "robincpc",
+        "email": "chienpinchen@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2020-04-01",
+          "lastCommitDate": "2020-04-01"
+        }
+      },
+      {
+        "name": "walt_jn",
+        "email": "jan-niclas.walther@dlr.de",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2020-06-08",
+          "lastCommitDate": "2020-06-08"
+        }
+      },
+      {
+        "name": "Adam Urbanczyk",
+        "email": "adam.jan.urbanczyk@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-09-15",
+          "lastCommitDate": "2017-09-15"
+        }
+      },
+      {
+        "name": "Alexander Mills",
+        "email": "alexander@arborautomation.co",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2018-08-05",
+          "lastCommitDate": "2018-08-05"
+        }
+      },
+      {
+        "name": "Chen Feng",
+        "email": "cfeng@nyu.edu",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-03-22",
+          "lastCommitDate": "2020-03-22"
+        }
+      },
+      {
+        "name": "Christophe Trophime",
+        "email": "christophe.trophime@lncmi.cnrs.fr",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2021-02-11",
+          "lastCommitDate": "2021-02-11"
+        }
+      },
+      {
+        "name": "François Granade",
+        "email": "github.com@farialima.net",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2016-09-25",
+          "lastCommitDate": "2016-09-25"
+        }
+      },
+      {
+        "name": "Hans Moritz Günther",
+        "email": "moritz.guenther@gmx.de",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2018-05-05",
+          "lastCommitDate": "2018-05-05"
+        }
+      },
+      {
+        "name": "Hinko Kocevar",
+        "email": "hinko.kocevar@esss.se",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-06-20",
+          "lastCommitDate": "2017-06-20"
+        }
+      },
+      {
+        "name": "Hinko Kočevar",
+        "email": "hinkocevar@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-06-20",
+          "lastCommitDate": "2017-06-20"
+        }
+      },
+      {
+        "name": "Ian Keough",
+        "email": "ian@iankeough.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2018-02-05",
+          "lastCommitDate": "2018-02-05"
+        }
+      },
+      {
+        "name": "Jiarui Lin",
+        "email": "linjiarui.thu@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2018-04-07",
+          "lastCommitDate": "2018-04-07"
+        }
+      },
+      {
+        "name": "Karl Nilsson",
+        "email": "karl.robert.nilsson@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-03-05",
+          "lastCommitDate": "2020-03-05"
+        }
+      },
+      {
+        "name": "Kristoffer",
+        "email": "kristoffer_andersen@outlook.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-01-06",
+          "lastCommitDate": "2020-01-06"
+        }
+      },
+      {
+        "name": "Martin Siggel",
+        "email": "martinsiggel@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2016-05-01",
+          "lastCommitDate": "2016-05-01"
+        }
+      },
+      {
+        "name": "Tanneguy",
+        "email": "81742654+Tanneguydv@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2021-04-21",
+          "lastCommitDate": "2021-04-21"
+        }
+      },
+      {
+        "name": "Thomas Krijnen",
+        "email": "t.krijnen@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-12-27",
+          "lastCommitDate": "2017-12-27"
+        }
+      },
+      {
+        "name": "nxsofsys",
+        "email": "nxsofsys@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-07-16",
+          "lastCommitDate": "2017-07-16"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "http://www.pythonocc.org/",
+      "https://github.com/tpaviot/pythonocc-core"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 44706,
+    "estimated_output_tokens": 5140,
+    "estimated_total_tokens": 49846,
+    "duration": 286.901849,
+    "start_time": "2025-11-04T18:29:39.884426",
+    "end_time": "2025-11-04T18:34:26.786275",
+    "status_code": 200
+  }
+}

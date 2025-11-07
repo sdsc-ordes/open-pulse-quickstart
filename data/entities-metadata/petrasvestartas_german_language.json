@@ -1,0 +1,167 @@
+{
+  "link": "https://github.com/petrasvestartas/german_language",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:28:12.615858",
+  "output": {
+    "name": "german_language",
+    "applicationCategory": [
+      "Education",
+      "Language learning"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/german_language"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2023-02-22",
+    "datePublished": "2023-02-22",
+    "description": "A comprehensive educational resource for learning German language, containing vocabulary, grammar lessons, and exercises in Markdown and PDF formats.",
+    "featureList": null,
+    "image": [
+      {
+        "contentUrl": "https://github.com/petrasvestartas/german_language/assets/18013985/c8f13a3c-8770-4842-b48d-4734cfab28a4",
+        "keywords": "illustrative image"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Repository owner and content author",
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Vestartas, Petras",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": 19,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Exact match on author search for 'Petras Vestartas' in Infoscience",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          }
+        ]
+      }
+    ],
+    "operatingSystem": [
+      "Other"
+    ],
+    "programmingLanguage": [
+      "Markdown"
+    ],
+    "softwareRequirements": [],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/petrasvestartas/german_language",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/german_language/blob/main/ReadMe.md",
+    "hasExecutableInstructions": null,
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/german_language/blob/main/ReadMe.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": [],
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Education"
+    ],
+    "disciplineJustification": [
+      "Repository contains educational materials for learning German language."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "Google LLC"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "Google LLC",
+        "hasRorId": "https://ror.org/03yrm5c26",
+        "alternateNames": [
+          "Google"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.google.com/",
+        "attributionConfidence": 0.1,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "repositoryType": "educational resource",
+    "repositoryTypeJustification": [
+      "The repository contains educational markdown and PDF files for learning German."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.4,
+    "relatedToEPFLJustification": "1. Infoscience Entity Match (confidence +0.4): The repository author 'Petras Vestartas' has an exact match in EPFL's Infoscience database (https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2) with ORCID '0000-0002-4428-1110'. This provides strong evidence of EPFL affiliation. No other evidence (no @epfl.ch email, no ORCID employment record, no EPFL mentions in bio/README, no EPFL Git organization membership, no EPFL domain in website) was found. Summing the contributions yields a total confidence of 0.4, which is below the 0.5 threshold, so the repository is determined not to be related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "Petras Vestartas",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 536,
+          "firstCommitDate": "2023-02-22",
+          "lastCommitDate": "2025-10-23"
+        }
+      },
+      {
+        "name": "petrasvestartas",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2023-02-22",
+          "lastCommitDate": "2025-10-23"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://moodle-app2.let.ethz.ch/mod/resource/view.php?id=1276060"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 31064,
+    "estimated_output_tokens": 1489,
+    "estimated_total_tokens": 32553,
+    "duration": 177.550729,
+    "start_time": "2025-11-04T17:25:15.064875",
+    "end_time": "2025-11-04T17:28:12.615604",
+    "status_code": 200
+  }
+}

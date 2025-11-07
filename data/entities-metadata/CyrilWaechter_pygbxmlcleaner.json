@@ -1,0 +1,264 @@
+{
+  "link": "https://github.com/CyrilWaechter/pygbxmlcleaner",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:19:34.207367",
+  "output": {
+    "name": "pygbxmlcleaner",
+    "applicationCategory": [
+      "Architecture"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/pygbxmlcleaner"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2018-06-26",
+    "datePublished": "2018-06-26",
+    "description": "A small Python tool to clean gbXML files by removing rectangular surfaces with area below a specified tolerance.",
+    "featureList": [
+      "Remove rectangular surfaces with area below the specified tolerance",
+      "Clean space boundaries referencing removed surfaces"
+    ],
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/GPL-3.0-only.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Cyril Waechter",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Author and maintainer of the pygbxmlcleaner tool.",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ],
+    "softwareRequirements": [
+      "Python 3"
+    ],
+    "processorRequirements": [],
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": [],
+    "url": "https://github.com/CyrilWaechter/pygbxmlcleaner",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/CyrilWaechter/pygbxmlcleaner/blob/master/README.md",
+    "hasExecutableInstructions": "https://github.com/CyrilWaechter/pygbxmlcleaner/blob/master/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [
+      {
+        "name": "file",
+        "description": "Path to the input gbXML file to be cleaned.",
+        "encodingFormat": null,
+        "hasDimensionality": null,
+        "hasFormat": null,
+        "defaultValue": null,
+        "valueRequired": true
+      },
+      {
+        "name": "output_file",
+        "description": "Path for the output optimized XML file. If not provided, defaults to the input filename with \"_optimized.xml\" suffix.",
+        "encodingFormat": null,
+        "hasDimensionality": null,
+        "hasFormat": null,
+        "defaultValue": null,
+        "valueRequired": false
+      },
+      {
+        "name": "tolerance",
+        "description": "Tolerance for minimum surface area; surfaces with area less than this value will be removed.",
+        "encodingFormat": null,
+        "hasDimensionality": null,
+        "hasFormat": null,
+        "defaultValue": "1",
+        "valueRequired": false
+      }
+    ],
+    "readme": null,
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Architecture"
+    ],
+    "disciplineJustification": [
+      "gbXML is an XML schema for building information modeling, which is used in architectural contexts."
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [
+      "BIM Insight",
+      "Laboratory of Digital Culture for Architectural Projects",
+      "Institute of Architecture",
+      "School of Architecture, Civil and Environmental Engineering (ENAC), École Polytechnique Fédérale de Lausanne",
+      "École Polytechnique Fédérale de Lausanne"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "BIM Insight",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://biminsight.ch/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Laboratory of Digital Culture for Architectural Projects",
+        "hasRorId": null,
+        "alternateNames": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "organizationType": "Research Laboratory",
+        "parentOrganization": "Institute of Architecture, ENAC, École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://infoscience.epfl.ch/entities/orgunit/3410604b-eee9-4e41-942b-00d602b69118",
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "uuid": "3410604b-eee9-4e41-942b-00d602b69118",
+              "name": "Laboratory of Digital Culture for Architectural Projects",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null,
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.9,
+            "justification": "Author affiliation mentions CNPA lab which corresponds to this Infoscience org unit",
+            "externalId": null,
+            "matchedOn": []
+          }
+        ]
+      },
+      {
+        "type": "Organization",
+        "legalName": "Institute of Architecture",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Academic Department",
+        "parentOrganization": "School of Architecture, Civil and Environmental Engineering (ENAC), École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://infoscience.epfl.ch/entities/orgunit/f5a2327d-ca6f-4f51-89c1-0d5cfc8242fa",
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "uuid": "f5a2327d-ca6f-4f51-89c1-0d5cfc8242fa",
+              "name": "Institute of Architecture",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null,
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.9,
+            "justification": "Infoscience hierarchy shows CNPA lab is part of this Institute",
+            "externalId": null,
+            "matchedOn": []
+          }
+        ]
+      },
+      {
+        "type": "Organization",
+        "legalName": "School of Architecture, Civil and Environmental Engineering (ENAC), École Polytechnique Fédérale de Lausanne",
+        "hasRorId": null,
+        "alternateNames": [
+          "ENAC"
+        ],
+        "organizationType": "Academic School",
+        "parentOrganization": "École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/schools/enac/",
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": "https://ror.org/03yrm5f15",
+        "alternateNames": [
+          "EPFL",
+          "Swiss Federal Institute of Technology in Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Author affiliation derived from GitHub JSON-LD metadata indicating affiliation to CNPA lab."
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Provides source code implementing a specific computational tool for cleaning gbXML files."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 0.65,
+    "relatedToEPFLJustification": "We found multiple strong signals that the repository is related to EPFL:\n1. An Infoscience entity linking the author’s laboratory (CNPA – Laboratory of Digital Culture for Architectural Projects) to EPFL (0.4).\n2. The JSON-LD metadata lists “École Polytechnique Fédérale de Lausanne” among the repository’s related organizations (0.25).\nSumming these contributions yields 0.65, exceeding the 0.5 threshold for an EPFL relationship.",
+    "gitAuthors": [
+      {
+        "name": "Cyril Waechter",
+        "email": "cyril@biminsight.ch",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2018-06-26",
+          "lastCommitDate": "2018-06-26"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://github.com/CyrilWaechter/pygbxmlcleaner"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 21073,
+    "estimated_output_tokens": 2806,
+    "estimated_total_tokens": 23879,
+    "duration": 247.845304,
+    "start_time": "2025-11-04T18:15:26.361893",
+    "end_time": "2025-11-04T18:19:34.207197",
+    "status_code": 200
+  }
+}

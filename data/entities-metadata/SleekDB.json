@@ -1,0 +1,100 @@
+{
+  "link": "https://github.com/SleekDB",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T09:13:05.446610",
+  "output": {
+    "name": null,
+    "organizationType": "Open Source Community",
+    "githubOrganizationMetadata": {
+      "login": "SleekDB",
+      "name": null,
+      "description": "A NoSQL Database made using PHP. Main repo link: https://github.com/rakibtg/SleekDB ",
+      "email": null,
+      "location": null,
+      "company": null,
+      "blog": "https://sleekdb.github.io/",
+      "twitter_username": null,
+      "public_repos": 6,
+      "public_gists": 0,
+      "followers": 5,
+      "following": 0,
+      "created_at": "2018-04-13T16:31:37Z",
+      "updated_at": "2020-12-19T07:15:10Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38358896?v=4",
+      "html_url": "https://github.com/SleekDB",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MzU4ODk2",
+      "url": "https://api.github.com/orgs/SleekDB",
+      "repos_url": "https://api.github.com/orgs/SleekDB/repos",
+      "events_url": "https://api.github.com/orgs/SleekDB/events",
+      "hooks_url": "https://api.github.com/orgs/SleekDB/hooks",
+      "issues_url": "https://api.github.com/orgs/SleekDB/issues",
+      "members_url": "https://api.github.com/orgs/SleekDB/members{/member}",
+      "public_members": [
+        "rakibtg",
+        "Timu57"
+      ],
+      "repositories": [
+        "SleekDB",
+        "SleekDB-Portfolios",
+        ".github",
+        "sleekdb.github.io",
+        "docs",
+        "website-builder"
+      ],
+      "teams": [],
+      "readme_url": "https://github.com/SleekDB/.github/blob/main/profile/README.md",
+      "readme_content": "## Hi there 👋\n\n📣 SleekDB main repository (https://github.com/rakibtg/SleekDB) has been moved to https://github.com/SleekDB/SleekDB \n",
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "SleekDB is a community-driven project hosted on GitHub, with public members contributing code to an open source NoSQL database implemented in PHP. There is no evidence of corporate or academic sponsorship, and it operates as an OSS software library.",
+    "description": "A NoSQL Database made using PHP. Main repo link: https://github.com/rakibtg/SleekDB ",
+    "relatedToOrganization": [
+      "SleekDB",
+      {
+        "type": "Organization",
+        "legalName": "SleekDB",
+        "hasRorId": null,
+        "alternateNames": [
+          "SleekDB"
+        ],
+        "organizationType": "Open Source Software Project",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://github.com/SleekDB",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Computer engineering",
+      "Information engineering"
+    ],
+    "disciplineJustification": [
+      "The project involves design and implementation of a database system, including data storage and retrieval, which falls under Computer engineering.",
+      "As a database library manipulating information structures and query processing in PHP, it aligns with Information engineering."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLJustification": "After a systematic review of all available organizational data for SleekDB, no evidence was found linking it to EPFL. Specifically:\n\n1. Organization Name: The name \"SleekDB\" does not contain \"EPFL\" or any variation thereof.\n2. Parent Organization: No parentOrganization field is present, and no indication of EPFL or a joint EPFL–ETH entity as parent.\n3. Description: The GitHub description \"A NoSQL Database made using PHP...\" makes no mention of EPFL, SDSC, or the Swiss Data Science Center.\n4. README Content: The profile README does not mention EPFL or any EPFL-related initiative.\n5. Website/Blog Domain: The blog uses \"https://sleekdb.github.io/\", not an epfl.ch domain.\n6. Location: No location is specified (thus cannot be Lausanne, Switzerland).\n7. ROR/Infoscience: No ROR identifier linking to EPFL, and no Infoscience entries were found.\n8. Organization Membership: SleekDB is not part of any EPFL GitHub organizations.\n\nWith zero qualifying evidence, the cumulative confidence score is 0.0. As this is below the 0.5 threshold, SleekDB is assessed as not related to EPFL.",
+    "relatedToEPFLConfidence": 0.0,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 6327,
+    "estimated_output_tokens": 584,
+    "estimated_total_tokens": 6911,
+    "duration": 94.850496,
+    "start_time": "2025-11-07T09:11:30.595886",
+    "end_time": "2025-11-07T09:13:05.446382",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4804,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

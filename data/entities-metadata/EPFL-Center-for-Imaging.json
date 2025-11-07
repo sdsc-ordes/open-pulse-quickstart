@@ -1,0 +1,279 @@
+{
+  "link": "https://github.com/EPFL-Center-for-Imaging",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T09:07:58.260773",
+  "output": {
+    "name": "EPFL Center for Imaging",
+    "organizationType": "Research Institute",
+    "githubOrganizationMetadata": {
+      "login": "EPFL-Center-for-Imaging",
+      "name": "EPFL Center for Imaging",
+      "description": "",
+      "email": "imaging@epfl.ch",
+      "location": "Switzerland",
+      "company": null,
+      "blog": "https://imaging.epfl.ch",
+      "twitter_username": "EPFL_Imaging",
+      "public_repos": 46,
+      "public_gists": 0,
+      "followers": 18,
+      "following": 0,
+      "created_at": "2023-11-10T08:46:24Z",
+      "updated_at": "2023-11-13T08:41:01Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150429133?v=4",
+      "html_url": "https://github.com/EPFL-Center-for-Imaging",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "O_kgDOCPddzQ",
+      "url": "https://api.github.com/orgs/EPFL-Center-for-Imaging",
+      "repos_url": "https://api.github.com/orgs/EPFL-Center-for-Imaging/repos",
+      "events_url": "https://api.github.com/orgs/EPFL-Center-for-Imaging/events",
+      "hooks_url": "https://api.github.com/orgs/EPFL-Center-for-Imaging/hooks",
+      "issues_url": "https://api.github.com/orgs/EPFL-Center-for-Imaging/issues",
+      "members_url": "https://api.github.com/orgs/EPFL-Center-for-Imaging/members{/member}",
+      "public_members": [
+        "edwardando",
+        "faymanns",
+        "MalloryWittwer"
+      ],
+      "repositories": [
+        "napari-melt-pool-tracker",
+        "awesome-scientific-image-analysis",
+        "splinebox",
+        "napari-magic-wand",
+        "napari-orientationpy",
+        "napari-splinebox",
+        "ImagingLunch_ImagesInPython",
+        "python-intro-images",
+        "image-analysis-field-guide",
+        "ImagingLunch_nD_Image_Visualization",
+        "accel-large-image-proc-talk",
+        "napari-bee-annotator",
+        "depalma-napari-omero",
+        "orientationpy-binderhub",
+        "pyxu-cone-beam",
+        "yolo-workshop",
+        "python-setup",
+        "fiji-binderhub",
+        "ezomero",
+        "DeconvolutionImagingLunch",
+        "napari-rembg",
+        "ome2glancer",
+        "ImagingLunch_IntroductionToPytorch",
+        "pyxu-tutorial",
+        "napari-adaptive-painting",
+        "mousetumortrack",
+        "pyxudeconv",
+        "qupath-extension-pyalgos",
+        "napari-label-focus",
+        "mousetumornet",
+        "napari-cursor-tracker",
+        "mouselungseg",
+        "Mito_nucleoid_distances",
+        "basics-GPU-image-proc",
+        "nellie",
+        "napari-floodfill",
+        "napari-imaging-epfl-2023",
+        "api-py-algos",
+        "ij-plugin-pyalgos",
+        "pyxu-ldct-reader",
+        "napari-z-plotter",
+        "dask",
+        "single-cell-aligner",
+        "docker-web-gui",
+        "napari-remove-objects",
+        "napari-live-histogram"
+      ],
+      "teams": [],
+      "readme_url": null,
+      "readme_content": null,
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "The EPFL Center for Imaging is a central service and research facility at EPFL, providing imaging infrastructure, training and software tools for academic research; its website uses the EPFL domain and it is listed as an EPFL organizational unit in Infoscience.",
+    "description": "The EPFL Center for Imaging is an academic core facility within EPFL that develops and provides advanced imaging services, open-source software tools, workshops and training in image analysis for life sciences, physics and engineering research.",
+    "relatedToOrganization": [
+      "École Polytechnique Fédérale de Lausanne",
+      "Centre for Imaging",
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": "https://ror.org/02s376052",
+        "alternateNames": [
+          "EPFL",
+          "Swiss Federal Institute of Technology in Lausanne"
+        ],
+        "organizationType": "university",
+        "parentOrganization": "Board of the Swiss Federal Institutes of Technology",
+        "country": "Switzerland",
+        "website": "http://www.epfl.ch/",
+        "attributionConfidence": 0.95,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Centre for Imaging",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "research center",
+        "parentOrganization": "École Polytechnique Fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://infoscience.epfl.ch/entities/orgunit/be767363-e2bd-42e9-be10-49d16c73a83a",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "name": "Centre for Imaging",
+              "url": "https://infoscience.epfl.ch/entities/orgunit/be767363-e2bd-42e9-be10-49d16c73a83a",
+              "uuid": "be767363-e2bd-42e9-be10-49d16c73a83a",
+              "partOf": "VPA-AVP-CP"
+            },
+            "confidence": 0.9,
+            "justification": "Matched via Infoscience lab search tool for 'Centre for Imaging'.",
+            "matchedOn": [
+              "name"
+            ]
+          }
+        ]
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Information engineering",
+      "Computer engineering",
+      "Biological engineering",
+      "Biology",
+      "Health sciences"
+    ],
+    "disciplineJustification": [
+      "The organization’s repositories and workshops (napari plugins, image analysis tutorials) indicate expertise in image processing and algorithm development, mapping to Information engineering.",
+      "Numerous software projects and plugins demonstrate software engineering and tool development, aligning with Computer engineering.",
+      "The focus on imaging modalities and analysis for biological specimens and preclinical studies corresponds to Biological engineering.",
+      "Projects like mousetumortrack, mouselungseg and Mito_nucleoid_distances reflect applications in Biology.",
+      "Workshops and tools for biomedical imaging, tumor analysis and health-related image analysis map to Health sciences."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "Comprehensive EPFL relationship assessment:\n\n1. Organization Name Contains \"EPFL\" (ORGANIZATION_NAME, 0.5):\n   - The GitHub organization 'name' is \"EPFL Center for Imaging\", clearly including \"EPFL\".\n\n2. Parent Organization is École Polytechnique Fédérale de Lausanne (PARENT_ORGANIZATION, 0.6):\n   - The relatedToOrganization data lists the parentOrganization as \"École Polytechnique Fédérale de Lausanne\" (EPFL).\n\n3. Website Domain Uses epfl.ch (WEBSITE_DOMAIN, 0.5):\n   - The blog URL is \"https://imaging.epfl.ch\", an *.epfl.ch domain.\n\n4. Description Explicitly Mentions EPFL (BIO_MENTION, 0.3):\n   - The organization description states: \"The EPFL Center for Imaging is an academic core facility within EPFL...\".\n\n5. Infoscience Entity Found (INFOSCIENCE_ENTITY, 0.4):\n   - academicCatalogRelations includes an Infoscience orgunit \"Centre for Imaging\" matching the EPFL Center for Imaging.\n\nSumming contributions: 0.5 + 0.6 + 0.5 + 0.3 + 0.4 = 2.3, capped at 1.0. The cumulative confidence exceeds the 0.5 threshold, thus relatedToEPFL = true.",
+    "relatedToEPFLConfidence": 1.0,
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "27efb885-ae81-4308-8301-2f4f2359a081",
+          "name": "Andò, Edward",
+          "email": null,
+          "orcid": "0000-0001-5509-5287",
+          "affiliation": "IMAGING-GE",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/27efb885-ae81-4308-8301-2f4f2359a081"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match of the author name 'Edward Andò' affiliated with IMAGING-GE, found via search_infoscience_authors_tool for 'Edward Ando'.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "e660f16f-1ccd-4705-accb-2ca8e0edbf20",
+          "title": "PyTorch 2 Model for the prediction of single-artery segmentations for \"AngioPy segmentation: An open-source, user-guided deep learning tool for coronary artery segmentation\"",
+          "authors": [
+            "Andò, Edward",
+            "Mahendiran, Thabodhan"
+          ],
+          "abstract": "These are pytorch model weights for the angiopy-segmentation deep learning model, descriped in a paper published in 2024 in the International Journal of Cardiology: AngioPy segmentation: An open-source, user-guided deep learning tool for coronary artery segmentation. These help to predict a binary ...",
+          "doi": "10.5281/zenodo.13848135",
+          "publication_date": "2024-09-27",
+          "publication_type": "dataset::simulation data",
+          "url": "https://infoscience.epfl.ch/entities/publication/e660f16f-1ccd-4705-accb-2ca8e0edbf20",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "convolutional neural network",
+            "pytorch 2 model weights",
+            "segementation",
+            "angiography"
+          ]
+        },
+        "confidence": 0.85,
+        "justification": "Publication authored by Edward Andò, who is affiliated with IMAGING-GE, a unit of the Centre for Imaging.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "9165d5cf-c8c9-4351-a7c2-83f160eb5753",
+          "title": "Single-projection reconstruction technique for positioning monodisperse spheres in 3D with a divergent x-ray beam",
+          "authors": [
+            "Ando, Edward",
+            "Marks, Benjy",
+            "Roux, Stephane"
+          ],
+          "abstract": "The measurement of the position of single-sized spheres in 3D from a single, divergent, radiographic projection is addressed in the present study with the development of a novel method. Generally speaking, the location of the shadow cast by a single sphere on a detector defines a source-detector ray...",
+          "doi": "10.1088/1361-6501/abfbfe",
+          "publication_date": "2021-09-01",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/9165d5cf-c8c9-4351-a7c2-83f160eb5753",
+          "repository_url": null,
+          "lab": null,
+          "subjects": [
+            "Engineering",
+            "Multidisciplinary",
+            "Instruments & Instrumentation",
+            "granular media",
+            "reconstruction"
+          ]
+        },
+        "confidence": 0.85,
+        "justification": "Publication authored by Edward Andò, affiliated with IMAGING-GE, indicating involvement in Centre for Imaging activities.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "orgunit",
+        "entity": {
+          "type": "InfoscienceLab",
+          "uuid": "be767363-e2bd-42e9-be10-49d16c73a83a",
+          "name": "Centre for Imaging",
+          "description": null,
+          "url": "https://infoscience.epfl.ch/entities/orgunit/be767363-e2bd-42e9-be10-49d16c73a83a",
+          "parent_organization": "VPA-AVP-CP",
+          "website": null,
+          "research_areas": null
+        },
+        "confidence": 0.8,
+        "justification": "The 'Centre for Imaging' in Infoscience corresponds to the EPFL Center for Imaging core facility, matching the provided organization description and URL.",
+        "matchedOn": [
+          "name"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 9169,
+    "estimated_output_tokens": 2055,
+    "estimated_total_tokens": 11224,
+    "duration": 269.329399,
+    "start_time": "2025-11-07T09:03:28.931108",
+    "end_time": "2025-11-07T09:07:58.260507",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4916,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

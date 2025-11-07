@@ -1,0 +1,147 @@
+{
+  "link": "https://github.com/IBT-FMI",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T09:11:00.214673",
+  "output": {
+    "name": "FOS Functional and Molecular Imaging @MIT+ETH+UZH",
+    "organizationType": "Open Source Community",
+    "githubOrganizationMetadata": {
+      "login": "IBT-FMI",
+      "name": "FOS Functional and Molecular Imaging @MIT+ETH+UZH",
+      "description": "Free and Open Source Software focused on functional and molecular imaging.",
+      "email": "horea@mit.edu",
+      "location": "Cambridge, MA/USA",
+      "company": null,
+      "blog": "chymera.eu",
+      "twitter_username": null,
+      "public_repos": 12,
+      "public_gists": 0,
+      "followers": 7,
+      "following": 0,
+      "created_at": "2017-03-03T21:13:28Z",
+      "updated_at": "2020-07-17T18:38:55Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26174145?v=4",
+      "html_url": "https://github.com/IBT-FMI",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MTc0MTQ1",
+      "url": "https://api.github.com/orgs/IBT-FMI",
+      "repos_url": "https://api.github.com/orgs/IBT-FMI/repos",
+      "events_url": "https://api.github.com/orgs/IBT-FMI/events",
+      "hooks_url": "https://api.github.com/orgs/IBT-FMI/hooks",
+      "issues_url": "https://api.github.com/orgs/IBT-FMI/issues",
+      "members_url": "https://api.github.com/orgs/IBT-FMI/members{/member}",
+      "public_members": [
+        "damaggu",
+        "Doeme",
+        "faymanns",
+        "felixsc1",
+        "Jimmy2027",
+        "setina42",
+        "TheChymera"
+      ],
+      "repositories": [
+        "SAMRI",
+        "ABI-connectivity-data_generator",
+        "ABI-expression-data_generator",
+        "mouse-brain-templates",
+        "StereotaXYZ",
+        "gebuilder",
+        "COSplay",
+        "mockup_mouse-brain-templates",
+        "COSgen",
+        "NeuroGentooProject",
+        "calciumfMRI",
+        "micropython"
+      ],
+      "teams": [],
+      "readme_url": null,
+      "readme_content": null,
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "The organization self-describes as \"Free and Open Source Software\" for functional and molecular imaging and collaborates across multiple academic institutions (MIT, ETH, UZH) without a commercial or formal university department structure.",
+    "description": "Free and Open Source Software focused on functional and molecular imaging.",
+    "relatedToOrganization": [
+      "Massachusetts Institute of Technology",
+      "Swiss Federal Institute of Technology in Zurich",
+      "University of Zurich",
+      {
+        "type": "Organization",
+        "legalName": "Massachusetts Institute of Technology",
+        "hasRorId": null,
+        "alternateNames": [
+          "MIT"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "http://web.mit.edu/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Swiss Federal Institute of Technology in Zurich",
+        "hasRorId": "https://ror.org/05a28rw58",
+        "alternateNames": [
+          "ETH Zurich",
+          "Eidgenössische Technische Hochschule Zürich"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://ethz.ch/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "University of Zurich",
+        "hasRorId": "https://ror.org/02crff812",
+        "alternateNames": [
+          "UZH",
+          "Universität Zürich"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.uzh.ch/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Biological engineering",
+      "Computer engineering",
+      "Information engineering",
+      "Health sciences"
+    ],
+    "disciplineJustification": [
+      "Focus on the development of imaging tools for biological and molecular applications indicates Biological engineering.",
+      "The creation and maintenance of software libraries and analysis frameworks points to Computer engineering.",
+      "Repositories like data generators and template builders reflect data management and processing skills aligned with Information engineering.",
+      "The applications target functional and molecular imaging in neuroscience and biology, linking to Health sciences."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLJustification": "After a thorough review of all available organization data for \"FOS Functional and Molecular Imaging @MIT+ETH+UZH\", no evidence was found indicating any affiliation or relationship with EPFL. Specifically:\n\n1. Organization name does not contain \"EPFL\" or related terms (e.g., SDSC).\n2. Description and README do not mention EPFL or any EPFL initiatives.\n3. No website or blog with an epfl.ch domain (blog: chymera.eu).\n4. No location in Lausanne, Switzerland (location: Cambridge, MA/USA).\n5. No parent organization relationship linking to EPFL or joint EPFL initiative.\n6. No ROR entry or Infoscience entity associated with EPFL.\n7. No GitHub organization membership in any EPFL-related GitHub organizations.\n\nTherefore, cumulative EPFL relationship confidence is 0.0 (<0.5), and the organization is not related to EPFL.",
+    "relatedToEPFLConfidence": 0.0,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 7289,
+    "estimated_output_tokens": 632,
+    "estimated_total_tokens": 7921,
+    "duration": 352.854294,
+    "start_time": "2025-11-07T09:05:07.360148",
+    "end_time": "2025-11-07T09:11:00.214442",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4876,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

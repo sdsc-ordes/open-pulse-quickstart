@@ -1,0 +1,577 @@
+{
+  "link": "https://github.com/CyrilWaechter/revitpythonshell",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:34:56.631815",
+  "output": {
+    "name": "RevitPythonShell",
+    "applicationCategory": [
+      "Computer engineering",
+      "Building Information Modeling"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/revitpythonshell"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2014-01-01",
+    "datePublished": "2022-06-27",
+    "description": "An IronPython scripting environment for Autodesk Revit and Vasari.",
+    "featureList": null,
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/MIT.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Cyril Waechter",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "CyrilWaechter"
+        ],
+        "affiliation": null,
+        "affiliations": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "currentAffiliation": "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+        "affiliationHistory": [],
+        "contributionSummary": "Repository owner and maintainer",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Daren Thomas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "daren-thomas"
+        ],
+        "affiliation": null,
+        "affiliations": [
+          "Architecture and Building Systems"
+        ],
+        "currentAffiliation": "Architecture and Building Systems",
+        "affiliationHistory": [],
+        "contributionSummary": "Original version and maintainer",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Zachary Kron",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Original port to Vasari",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Akimitsu Hogge",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Original port to Vasari",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Joe Moorhouse",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Interactive shell based on IronLab project",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Jason Schaeffer",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Port to Revit 2011",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Ehsan Iran-Nejad",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "eirannejad"
+        ],
+        "affiliation": null,
+        "affiliations": [
+          "tva architects"
+        ],
+        "currentAffiliation": "tva architects",
+        "affiliationHistory": [],
+        "contributionSummary": "Countless improvements and maintenance",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Dan Rumery",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "DanRumery"
+        ],
+        "affiliation": null,
+        "affiliations": [
+          "Integrated Architectural Solutions"
+        ],
+        "currentAffiliation": "Integrated Architectural Solutions",
+        "affiliationHistory": [],
+        "contributionSummary": "Improved autocompletion",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Petr Mitev",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "mitevpi"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Port to Revit 2019",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Alvaro Ortega Pickmans",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "alvpickmans"
+        ],
+        "affiliation": null,
+        "affiliations": [
+          "CNPA - Laboratory of Numeric Cultures for Architectural Projects"
+        ],
+        "currentAffiliation": "CNPA - Laboratory of Numeric Cultures for Architectural Projects",
+        "affiliationHistory": [],
+        "contributionSummary": "Refactor to SDK csproject and release for Revit 2020",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "hdm-dt-fb",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "hdm-dt-fb"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Added set_font_sizes function for presenting RPS",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Nice3Point",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "Nice3point"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Process CI/CD improvements",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Chuong Ho",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "chuongmep"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Project maintenance",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows"
+    ],
+    "programmingLanguage": [
+      "C#",
+      "Python",
+      "IronPython"
+    ],
+    "softwareRequirements": [
+      "Autodesk Revit 2018 or later",
+      "IronPython",
+      " .NET 6.0"
+    ],
+    "processorRequirements": [],
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/CyrilWaechter/revitpythonshell",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/CyrilWaechter/revitpythonshell/blob/master/README.md",
+    "hasExecutableInstructions": "https://github.com/CyrilWaechter/revitpythonshell/blob/master/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/CyrilWaechter/revitpythonshell/blob/master/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Information engineering"
+    ],
+    "disciplineJustification": [
+      "The software is an engineering tool for scripting within a Building Information Modeling environment"
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [
+      "https://www.autodesk.com/developer-network/platform-technologies/revit-api"
+    ],
+    "relatedToOrganizations": [
+      "Swiss Federal Institute of Technology in Zurich",
+      "Autodesk, Inc.",
+      "VK Architects & Engineers SA",
+      "BVN Architecture Pty Ltd"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "Swiss Federal Institute of Technology in Zurich",
+        "hasRorId": "https://ror.org/01grw2c62",
+        "alternateNames": [
+          "ETH Zurich",
+          "Eidgenössische Technische Hochschule Zürich",
+          "École polytechnique fédérale de Zurich"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://ethz.ch/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Autodesk, Inc.",
+        "hasRorId": "https://ror.org/04bcf4c22",
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.autodesk.com/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "VK Architects & Engineers SA",
+        "hasRorId": null,
+        "alternateNames": [
+          "VK Group"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Belgium",
+        "website": "http://vkgroup.be/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "BVN Architecture Pty Ltd",
+        "hasRorId": "https://ror.org/012c3zc03",
+        "alternateNames": [
+          "BVN Architecture"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Australia",
+        "website": "https://www.bvn.com.au/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Acknowledged in README and Credits section for project sponsorship",
+      "Developer and contributor affiliations"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "This repository contains source code for an interactive scripting environment tool"
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.0,
+    "relatedToEPFLJustification": "Exhaustive review found no evidence linking this repository to EPFL. Specifically: 1) No author email or git author email with an @epfl.ch domain. 2) No ORCID employment or affiliation records for EPFL. 3) No mentions of EPFL or SDSC in the repository README or description. 4) No Infoscience entities associated with the repository. 5) Related organizations include ETH Zurich, Autodesk, VK Architects & Engineers, and BVN Architecture, but none from EPFL. 6) No EPFL domains detected in website or code repository metadata. Cumulative confidence remains at 0.0.",
+    "gitAuthors": [
+      {
+        "name": "dthomas.ch",
+        "email": "dthomas.ch@dacc7128-d41e-11de-9aee-2b7272db14c4",
+        "commits": {
+          "total": 126,
+          "firstCommitDate": "2009-11-18",
+          "lastCommitDate": "2015-01-30"
+        }
+      },
+      {
+        "name": "Daren Thomas",
+        "email": "daren-thomas@users.noreply.github.com",
+        "commits": {
+          "total": 44,
+          "firstCommitDate": "2015-03-20",
+          "lastCommitDate": "2022-08-19"
+        }
+      },
+      {
+        "name": "Ehsan Iran-Nejad",
+        "email": "eirannejad@gmail.com",
+        "commits": {
+          "total": 35,
+          "firstCommitDate": "2016-09-24",
+          "lastCommitDate": "2022-02-01"
+        }
+      },
+      {
+        "name": "Daren Thomas",
+        "email": "thomas@arch.ethz.ch",
+        "commits": {
+          "total": 28,
+          "firstCommitDate": "2016-06-22",
+          "lastCommitDate": "2020-06-08"
+        }
+      },
+      {
+        "name": "daren-thomas",
+        "email": "dthomas.ch@gmail.com",
+        "commits": {
+          "total": 24,
+          "firstCommitDate": "2013-12-16",
+          "lastCommitDate": "2017-03-07"
+        }
+      },
+      {
+        "name": "Chuong Ho",
+        "email": "31106432+chuongmep@users.noreply.github.com",
+        "commits": {
+          "total": 22,
+          "firstCommitDate": "2022-06-27",
+          "lastCommitDate": "2022-08-18"
+        }
+      },
+      {
+        "name": "dthomas.ch@gmail.com",
+        "email": "dthomas.ch@gmail.com@dacc7128-d41e-11de-9aee-2b7272db14c4",
+        "commits": {
+          "total": 18,
+          "firstCommitDate": "2013-12-16",
+          "lastCommitDate": "2014-11-07"
+        }
+      },
+      {
+        "name": "Álvaro Ortega Pickmans",
+        "email": "aortegapickmans@gmail.com",
+        "commits": {
+          "total": 15,
+          "firstCommitDate": "2020-01-17",
+          "lastCommitDate": "2020-01-26"
+        }
+      },
+      {
+        "name": "chuongmep",
+        "email": "chuongpqvn@gmail.com",
+        "commits": {
+          "total": 9,
+          "firstCommitDate": "2022-06-27",
+          "lastCommitDate": "2022-07-06"
+        }
+      },
+      {
+        "name": "Gertjan Van den Broek",
+        "email": "gvandenbroek@vkgroup.be",
+        "commits": {
+          "total": 5,
+          "firstCommitDate": "2021-02-08",
+          "lastCommitDate": "2021-03-15"
+        }
+      },
+      {
+        "name": "Jeremy Tammik",
+        "email": "jeremy.tammik@autodesk.com",
+        "commits": {
+          "total": 5,
+          "firstCommitDate": "2021-03-23",
+          "lastCommitDate": "2021-06-21"
+        }
+      },
+      {
+        "name": "Dan Rumery",
+        "email": "Dan_Rumery@bvn.com.au",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2017-07-12",
+          "lastCommitDate": "2017-07-14"
+        }
+      },
+      {
+        "name": "PMoureu",
+        "email": "prmoureu@gmail.com",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2016-06-08",
+          "lastCommitDate": "2017-03-03"
+        }
+      },
+      {
+        "name": "Alvaro Ortega Pickmans",
+        "email": "aortegapickmans@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2020-01-17",
+          "lastCommitDate": "2020-01-26"
+        }
+      },
+      {
+        "name": "Cyril Waechter",
+        "email": "CyrilWaechter@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2022-09-04",
+          "lastCommitDate": "2022-09-04"
+        }
+      },
+      {
+        "name": "Google Code Exporter",
+        "email": "GoogleCodeExporter@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2015-03-16",
+          "lastCommitDate": "2015-03-16"
+        }
+      },
+      {
+        "name": "Jeremy Tammik",
+        "email": "jeremy.tammik@eur.autodesk.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2015-05-15",
+          "lastCommitDate": "2015-05-15"
+        }
+      },
+      {
+        "name": "PavelAltynnikov",
+        "email": "Robenzon11@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2021-12-15",
+          "lastCommitDate": "2021-12-15"
+        }
+      },
+      {
+        "name": "Petr Mitev",
+        "email": "p.mitevpi@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2018-08-30",
+          "lastCommitDate": "2018-08-30"
+        }
+      },
+      {
+        "name": "f.beaupere",
+        "email": "dt12345/",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-03-02",
+          "lastCommitDate": "2018-04-03"
+        }
+      },
+      {
+        "name": "hdm-dt-fb",
+        "email": "dt12345/",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-03-02",
+          "lastCommitDate": "2018-04-03"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "http://systems.arch.ethz.ch/",
+      "https://github.com/architecture-building-systems/revitpythonshell",
+      "https://github.com/CyrilWaechter/revitpythonshell/releases/latest"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 26320,
+    "estimated_output_tokens": 3727,
+    "estimated_total_tokens": 30047,
+    "duration": 269.815975,
+    "start_time": "2025-11-04T18:30:26.815596",
+    "end_time": "2025-11-04T18:34:56.631571",
+    "status_code": 200
+  }
+}

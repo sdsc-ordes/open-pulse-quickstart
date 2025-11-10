@@ -29,8 +29,7 @@ rm -rf .venv
 uv venv
 
 # 3. Install all project dependencies from the pyproject.toml file
-# We assume 'ipykernel' is listed as a dev dependency in this file
-uv pip sync pyproject.toml
+uv pip install "./src/tentris-quickstart[dev]"
 ```
 
 **3. Register the Kernel:**

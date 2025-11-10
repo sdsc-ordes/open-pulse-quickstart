@@ -16,5 +16,5 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "ipykernel",
-    "jupyter-client"  # Good to add this explicitly
+    "jupyter-client" 
 ]

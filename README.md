@@ -69,31 +69,3 @@ SPARQL Tutorial: https://sparql.dev/
 #### Document based Metadata
 
 As an alternative to SPARQL we compiled the metadata in a much more familiar formar and included a subset in `data/entities-metadata`
-
-
-## How to participate in the Mini-Hackathon using Renku?
-
-### User flow 
-
-1. Choose your team captain !
-2. Each team member makes an account on [RenkuLab](https://renkulab.io/)
-3. The team captain copies the [project quickstart](https://renkulab.io/p/open-pulse-hackathon/quickstart) into their renku user profile
-4. Captain adds all his team members (renku users) to that project
-5. Team sets up their project: add your own code repository and add your own data (Notes: do any code/data connections before launching a work session.)
-6. If you want to launch the quickstart session, you will be prompted to enter the connection secrets (see documents).
-7. If you want to launch a session with all the code from all connected code repositories, we recommend launching the standard VSCode interface of Renku and working there.
-
-![alt text](docs/images/Renku.png)
-
-Here are the [Open Pulse Hackathon Renku Project](https://renkulab.io/g/open-pulse-hackathon) and [the template project](https://renkulab.io/p/open-pulse-hackathon/quickstart)from which you can kick off.
-
-For further Jupyter Hub Documentation you can read [here](https://jupyterhub.readthedocs.io/en/stable/);
-
-## How to submit your project?
-
-TBD..
-
-
-## Credits
-
-TBD.

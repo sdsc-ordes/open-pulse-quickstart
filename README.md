@@ -43,12 +43,16 @@ To be extended....
 ![alt text](docs/images/Neo4J.png)
 
 Link to Neo4j Open Pulse Instance: 
+- Neo4J Browser: http://128.178.219.51:7503
+- Neo4J Bolt: http://128.178.219.51:7504
 Documentation: https://neo4j.com/docs/
-Cypher Tutorial: 
+Cypher Tutorial: https://neo4j.com/docs/cypher-manual/current/appendix/tutorials/
 
 #### CSV Example dataset
 
 As an alternative to the interaction with NEO4j we compiled a subset of the graph in csv format which can be found in  `data/community-network`. 
+
+Code for loading this csv is available in the `neo4j-quickstart` notebook.
 
 ### Repositories Metadata
 
@@ -65,22 +69,3 @@ SPARQL Tutorial: https://sparql.dev/
 #### Document based Metadata
 
 As an alternative to SPARQL we compiled the metadata in a much more familiar formar and included a subset in `data/entities-metadata`
-
-
-## How to participate in the Mini-Hackathon using Renku?
-
-TBD: Describe here the user flow including Renku use. 
-
-![alt text](docs/images/Renku.png)
-
-Link to Renku Project: https://renkulab.io/p/robin.franken-1/quickstart
-Jupyter Hub Documentation: https://jupyterhub.readthedocs.io/en/stable/
-
-## How to submit your project?
-
-TBD..
-
-
-## Credits
-
-TBD.

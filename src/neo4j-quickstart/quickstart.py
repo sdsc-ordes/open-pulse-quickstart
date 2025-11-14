@@ -11,15 +11,15 @@ from utils.builder_models import df_to_pydantic_models
 from utils.visualization import visualize_graph
 from utils.visualization import visualize_clusters
 
-# ---------------------------
-# EXTRACT DATA FROM NEO4J
-# ---------------------------
+# -----------------------------
+# NEO4J SETUP (Do not edit)
+# -----------------------------
 
-# Define your nodes
+# Here are the available nodes
 
 nodes = ["user", "repo", "org"]
 
-# Define your relationships (edges)
+# Here are the available relationships (edges)
 
 relationships = {
     "member_of": {"type1": {"source": "user", "target": "org"}},
@@ -47,8 +47,72 @@ def get_downloader():
 
     return Neo4JDownloader(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD, NEO4J_DATABASE)
 
-def extract_data(nodes, relationships):
+def connect_neo4j(): 
     downloader = get_downloader()
+    return downloader
+
+# ------------------------------------------------------------------
+# EXTRACT CUSTOM SUBSET OF DATA FROM NEO4J WITH CYPHER QUERRIES
+# ------------------------------------------------------------------
+
+downloader = connect_neo4j()
+
+# QUERY: Get all nodes that have the EPFL string in their name (whether they are user, repository or org)
+
+epfl_query ="""
+MATCH (n)
+WHERE toLower(n.name) CONTAINS 'epfl'
+RETURN n.name AS name, labels(n) AS node_type;
+"""
+
+epfl_nodes = downloader.run_custom_query(epfl_query)
+print("RESULTS: all nodes that match the epfl string: ",epfl_nodes)
+
+# QUERY: Get all organizations
+
+orgs_query = """
+MATCH (o:org)
+RETURN o.name AS organization;
+"""
+organizations = downloader.run_custom_query(orgs_query)
+print("RESULTS: all organizations in the graph: ",organizations)
+
+# QUERY : Get all users for an organization 
+
+users_of_org_query = """
+MATCH (u:user)-[:member_of]->(o:org)
+WHERE o.name = $org_name
+RETURN u.name AS user
+ORDER BY user;
+"""
+parameters = {
+    "org_name": "SwissDataScienceCenter"
+}
+users_in_org = downloader.run_custom_query(users_of_org_query, parameters)
+print("RESULTS: users inside the organization: ", users_in_org)
+
+# QUERY: For a list of users get all their repositories
+
+# Here we base the query on the Contributor of edge.
+repos_of_users_query= """
+MATCH (u:user)-[:contributor_of]->(repo:repo)
+WHERE u.name IN $user_list
+RETURN u.name AS user,
+       repo.name AS repository
+ORDER BY user, repository;
+"""
+parameters = {
+    "user_list": ["yousra-elbachir", "Victor2175", "williamaeberhard"]
+}
+users_and_their_repos = downloader.run_custom_query(repos_of_users_query, parameters)
+print("RESULTS: users and their repositories: ", users_and_their_repos)
+
+# ---------------------------
+# EXTRACT ALL DATA FROM NEO4J
+# ---------------------------
+
+def extract_data(nodes, relationships):
+    downloader = connect_neo4j()
 
     try:
         nodes_ids, nodes_features = downloader.retrieve_nodes(nodes)

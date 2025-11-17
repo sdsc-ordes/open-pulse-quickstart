@@ -104,3 +104,9 @@ class Neo4JDownloader:
     def retrieve_all(self):
         with self.driver.session(database=self.database) as session:
             session.execute_read(self.get_entire_graph)
+
+    def run_custom_query(self, query, parameters=None):
+        with self.driver.session(database=self.database) as session:
+            results = session.run(query, parameters)
+            data = [result.data() for result in results]
+            return data

@@ -11,10 +11,7 @@ dependencies = [
     "numpy",
     "pytz",
     "pyparsing",
-]
-
-[project.optional-dependencies]
-dev = [
-    "ipykernel",
-    "jupyter-client" 
-]
+    "requests",
+    "python-dotenv",
+    "ipykernel",      
+    "jupyter-client"  ]

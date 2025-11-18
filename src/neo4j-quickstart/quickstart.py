@@ -107,6 +107,21 @@ parameters = {
 users_and_their_repos = downloader.run_custom_query(repos_of_users_query, parameters)
 print("RESULTS: users and their repositories: ", users_and_their_repos)
 
+
+# QUERY : Get the shortest paths between 2 organizations
+
+distance_orgs_query= """
+MATCH (o1:org {name: "DeepLabCut"}), (o2:org {name: "bethgelab"})
+MATCH p = shortestPath((o1)-[*]-(o2))
+RETURN
+    p AS full_path,
+    nodes(p)[1..-1] AS nodes_in_between,
+    length(p) AS number_of_hops;
+"""
+distance_orgs = downloader.run_custom_query(distance_orgs_query, parameters)
+print("RESULTS: shortest paths between organizations: ", distance_orgs)
+
+
 # ---------------------------
 # EXTRACT ALL DATA FROM NEO4J
 # ---------------------------

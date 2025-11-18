@@ -1,0 +1,152 @@
+{
+  "link": "https://github.com/petrasvestartas/libigl",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:28:42.940227",
+  "output": {
+    "name": "libigl",
+    "applicationCategory": [
+      "Computer Graphics",
+      "Geometry Processing"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/libigl"
+    ],
+    "conditionsOfAccess": "Free and open-source",
+    "dateCreated": null,
+    "datePublished": null,
+    "description": "A simple header-only C++ geometry processing library for computer graphics and geometry analysis.",
+    "featureList": [
+      "Mesh IO",
+      "Surface processing",
+      "Sparse matrix solvers",
+      "Deformation algorithms",
+      "Visualization utilities"
+    ],
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": [],
+    "license": "https://spdx.org/licenses/MPL-2.0.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "petrasvestartas"
+        ],
+        "affiliation": [],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Maintainer of this fork; contributor to geometry processing utilities.",
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Vestartas, Petras",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": 19,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Found exact match for 'Petras Vestartas' in Infoscience author search with ORCID and UUID matching.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          }
+        ]
+      }
+    ],
+    "operatingSystem": [
+      "Linux",
+      "MacOS",
+      "Windows"
+    ],
+    "programmingLanguage": [
+      "C++"
+    ],
+    "softwareRequirements": [
+      "C++11 compiler",
+      "CMake >= 3.1",
+      "Eigen3"
+    ],
+    "processorRequirements": [],
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": [],
+    "url": "https://github.com/petrasvestartas/libigl",
+    "identifier": null,
+    "hasAcknowledgements": "Derived from the original libigl project by Alec Jacobson, Ondrej Sykora, and Justin Solomon.",
+    "hasDocumentation": "https://libigl.github.io/libigl/",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/libigl#installation",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/libigl/blob/master/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Applied sciences",
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "The library provides computational tools for geometry processing and computer graphics applications."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [],
+    "relatedToOrganizationsROR": [],
+    "relatedToOrganizationJustification": [],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "This repository contains source code for a C++ software library."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.4,
+    "relatedToEPFLJustification": "1) INFOSCIENCE_ENTITY (0.4): An Infoscience EPFL profile (UUID e6ef0944-84c5-4456-9106-b0d4f59b0d2) was found for the author ‘Petras Vestartas’ on infoscience.epfl.ch, indicating an EPFL-associated researcher. No @epfl.ch email, ORCID employment, GitHub organization membership, location in Lausanne, or EPFL mentions in bio/README/company fields were found. Cumulative confidence = 0.4; below the 0.5 threshold, so relatedToEPFL=false.",
+    "gitAuthors": [
+      {
+        "name": "Petras Vestartas",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 6,
+          "firstCommitDate": "2025-03-25",
+          "lastCommitDate": "2025-04-02"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://libigl.github.io/libigl",
+      "https://github.com/petrasvestartas/libigl"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 30790,
+    "estimated_output_tokens": 1384,
+    "estimated_total_tokens": 32174,
+    "duration": 156.504348,
+    "start_time": "2025-11-04T17:26:06.435593",
+    "end_time": "2025-11-04T17:28:42.939941",
+    "status_code": 200
+  }
+}

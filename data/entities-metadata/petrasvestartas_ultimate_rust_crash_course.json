@@ -1,0 +1,314 @@
+{
+  "link": "https://github.com/petrasvestartas/ultimate_rust_crash_course",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:15:25.973198",
+  "output": {
+    "name": "Ultimate Rust Crash Course",
+    "applicationCategory": [
+      "educational",
+      "software tutorial"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/ultimate_rust_crash_course"
+    ],
+    "conditionsOfAccess": "Free to access under MIT License",
+    "dateCreated": "2018-01-01",
+    "datePublished": "2018-01-01",
+    "description": "A hands-on companion repository for the Ultimate Rust Crash Course, featuring Rust programming fundamentals through interactive examples and exercises.",
+    "featureList": [
+      "Comprehensive introduction to Rust",
+      "Hands-on exercises covering variables, functions, types, control flow, ownership, traits, collections, closures, and threads",
+      "Final project demonstrating image generation in Rust"
+    ],
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": "https://github.com/CleanCut/ultimate_rust_crash_course",
+    "isPluginModuleOf": [],
+    "license": "https://spdx.org/licenses/MIT.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Nathan Stocks",
+        "email": "nathan@agileperception.com",
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": null,
+        "affiliation": null,
+        "affiliations": [
+          "Agile Perception"
+        ],
+        "currentAffiliation": "Agile Perception",
+        "affiliationHistory": [],
+        "contributionSummary": "Author and maintainer of the Ultimate Rust Crash Course materials.",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Linux",
+      "MacOS",
+      "Windows"
+    ],
+    "programmingLanguage": [
+      "Rust",
+      "Markdown",
+      "TOML"
+    ],
+    "softwareRequirements": [
+      "Rust",
+      "Cargo"
+    ],
+    "processorRequirements": [],
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": [],
+    "url": "https://agileperception.com/ultimate_rust_crash_course",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/ultimate_rust_crash_course/blob/main/README.md",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/ultimate_rust_crash_course/blob/main/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/ultimate_rust_crash_course/blob/main/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "The repository provides programming tutorials and code examples in Rust, a key part of computer engineering education."
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "Agile Perception",
+      "GitHub, Inc.",
+      "R3",
+      "Lashomb.com",
+      "dave.io",
+      "Tutao GmbH (Tutanota)"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "Agile Perception",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://agileperception.com/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "GitHub, Inc.",
+        "hasRorId": "https://ror.org/02pn8bh61",
+        "alternateNames": [
+          "GitHub"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": "Microsoft Corporation",
+        "country": "United States",
+        "website": "https://github.com/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "R3",
+        "hasRorId": "https://ror.org/05jtc7q45",
+        "alternateNames": [
+          "R3 LLC"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.r3.com/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Lashomb.com",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Organization",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://lashomb.com/",
+        "attributionConfidence": 0.2,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "dave.io",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Organization",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://dave.io/",
+        "attributionConfidence": 0.2,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Tutao GmbH (Tutanota)",
+        "hasRorId": null,
+        "alternateNames": [
+          "Tutanota"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://tutanota.com/",
+        "attributionConfidence": 0.1,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Email domain agileperception.com indicates affiliation with Agile Perception"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains source code, examples, and exercises for a programming course"
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.0,
+    "relatedToEPFLJustification": "No evidence of EPFL affiliation was found in any data source:\n1. EMAIL_DOMAIN: No @epfl.ch email addresses among the repository author or git commit authors.\n2. ORCID_EMPLOYMENT / ORCID_AFFILIATION: No ORCID IDs or employment records linking to EPFL.\n3. INFOSCIENCE_ENTITY: No Infoscience records or EPFL research outputs associated with this repository.\n4. BIO_MENTION / README_MENTION: The README and author biography contain no mention of EPFL or SDSC.\n5. COMPANY_FIELD: The author’s listed affiliation is 'Agile Perception', not EPFL.\n6. LOCATION: No location data indicating Lausanne, Switzerland.\n7. ORGANIZATION_MEMBERSHIP: The repository or its authors are not members of any EPFL GitHub organizations.\n8. RELATED_ORGANIZATION / PARENT_ORGANIZATION: None of the related organizations (Agile Perception, GitHub, R3, Lashomb.com, dave.io, Tutao GmbH) are EPFL or EPFL-affiliated.\n9. WEBSITE_DOMAIN / ORGANIZATION_NAME: No EPFL domain or EPFL name in the repository or related websites.\n10. GIT_AUTHOR_EMAIL / GIT_COMMIT_PERCENTAGE: No EPFL-affiliated commit authors; therefore no commit percentage from EPFL.\n\nAll evidence categories were checked and yielded no support for an EPFL relationship, resulting in a total confidence of 0.0.",
+    "gitAuthors": [
+      {
+        "name": "Nathan Stocks",
+        "email": "cleancut@github.com",
+        "commits": {
+          "total": 62,
+          "firstCommitDate": "2020-03-21",
+          "lastCommitDate": "2025-02-25"
+        }
+      },
+      {
+        "name": "Nathan Stocks",
+        "email": "nathan@agileperception.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2020-08-09",
+          "lastCommitDate": "2021-01-23"
+        }
+      },
+      {
+        "name": "Brian LaShomb",
+        "email": "brian@lashomb.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2021-11-02",
+          "lastCommitDate": "2021-11-02"
+        }
+      },
+      {
+        "name": "Dave Williams",
+        "email": "dave@dave.io",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2025-02-25",
+          "lastCommitDate": "2025-02-25"
+        }
+      },
+      {
+        "name": "Jan Macku",
+        "email": "macku.jenda@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2021-06-07",
+          "lastCommitDate": "2021-06-20"
+        }
+      },
+      {
+        "name": "Kristján Oddsson",
+        "email": "koddsson@github.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2022-02-18",
+          "lastCommitDate": "2022-02-19"
+        }
+      },
+      {
+        "name": "PauMAVA",
+        "email": "paumachetti@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2021-01-21",
+          "lastCommitDate": "2021-01-21"
+        }
+      },
+      {
+        "name": "Alexandr Hacicheant",
+        "email": "a.hacicheant@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-08-08",
+          "lastCommitDate": "2020-08-08"
+        }
+      },
+      {
+        "name": "Jamie Rolfs",
+        "email": "jamie.rolfs@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2021-02-18",
+          "lastCommitDate": "2021-02-18"
+        }
+      },
+      {
+        "name": "Nathan",
+        "email": "nlmicklatcher@tutanota.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2022-05-27",
+          "lastCommitDate": "2022-05-27"
+        }
+      },
+      {
+        "name": "Ruxandra Fediuc",
+        "email": "ruxandra.fediuc@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-04-22",
+          "lastCommitDate": "2020-04-22"
+        }
+      },
+      {
+        "name": "Viktor Kolomeyko",
+        "email": "Viktor.Kolomeyko@r3.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2023-11-24",
+          "lastCommitDate": "2023-11-24"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://agileperception.com/ultimate_rust_crash_course"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 23542,
+    "estimated_output_tokens": 2744,
+    "estimated_total_tokens": 26286,
+    "duration": 250.622497,
+    "start_time": "2025-11-04T18:11:15.350507",
+    "end_time": "2025-11-04T18:15:25.973004",
+    "status_code": 200
+  }
+}

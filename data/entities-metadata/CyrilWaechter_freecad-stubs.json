@@ -1,0 +1,206 @@
+{
+  "link": "https://github.com/CyrilWaechter/freecad-stubs",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:18:41.575835",
+  "output": {
+    "name": "freecad-stubs",
+    "applicationCategory": [
+      "Computer-aided design",
+      "Software development"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/freecad-stubs"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2020-09-17",
+    "datePublished": "2020-09-17",
+    "description": "FreeCAD stubs generated using mypy.stubgen to assist IDE type checking and auto-completion for FreeCAD modules.",
+    "featureList": null,
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": "https://github.com/python/mypy",
+    "isPluginModuleOf": [
+      "FreeCAD"
+    ],
+    "license": "https://spdx.org/licenses/LGPL-3.0-only.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Cyril Waechter",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [
+          "Laboratory of Numeric Cultures for Architectural Projects, ENAC, EPFL"
+        ],
+        "affiliations": [],
+        "currentAffiliation": "Laboratory of Numeric Cultures for Architectural Projects, ENAC, EPFL",
+        "affiliationHistory": [],
+        "contributionSummary": "Developed scripts for generating FreeCAD stubs using mypy.stubgen",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ],
+    "softwareRequirements": [
+      "mypy",
+      "FreeCAD",
+      "Python 3"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/CyrilWaechter/freecad-stubs",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/CyrilWaechter/freecad-stubs/blob/master/README.md",
+    "hasExecutableInstructions": "https://github.com/CyrilWaechter/freecad-stubs/blob/master/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/CyrilWaechter/freecad-stubs/blob/master/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": [],
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "Tool generates Python stubs for FreeCAD modules, facilitating development in engineering CAD contexts"
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "BIM Insight",
+      "École polytechnique fédérale de Lausanne",
+      "School of Architecture, Civil and Environmental Engineering",
+      "Laboratory of Numeric Cultures for Architectural Projects"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "BIM Insight",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://biminsight.ch/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "École polytechnique fédérale de Lausanne",
+        "hasRorId": "https://ror.org/02y4n1b28",
+        "alternateNames": [
+          "EPFL",
+          "École Polytechnique Fédérale de Lausanne",
+          "Ecole Polytechnique Federale de Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "School of Architecture, Civil and Environmental Engineering",
+        "hasRorId": null,
+        "alternateNames": [
+          "ENAC",
+          "École nationale d'architecture, de génie civil et d'environnement"
+        ],
+        "organizationType": "AcademicDepartment",
+        "parentOrganization": "École polytechnique fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://www.enac.epfl.ch/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Laboratory of Numeric Cultures for Architectural Projects",
+        "hasRorId": null,
+        "alternateNames": [
+          "CNPA",
+          "Laboratoire de cultures numériques pour la pratique architecturale"
+        ],
+        "organizationType": "ResearchLaboratory",
+        "parentOrganization": "School of Architecture, Civil and Environmental Engineering",
+        "country": "Switzerland",
+        "website": null,
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Author affiliation from GitHub profile and license metadata"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains scripts and generated stubs for software development"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 0.5,
+    "relatedToEPFLJustification": "We find two independent sources of EPFL affiliation for this repository:\n\n1. Author Affiliation Metadata (BIO_MENTION, +0.25):\n   - The repository’s author metadata lists “Laboratory of Numeric Cultures for Architectural Projects, ENAC, EPFL” as the current affiliation of Cyril Waechter. This explicitly names EPFL as the institutional affiliation.\n\n2. Related Organization ROR Entry (RELATED_ORGANIZATION, +0.25):\n   - The repository metadata “relatedToOrganizationsROR” includes a ROR entry for “École polytechnique fédérale de Lausanne” (EPFL). This direct link to EPFL further confirms the repository’s institutional relationship.\n\nSumming these evidence contributions (0.25 + 0.25) yields a confidence score of 0.50, meeting the ≥0.50 threshold for establishing an EPFL relationship.",
+    "gitAuthors": [
+      {
+        "name": "CyrilWaechter",
+        "email": "cyril@biminsight.ch",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2020-09-17",
+          "lastCommitDate": "2020-10-18"
+        }
+      },
+      {
+        "name": "Cyril Waechter",
+        "email": "CyrilWaechter@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-12-21",
+          "lastCommitDate": "2020-12-21"
+        }
+      },
+      {
+        "name": "luz paz",
+        "email": "luzpaz@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2020-12-21",
+          "lastCommitDate": "2020-12-21"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://github.com/CyrilWaechter/freecad-stubs"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 15490,
+    "estimated_output_tokens": 2399,
+    "estimated_total_tokens": 17889,
+    "duration": 271.3427,
+    "start_time": "2025-11-04T18:14:10.232935",
+    "end_time": "2025-11-04T18:18:41.575635",
+    "status_code": 200
+  }
+}

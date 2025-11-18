@@ -1,0 +1,380 @@
+{
+  "link": "https://github.com/DeepLabCut",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T09:00:53.206965",
+  "output": {
+    "name": "DeepLabCut",
+    "organizationType": "Academic Research Group",
+    "githubOrganizationMetadata": {
+      "login": "DeepLabCut",
+      "name": "DeepLabCut",
+      "description": "DeepLabCut, a software package for animal pose estimation. Created by the A. and M.W. Mathis Labs",
+      "email": "admin@deeplabcut.org",
+      "location": "EPFL",
+      "company": null,
+      "blog": "deeplabcut.org",
+      "twitter_username": "deeplabcut",
+      "public_repos": 21,
+      "public_gists": 0,
+      "followers": 417,
+      "following": 0,
+      "created_at": "2020-01-13T20:59:21Z",
+      "updated_at": "2025-06-02T12:04:24Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59848143?v=4",
+      "html_url": "https://github.com/DeepLabCut",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5ODQ4MTQz",
+      "url": "https://api.github.com/orgs/DeepLabCut",
+      "repos_url": "https://api.github.com/orgs/DeepLabCut/repos",
+      "events_url": "https://api.github.com/orgs/DeepLabCut/events",
+      "hooks_url": "https://api.github.com/orgs/DeepLabCut/hooks",
+      "issues_url": "https://api.github.com/orgs/DeepLabCut/issues",
+      "members_url": "https://api.github.com/orgs/DeepLabCut/members{/member}",
+      "public_members": [
+        "AlexEMG",
+        "MMathisLab"
+      ],
+      "repositories": [
+        "DeepLabCut",
+        "DeepLabCut-live",
+        "DLC-inferencespeed-benchmark",
+        "napari-deeplabcut",
+        "DeepLabCut-live-GUI",
+        "DeepLabCut-Workshop-Materials",
+        ".github",
+        "DLClibrary",
+        "DeepLabCut-core",
+        "maDLC_NatureMethods2022",
+        "DLCutils",
+        "DeepLabCut-live-pytorch",
+        "DeepLabCut-WebApp",
+        "napari-DLCLabelingAlpha",
+        "Primer-MotionCapture",
+        "benchmark",
+        "DLC2NWB",
+        "Docker4DeepLabCut2.0",
+        "DeepLabCut_maDLC_DemoData",
+        "UnitTestData",
+        "contrib"
+      ],
+      "teams": [],
+      "readme_url": "https://github.com/DeepLabCut/.github/blob/main/profile/README.md",
+      "readme_content": "## Welcome to the DeepLabCut Organization!  👋\n\n🙋‍♀️ DeepLabCut™ is an efficient method for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. \n- The [main code repository is here](https://github.com/DeepLabCut/DeepLabCut). Contains code for all necessary steps to do pose estimation incl. GUI.\n- 👩‍💻 [Read the documentation](https://deeplabcut.github.io/DeepLabCut/) for how to get started and how to use DeepLabCut.\n\nWe also have several related code repositories that may be of interest:\n \n - [DLC-Live!](https://github.com/DeepLabCut/DeepLabCut-live) & [DLC-Live! GUI](https://github.com/DeepLabCut/DeepLabCut-live-GUI) -- export your trained DeepLabCut model and run it for live analysis. Consider using our easy GUI to do so.\n - [DLCUtils](https://github.com/DeepLabCut/DLCutils) -- this repo hosts some code and key links to helper packages that input the outputs of DeepLabCut for downstream analysis. \n - [DLC Workshop & Educational Materials](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials) -- learn about how to use and develop with DeepLabCut!\n - [DLC2Kinematics](https://github.com/AdaptiveMotorControlLab/DLC2Kinematics) -- use this code to load DeepLabCut (H5) files for movement analysis, dev. by MW Mathis Lab.\n - [DLC2Action](https://github.com/amathislab/DLC2action) -- for action segmentation based on pose estimation data, dev. by A Mathis Group.\n - [CEBRA](https://github.com/AdaptiveMotorControlLab/CEBRA) -- use this code to load DeepLabCut (H5) files for advnced nonlinear embedding analysis and joint modeling, dev. by MW Mathis Lab.\n\n\n🌈 Contribution guidelines to this project can be [found here](https://github.com/DeepLabCut/DeepLabCut/blob/master/CONTRIBUTING.md)!\n\n🍿 Find more resources, our papers, and examples on the [main website](http://www.mackenziemathislab.org/deeplabcut)!\n\n🧙 Check out the repos below to find helper code, additional tools, and more! \n",
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "DeepLabCut is developed and maintained by the Alexander Mathis and Mackenzie W. Mathis labs at EPFL, with a strong focus on research, academic publications, and open‐source dissemination of methods, indicating an academic research group structure.",
+    "description": "DeepLabCut, a software package for animal pose estimation. Created by the A. and M.W. Mathis Labs",
+    "relatedToOrganization": [
+      "Ecole polytechnique fédérale de Lausanne",
+      "Brain Mind Institute",
+      "Prof Alexander Mathis Group",
+      {
+        "type": "Organization",
+        "legalName": "Ecole polytechnique fédérale de Lausanne",
+        "hasRorId": null,
+        "alternateNames": [
+          "École Polytechnique Fédérale de Lausanne",
+          "EPFL"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 0.95,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "type": "InfoscienceAuthor",
+              "uuid": null,
+              "name": "Ecole polytechnique fédérale de Lausanne",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null
+            },
+            "confidence": 0.9,
+            "justification": "Matched EPFL in Infoscience and known institutional home of repository founders",
+            "matchedOn": [
+              "name"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Organization",
+        "legalName": "Brain Mind Institute",
+        "hasRorId": null,
+        "alternateNames": [
+          "BMI"
+        ],
+        "organizationType": "Research Institute",
+        "parentOrganization": "Ecole polytechnique fédérale de Lausanne",
+        "country": "Switzerland",
+        "website": "https://bmi.epfl.ch/",
+        "attributionConfidence": 0.6,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "type": "InfoscienceAuthor",
+              "uuid": null,
+              "name": "Brain Mind Institute",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null
+            },
+            "confidence": 0.8,
+            "justification": "Found Brain Mind Institute in Infoscience as the parent unit of the Prof Alexander Mathis Group",
+            "matchedOn": [
+              "name"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Organization",
+        "legalName": "Prof Alexander Mathis Group",
+        "hasRorId": null,
+        "alternateNames": [
+          "Alexander Mathis Group"
+        ],
+        "organizationType": "Research Group",
+        "parentOrganization": "Brain Mind Institute",
+        "country": "Switzerland",
+        "website": "https://infoscience.epfl.ch/organisms/4935f194-314a-44ef-b0ac-a6b2197df007",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "orgunit",
+            "entity": {
+              "type": "InfoscienceAuthor",
+              "uuid": null,
+              "name": "Prof Alexander Mathis Group",
+              "email": null,
+              "orcid": null,
+              "affiliation": null,
+              "profile_url": null
+            },
+            "confidence": 0.9,
+            "justification": "Identified Prof Alexander Mathis Group as lab hosting DeepLabCut development",
+            "matchedOn": [
+              "name"
+            ]
+          }
+        ]
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Information engineering",
+      "Biological engineering",
+      "Computer engineering",
+      "Biology"
+    ],
+    "disciplineJustification": [
+      "Information engineering: use of deep neural networks, transfer learning, and real‐time inference pipelines.",
+      "Biological engineering: application of computational methods to quantify and analyze animal behavior and biomechanics.",
+      "Computer engineering: development of software frameworks, performance benchmarking, GUI design, and integration with hardware for live tracking.",
+      "Biology: core application domain is animal pose estimation for neuroscience, ethology, genetics, and biomechanics research."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "1. relatedToOrganization includes “Ecole polytechnique fédérale de Lausanne” (legalName for EPFL) as a related organization (ROR linkage). Weight = 0.4.  2. academicCatalogRelations list Infoscience orgunit entities for EPFL labs (Ecole polytechnique fédérale de Lausanne, Brain Mind Institute, Prof Alexander Mathis Group), demonstrating EPFL academic repository ties. Weight = 0.4.  3. GitHub metadata 'location' field is “EPFL,” indicating the organization is based at EPFL. Weight = 0.2.  Sum = 1.0 (capped at 1.0) ⇒ relatedToEPFL = true.",
+    "relatedToEPFLConfidence": 1.0,
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "f97b60da-bcab-4f2e-ba12-0ee0c4d0d6eb",
+          "title": "On the inference speed and video-compression robustness of DeepLabCut",
+          "authors": [
+            "Mathis, Alexander",
+            "Warren, Richard"
+          ],
+          "abstract": "Pose estimation is crucial for many applications in neuroscience, biomechanics, genetics and beyond. We recently presented a highly efficient method for markerless pose estimation based on transfer learning with deep neural networks called DeepLabCut. Current experiments produce vast amounts of vide...",
+          "doi": "10.1101/457242",
+          "publication_date": "2018-10-30",
+          "publication_type": "report",
+          "url": "https://infoscience.epfl.ch/entities/publication/f97b60da-bcab-4f2e-ba12-0ee0c4d0d6eb"
+        },
+        "confidence": 0.9,
+        "justification": "Title contains 'DeepLabCut' and this report introduces the DeepLabCut tool itself.",
+        "matchedOn": [
+          "title"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "061ceb8d-6d39-4c75-982f-e72c3903ad8a",
+          "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+          "authors": [
+            "Mathis, Alexander",
+            "Mamidanna, Pranav",
+            "Cury, Kevin M.",
+            "Abe, Taiga",
+            "Murthy, Venkatesh N.",
+            "Mathis, Mackenzie Weygandt",
+            "Bethge, Matthias"
+          ],
+          "abstract": "Quantifying behavior is crucial for many applications in neuroscience. Videography provides easy methods for the observation and recording of animal behavior in diverse settings, yet extracting particular aspects of a behavior for further analysis can be highly time consuming. In motor control studi...",
+          "doi": "10.1038/s41593-018-0209-y",
+          "publication_date": "2018-09-01",
+          "publication_type": "journal article",
+          "url": "https://infoscience.epfl.ch/entities/publication/061ceb8d-6d39-4c75-982f-e72c3903ad8a"
+        },
+        "confidence": 0.95,
+        "justification": "Exact title match with DeepLabCut core publication about the software.",
+        "matchedOn": [
+          "title",
+          "doi"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "963cdfdc-c3cd-4d71-9e34-d245041eb791",
+          "title": "Using DeepLabCut for 3D markerless pose estimation across species and behaviors",
+          "authors": [
+            "Nath, Tanmay",
+            "Mathis, Alexander",
+            "Chen, An Chi",
+            "Patel, Amir",
+            "Bethge, Matthias",
+            "Mathis, Mackenzie Weygandt"
+          ],
+          "abstract": "Noninvasive behavioral tracking of animals during experiments is critical to many scientific pursuits. Extracting the poses of animals without using markers is often essential to measuring behavioral effects in biomechanics, genetics, ethology, and neuroscience. However, extracting detailed poses wi...",
+          "doi": "10.1038/s41596-019-0176-0",
+          "publication_date": "2019-07-01",
+          "publication_type": "journal article",
+          "url": "https://infoscience.epfl.ch/entities/publication/963cdfdc-c3cd-4d71-9e34-d245041eb791"
+        },
+        "confidence": 0.9,
+        "justification": "Title contains DeepLabCut and this journal article extends the software to 3D pose estimation.",
+        "matchedOn": [
+          "title",
+          "doi"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "01654480-b4ac-4bb0-bb0a-20f6eef92316",
+          "name": "Mathis, Alexander",
+          "email": null,
+          "orcid": "0000-0002-3777-2202",
+          "affiliation": "UPAMATHIS",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/01654480-b4ac-4bb0-bb0a-20f6eef92316"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match on author name 'Mathis, Alexander' returned by Infoscience author search.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "061ceb8d-6d39-4c75-982f-e72c3903ad8a",
+          "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+          "authors": [
+            "Mathis, Alexander",
+            "Mamidanna, Pranav",
+            "Cury, Kevin M.",
+            "Abe, Taiga",
+            "Murthy, Venkatesh N.",
+            "Mathis, Mackenzie Weygandt",
+            "Bethge, Matthias"
+          ],
+          "abstract": "Quantifying behavior is crucial for many applications in neuroscience. Videography provides easy methods for the observation and recording of animal behavior in diverse settings, yet extracting particular aspects of a behavior for further analysis can be highly time consuming. In motor control studi...",
+          "doi": "10.1038/s41593-018-0209-y",
+          "publication_date": "2018-09-01",
+          "publication_type": "journal article",
+          "url": "https://infoscience.epfl.ch/entities/publication/061ceb8d-6d39-4c75-982f-e72c3903ad8a"
+        },
+        "confidence": 0.9,
+        "justification": "Alexander Mathis is lead author of this DeepLabCut publication.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "2e985179-c5f5-41b2-aa2d-367f2564acca",
+          "name": "Mathis, Mackenzie",
+          "email": null,
+          "orcid": null,
+          "affiliation": "UPMWMATHIS",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/2e985179-c5f5-41b2-aa2d-367f2564acca"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match on author name 'Mathis, Mackenzie' returned by Infoscience author search.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "061ceb8d-6d39-4c75-982f-e72c3903ad8a",
+          "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+          "authors": [
+            "Mathis, Alexander",
+            "Mamidanna, Pranav",
+            "Cury, Kevin M.",
+            "Abe, Taiga",
+            "Murthy, Venkatesh N.",
+            "Mathis, Mackenzie Weygandt",
+            "Bethge, Matthias"
+          ],
+          "abstract": "Quantifying behavior is crucial for many applications in neuroscience. Videography provides easy methods for the observation and recording of animal behavior in diverse settings, yet extracting particular aspects of a behavior for further analysis can be highly time consuming. In motor control studi...",
+          "doi": "10.1038/s41593-018-0209-y",
+          "publication_date": "2018-09-01",
+          "publication_type": "journal article",
+          "url": "https://infoscience.epfl.ch/entities/publication/061ceb8d-6d39-4c75-982f-e72c3903ad8a"
+        },
+        "confidence": 0.9,
+        "justification": "Mackenzie Mathis is co-author on the core DeepLabCut publication.",
+        "matchedOn": [
+          "authors"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 9819,
+    "estimated_output_tokens": 2648,
+    "estimated_total_tokens": 12467,
+    "duration": 327.58193,
+    "start_time": "2025-11-07T08:55:25.624700",
+    "end_time": "2025-11-07T09:00:53.206630",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4921,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "link": "https://github.com/Animadversio",
+  "type": "user",
+  "parsedTimestamp": "2025-11-07T08:47:09.269522",
+  "output": {
+    "name": "Binxu",
+    "fullname": "Binxu",
+    "githubHandle": "Animadversio",
+    "githubUserMetadata": {
+      "login": "Animadversio",
+      "name": "Binxu",
+      "bio": "Research Fellow @KempnerInstitute  @Harvard, PhD in System Neuro @PonceLab. Generative models, optimization and geometry to understand brain",
+      "email": "binxu_wang@hms.harvard.edu",
+      "location": "Boston, MA",
+      "company": "Kempner Institute at Harvard",
+      "blog": "https://animadversio.github.io",
+      "twitter_username": "WangBinxu",
+      "public_repos": 149,
+      "public_gists": 2,
+      "followers": 149,
+      "following": 141,
+      "created_at": "2017-05-12T21:11:57Z",
+      "updated_at": "2025-05-17T04:57:52Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28660472?v=4",
+      "html_url": "https://github.com/Animadversio",
+      "orcid": null,
+      "orcid_activities": null,
+      "organizations": [
+        "PonceLab"
+      ],
+      "social_accounts": [
+        {
+          "provider": "TWITTER",
+          "url": "https://twitter.com/WangBinxu",
+          "display_name": "@WangBinxu"
+        }
+      ],
+      "readme_url": "https://github.com/Animadversio/Animadversio/blob/main/README.md",
+      "readme_content": "### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Animadversio)\n\nI study computational neuroscience. I use deep generative models, optimization methods, and differential geometry to investigate visual representations in the brain and in the neural networks. \n\nQuick Bio\n- I am currently a NeuroAI research fellow in [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/leadership/#researchers). \n- I obtained my Ph.D. in Neuroscience in 2023, working with professor [Carlos R. Ponce](https://ponce.hms.harvard.edu/) at Harvard Medical School. \n  - The lab originated at Washington University, and we moved from Washington University to HMS in 2021.\n- I obtained B.S. in Physics at Peking University, in Yuanpei College, advised by theoretical neuroscientist [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm). \n- My [academic website](https://scholar.harvard.edu/binxuw/home) with my teaching slides, tutorials and papers. \n- My [personal website](https://animadversio.github.io/) with my notes on math, ML, and fun projects! \n\n<img src=\"https://github-readme-stats.vercel.app/api?username=Animadversio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs,issues\" width=\"400\"/>\n<img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Animadversio&hide=Jupyter%20Notebook&&layout=compact\" width=\"400\"/>\n\n<!-- ![Binxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animadversio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs,issues)\n![Binxu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animadversio&hide=Jupyter%20Notebook&&layout=compact | width=400) -->\n\n<!--\n**Animadversio/Animadversio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- 🔭 I’m currently working on ...\n- 🌱 I’m currently learning ...\n- 👯 I’m looking to collaborate on ...\n- 🤔 I’m looking for help with ...\n- 💬 Ask me about ...\n- 📫 How to reach me: ...\n- 😄 Pronouns: ...\n- ⚡ Fun fact: ...\n-->\n"
+    },
+    "relatedToOrganization": [
+      "Kempner Institute for the Study of Natural and Artificial Intelligence",
+      "Harvard University",
+      "Ponce Lab",
+      "Swiss Data Science Center",
+      "EPFL",
+      "PonceLab",
+      {
+        "type": "Organization",
+        "legalName": "PonceLab",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "Laboratory",
+        "parentOrganization": null,
+        "country": null,
+        "website": null,
+        "attributionConfidence": 0.1,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Profile bio and README state current position as NeuroAI research fellow at the Kempner Institute for the Study of Natural and Artificial Intelligence and the company field lists 'Kempner Institute at Harvard'.",
+      "Bio indicates affiliation with @Harvard and Harvard Medical School, and the Kempner Institute is part of Harvard University.",
+      "GitHub organizations list and bio mention PhD at System Neuro @PonceLab with Prof. Carlos R. Ponce at Harvard Medical School.",
+      "README explicitly states 'Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.'",
+      "README mentions 'Swiss Data Science Center at EPFL', indicating affiliation with EPFL."
+    ],
+    "discipline": [
+      "Health sciences",
+      "Biology",
+      "Mathematics",
+      "Information engineering"
+    ],
+    "disciplineJustification": [
+      "Work focuses on computational neuroscience and brain research, a subfield of health sciences.",
+      "Investigation of visual representations in the brain falls under biological sciences.",
+      "Use of differential geometry and optimization methods indicates a mathematical discipline.",
+      "Application of deep generative models and computational methods aligns with information engineering."
+    ],
+    "position": [
+      "Data Engineer",
+      "NeuroAI Research Fellow"
+    ],
+    "positionJustification": [
+      "README specifies 'Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.'",
+      "Bio and README state role as 'NeuroAI research fellow' at the Kempner Institute at Harvard."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "After exhaustive review of all available data, we identified three distinct pieces of evidence indicating an affiliation with EPFL:\n\n1. README_MENTION (0.25): The user's profile README explicitly states “Currently, I am working as a Data Engineer at the Swiss Data Science Center at EPFL.” (source: GitHub README). This direct mention of EPFL via the Swiss Data Science Center provides high­-confidence evidence.\n\n2. RELATED_ORGANIZATION (0.25): Enrichment data lists “Swiss Data Science Center” as a related organization. The SDSC is a joint initiative of EPFL and ETH Zürich; references to SDSC are strong evidence of EPFL relationship.\n\n3. RELATED_ORGANIZATION (0.25): Enrichment data also lists “EPFL” itself as a related organization. Being directly related to EPFL in the enrichment metadata is further high­-confidence evidence.\n\nSumming the contributions: 0.25 + 0.25 + 0.25 = 0.75. This exceeds the 0.50 threshold, so the user is marked as related to EPFL.",
+    "relatedToEPFLConfidence": 0.75,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 7546,
+    "estimated_output_tokens": 713,
+    "estimated_total_tokens": 8259,
+    "duration": 184.560272,
+    "start_time": "2025-11-07T08:44:04.709035",
+    "end_time": "2025-11-07T08:47:09.269307",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4950,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

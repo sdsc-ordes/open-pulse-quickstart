@@ -1,0 +1,288 @@
+{
+  "link": "https://github.com/petrasvestartas/Rossiniere",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:36:22.218753",
+  "output": {
+    "name": "Rossiniere",
+    "applicationCategory": [
+      "Computer engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/Rossiniere"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2023-03-01",
+    "datePublished": "2023-03-01",
+    "description": "Grasshopper and Rhino 3D project files for modelling the Rossinière roof",
+    "featureList": null,
+    "image": [
+      {
+        "contentUrl": "https://user-images.githubusercontent.com/18013985/222185602-2186bbd4-2ea5-4629-9d9f-e12cf70a1b77.png",
+        "keywords": "illustrative image"
+      },
+      {
+        "contentUrl": "https://raw.githubusercontent.com/petrasvestartas/Rossiniere/main/Rossiniere_Roof.png",
+        "keywords": "illustrative image"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/NOASSERTION",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "petrasvestartas"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Petras Vestartas",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Exact match on name returned a unique author profile in Infoscience, including ORCID.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using lo...",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "thesis::doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Wood-wood Connections",
+                "Joinery",
+                "Robotic Fabrication",
+                "Raw-Timber",
+                "Assembly"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Author matches 'Vestartas, Petras' from the repository; this doctoral thesis is a key publication by Petras Vestartas.",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "authors",
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries. While loc...",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "conference proceedings::conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Laser Scanning",
+                "Industrial Robot",
+                "Robotic Fabrication",
+                "Unprocessed Timber",
+                "Raw-wood"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Authored by Petras Vestartas; includes DOI and matches repository author's research domain.",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "authors",
+              "doi"
+            ]
+          }
+        ]
+      }
+    ],
+    "operatingSystem": [
+      "Windows",
+      "MacOS"
+    ],
+    "programmingLanguage": null,
+    "softwareRequirements": [
+      "Rhino 3D",
+      "Grasshopper"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [
+      {
+        "name": "RossiniereRoof.3dm",
+        "description": "Rhino 3D model file",
+        "contentUrl": "https://raw.githubusercontent.com/petrasvestartas/Rossiniere/main/RossiniereRoof.3dm",
+        "measurementTechnique": null,
+        "variableMeasured": null
+      },
+      {
+        "name": "RossiniereRoof.ghx",
+        "description": "Grasshopper definition file",
+        "contentUrl": "https://raw.githubusercontent.com/petrasvestartas/Rossiniere/main/RossiniereRoof.ghx",
+        "measurementTechnique": null,
+        "variableMeasured": null
+      },
+      {
+        "name": "Rossiniere_Roof.png",
+        "description": "Project preview image",
+        "contentUrl": "https://raw.githubusercontent.com/petrasvestartas/Rossiniere/main/Rossiniere_Roof.png",
+        "measurementTechnique": null,
+        "variableMeasured": null
+      }
+    ],
+    "url": "https://github.com/petrasvestartas/Rossiniere",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": null,
+    "hasExecutableInstructions": null,
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://raw.githubusercontent.com/petrasvestartas/Rossiniere/main/README.md",
+    "hasFunding": null,
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "Uses Grasshopper and Rhino files for computational geometry and design"
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [],
+    "relatedToOrganizationsROR": [],
+    "relatedToOrganizationJustification": null,
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains project files for a computational design project in Rhino and Grasshopper"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 1.0,
+    "relatedToEPFLJustification": "After a systematic review of all available data for the “Rossiniere” repository, we found multiple high-confidence signals of EPFL affiliation in the EPFL Infoscience database. 1) An exact-match person record for “Petras Vestartas” in Infoscience (entity URL at infoscience.epfl.ch) indicates direct inclusion in EPFL’s research repository (confidence: 0.4). 2) A doctoral thesis by Petras Vestartas (DOI 10.5075/epfl-thesis-8928) is hosted in EPFL Infoscience, confirming author’s doctoral work at EPFL (confidence: 0.4). 3) A conference paper by the same author (DOI 10.22260/ISARC2020/0107) is likewise hosted in EPFL Infoscience (confidence: 0.4). Summing these high-confidence Infoscience evidence items (0.4 + 0.4 + 0.4) yields 1.2, capped to 1.0. No counter-indications were found: no @epfl.ch email or GitHub metadata existed, but the Infoscience records alone provide definitive proof of EPFL affiliation. Because the cumulative confidence (1.0) exceeds the 0.5 threshold, the repository is related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "Petras Vestartas",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2023-03-01",
+          "lastCommitDate": "2023-03-01"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://github.com/petrasvestartas/Rossiniere"
+    ],
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "6ff6f148-6829-4bf0-b811-9c7bd37bb165",
+          "title": "Centre d'activités Gare Grand Chalet à Rossinière",
+          "authors": [
+            "Weinand, Yves"
+          ],
+          "abstract": null,
+          "doi": null,
+          "publication_date": "2018-11-30",
+          "publication_type": "lecture/talk",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/154788",
+          "repository_url": null,
+          "lab": null,
+          "subjects": []
+        },
+        "confidence": 0.4,
+        "justification": "Matches the query 'Rossiniere' in title; however, this is an architectural lecture about the Rossinière site, not the software repository.",
+        "externalId": null,
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "uuid": "65054018-6079-42bc-9a32-57a0948c6efb",
+          "title": "Sedimentation of the artificial lake of Rossinière (Switzerland)",
+          "authors": [
+            "Bollaert, E.",
+            "Boillat, J.-L.",
+            "Golliard, D."
+          ],
+          "abstract": null,
+          "doi": null,
+          "publication_date": "1998",
+          "publication_type": "conference proceedings::conference paper",
+          "url": "https://infoscience.epfl.ch/record/20.500.14299/5758",
+          "repository_url": null,
+          "lab": null,
+          "subjects": []
+        },
+        "confidence": 0.4,
+        "justification": "Matches the query 'Rossiniere' in title; relates to the Rossinière location but not the software tool.",
+        "externalId": null,
+        "matchedOn": [
+          "name"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 12344,
+    "estimated_output_tokens": 2752,
+    "estimated_total_tokens": 15096,
+    "duration": 121.932277,
+    "start_time": "2025-11-04T17:34:20.286249",
+    "end_time": "2025-11-04T17:36:22.218526",
+    "status_code": 200
+  }
+}

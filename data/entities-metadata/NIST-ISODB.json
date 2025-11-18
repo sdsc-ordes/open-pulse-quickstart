@@ -1,0 +1,102 @@
+{
+  "link": "https://github.com/NIST-ISODB",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T10:13:55.930875",
+  "output": {
+    "name": "NIST Adsorption Data Resources",
+    "organizationType": "Government Research Institute",
+    "githubOrganizationMetadata": {
+      "login": "NIST-ISODB",
+      "name": "NIST Adsorption Data Resources",
+      "description": "Tools to support the NIST Adsorption Isotherm Database and Adsorbent Materials Registry",
+      "email": "isotherm@nist.gov",
+      "location": "Gaithersburg, Maryland, USA",
+      "company": null,
+      "blog": "http://adsorption.nist.gov",
+      "twitter_username": null,
+      "public_repos": 5,
+      "public_gists": 0,
+      "followers": 8,
+      "following": 0,
+      "created_at": "2020-09-24T16:08:30Z",
+      "updated_at": "2020-12-01T21:49:29Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71839810?v=4",
+      "html_url": "https://github.com/NIST-ISODB",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxODM5ODEw",
+      "url": "https://api.github.com/orgs/NIST-ISODB",
+      "repos_url": "https://api.github.com/orgs/NIST-ISODB/repos",
+      "events_url": "https://api.github.com/orgs/NIST-ISODB/events",
+      "hooks_url": "https://api.github.com/orgs/NIST-ISODB/hooks",
+      "issues_url": "https://api.github.com/orgs/NIST-ISODB/issues",
+      "members_url": "https://api.github.com/orgs/NIST-ISODB/members{/member}",
+      "public_members": [
+        "ltalirz"
+      ],
+      "repositories": [
+        "isodb-library",
+        "isodbtools",
+        "isotherm-digitizer-panel",
+        "aif_tutorial",
+        "AJBrownThesisIsotherms"
+      ],
+      "teams": [],
+      "readme_url": null,
+      "readme_content": null,
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "The organization operates under NIST (National Institute of Standards and Technology), a U.S. federal government research institute, offering data resources and software tools rather than commercial products or university coursework.",
+    "description": "Tools to support the NIST Adsorption Isotherm Database and Adsorbent Materials Registry",
+    "relatedToOrganization": [
+      "National Institute of Standards and Technology",
+      {
+        "type": "Organization",
+        "legalName": "National Institute of Standards and Technology",
+        "hasRorId": "https://ror.org/05xpvk416",
+        "alternateNames": [
+          "Instituto Nacional de Estándares y Tecnología",
+          "NBS",
+          "NIST"
+        ],
+        "organizationType": "government agency",
+        "parentOrganization": "United States Department of Commerce",
+        "country": "United States",
+        "website": "http://www.nist.gov/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Chemical engineering",
+      "Information engineering",
+      "Industrial and production engineering"
+    ],
+    "disciplineJustification": [
+      "Development and curation of adsorption isotherm data is a core chemical engineering activity.",
+      "Creation of database libraries, digitizer interfaces, and tutorials indicates expertise in information engineering and data management.",
+      "Registry and standardization of materials data involve workflows and systems typical of industrial and production engineering."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLJustification": "A comprehensive review of all available data for the organization 'NIST Adsorption Data Resources' reveals no indicators of any EPFL affiliation:\n\n1. Organization Name: 'NIST Adsorption Data Resources' contains no reference to EPFL or related terms (weight = 0.0).\n2. Description: 'Tools to support the NIST Adsorption Isotherm Database and Adsorbent Materials Registry' does not mention EPFL, SDSC, or Swiss Data Science Center (weight = 0.0).\n3. GitHub Metadata:\n   - README content is unavailable/null, so no EPFL references (weight = 0.0).\n   - Company field is null (weight = 0.0).\n4. Location: 'Gaithersburg, Maryland, USA' is not Lausanne, Switzerland (weight = 0.0).\n5. Parent Organization: The organization is linked to the National Institute of Standards and Technology (U.S. Dept. of Commerce), not EPFL (weight = 0.0).\n6. Website/Blog: 'adsorption.nist.gov' domain is not an EPFL domain (weight = 0.0).\n7. ROR Data: ROR entry is for NIST (https://ror.org/05xpvk416), not EPFL (weight = 0.0).\n8. Infoscience Entities: None found (weight = 0.0).\n9. GitHub Memberships: No membership in any EPFL GitHub organizations (weight = 0.0).\n\nSumming all contributions yields a total confidence of 0.0. This is well below the 0.5 threshold, thus the organization is not related to EPFL.",
+    "relatedToEPFLConfidence": 0.0,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 7111,
+    "estimated_output_tokens": 711,
+    "estimated_total_tokens": 7822,
+    "duration": 63.552233,
+    "start_time": "2025-11-07T10:12:52.378391",
+    "end_time": "2025-11-07T10:13:55.930624",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4883,
+    "github_rate_reset": "2025-11-07T10:58:02"
+  }
+}

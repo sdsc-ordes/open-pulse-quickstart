@@ -1,0 +1,251 @@
+{
+  "link": "https://github.com/petrasvestartas/warp",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:44:57.721828",
+  "output": {
+    "name": "warp",
+    "applicationCategory": null,
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/warp"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2025-09-03",
+    "datePublished": "2025-09-03",
+    "description": "Shell aliases for managing and running Rust, Python, and C++ session projects.",
+    "featureList": null,
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": null,
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Author and contributor",
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Vestartas, Petras",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": 19,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Found via search_infoscience_authors_tool for exact name \"Petras Vestartas\" in EPFL's Infoscience repository.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using low-tech resources.",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Wood-wood Connections",
+                "Joinery",
+                "Robotic Fabrication",
+                "Raw-Timber",
+                "Assembly"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Retrieved from Petras Vestartas's publications via get_author_publications_tool; exact DOI match.",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "doi",
+              "name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries.",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Laser Scanning",
+                "Industrial Robot",
+                "Robotic Fabrication",
+                "Unprocessed Timber",
+                "Raw-wood"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Retrieved via get_author_publications_tool for Petras Vestartas; DOI matches publication record.",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "doi",
+              "authors"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "8031bf95-ef35-4bcc-976a-129bd9daa3ee",
+              "title": "Robotic Timber Construction",
+              "authors": [
+                "Rogeau, Nicolas",
+                "Vestartas, Petras"
+              ],
+              "abstract": null,
+              "doi": null,
+              "publication_date": "2022-11-05",
+              "publication_type": "conference poster",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/192128",
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.8,
+            "justification": "Included as one of the recent conference outputs by Petras Vestartas; identified via get_author_publications_tool.",
+            "externalId": null,
+            "matchedOn": [
+              "authors",
+              "title"
+            ]
+          }
+        ]
+      }
+    ],
+    "operatingSystem": [
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Rust",
+      "Python",
+      "C++",
+      "Bash"
+    ],
+    "softwareRequirements": [
+      "Bash",
+      "Cargo",
+      "Conda",
+      "Python"
+    ],
+    "processorRequirements": [],
+    "memoryRequirements": null,
+    "requiresGPU": false,
+    "supportingData": null,
+    "url": "https://github.com/petrasvestartas/warp",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/warp",
+    "hasExecutableInstructions": null,
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": null,
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "Based on the software being shell alias scripts to manage code sessions, falls under computer engineering."
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [
+      "Google LLC"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "Google LLC",
+        "hasRorId": "https://ror.org/03yrm5c26",
+        "alternateNames": [
+          "Google"
+        ],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.google.com/",
+        "attributionConfidence": 0.1,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": null,
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains software alias definitions and scripts for managing development sessions."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 1.0,
+    "relatedToEPFLJustification": "We found multiple independent records of Petras Vestartas in EPFL's Infoscience repository, each constituting high-confidence evidence of an EPFL affiliation. Specifically:\n1. Petras Vestartas is listed as a person entity in EPFL's Infoscience database (uuid e6ef0944...), confirming his affiliation with EPFL (INFOSCIENCE_ENTITY, 0.4).\n2. His doctoral thesis \"Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver\" is an EPFL Infoscience publication (INFOSCIENCE_ENTITY, 0.4).\n3. His conference paper \"Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication\" is also in EPFL Infoscience (INFOSCIENCE_ENTITY, 0.4).\n4. His conference poster \"Robotic Timber Construction\" appears in EPFL Infoscience (INFOSCIENCE_ENTITY, 0.4).\nSumming these evidence contributions yields 1.6, capped at the maximum confidence of 1.0. Because the cumulative confidence exceeds the 0.5 threshold, we conclude the repository is related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "Petras Vestartas",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 5,
+          "firstCommitDate": "2025-09-03",
+          "lastCommitDate": "2025-09-03"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://github.com/petrasvestartas/warp",
+      "https://github.com/petrasvestartas"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 11818,
+    "estimated_output_tokens": 2530,
+    "estimated_total_tokens": 14348,
+    "duration": 141.926855,
+    "start_time": "2025-11-04T17:42:35.794784",
+    "end_time": "2025-11-04T17:44:57.721639",
+    "status_code": 200
+  }
+}

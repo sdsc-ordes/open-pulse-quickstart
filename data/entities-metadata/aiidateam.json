@@ -1,0 +1,563 @@
+{
+  "link": "https://github.com/aiidateam",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T10:18:05.903527",
+  "output": {
+    "name": "AiiDA team",
+    "organizationType": "Open Source Community / Research Software Development Team",
+    "githubOrganizationMetadata": {
+      "login": "aiidateam",
+      "name": "AiiDA team",
+      "description": "The development team of AiiDA",
+      "email": null,
+      "location": null,
+      "company": null,
+      "blog": "http://www.aiida.net",
+      "twitter_username": null,
+      "public_repos": 74,
+      "public_gists": 0,
+      "followers": 70,
+      "following": 0,
+      "created_at": "2016-09-13T21:30:58Z",
+      "updated_at": "2025-10-09T11:41:06Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22181836?v=4",
+      "html_url": "https://github.com/aiidateam",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMTgxODM2",
+      "url": "https://api.github.com/orgs/aiidateam",
+      "repos_url": "https://api.github.com/orgs/aiidateam/repos",
+      "events_url": "https://api.github.com/orgs/aiidateam/events",
+      "hooks_url": "https://api.github.com/orgs/aiidateam/hooks",
+      "issues_url": "https://api.github.com/orgs/aiidateam/issues",
+      "members_url": "https://api.github.com/orgs/aiidateam/members{/member}",
+      "public_members": [
+        "blokhin",
+        "borellim",
+        "broeder-j",
+        "chrisjsewell",
+        "edan-bainglass",
+        "eimrek",
+        "ezpzbz",
+        "giovannipizzi",
+        "greschd",
+        "ltalirz",
+        "mbercx",
+        "merkys",
+        "ramirezfranciscof",
+        "rikigigi",
+        "superstar54",
+        "unkcpz"
+      ],
+      "repositories": [
+        "aiida-workgraph",
+        "aiida-shell",
+        "aiida-explorer",
+        "aiida-atomistic",
+        "aiida-core",
+        "acwf-verification-scripts",
+        "aiida-common-workflows",
+        "aiida-s3",
+        "aiida-quantumespresso",
+        "aiida-pythonjob",
+        "kiwipy",
+        "aiida-project",
+        "aiida-gui",
+        "aiida-resource-registry",
+        "plumpy",
+        "renku2-aiida-integration",
+        "disk-objectstore",
+        "qe-tools",
+        "airflow-prototype",
+        "aiida-firecrest",
+        "aiida-hubbard",
+        "aiida-website",
+        "aiida-wannier90-workflows",
+        "aiida-pseudo",
+        "aiida-tutorials",
+        "aiida-quantumespresso-ph",
+        "aiida-registry",
+        "aiida-codtools",
+        "aiida-hyperqueue",
+        "aiida-sssp-workflow",
+        "aiida-cp2k",
+        "team-compass",
+        "aiida-code-registry",
+        "AEP",
+        "aiida-test-cache",
+        "aiida-wannier90",
+        "aiida-restapi",
+        "aiida-plugin-cutter",
+        "aiida-submission-controller",
+        "aiida-abinit",
+        "aiida-nwchem",
+        "archive-path",
+        "aiida-blog",
+        "aiida-metapkg",
+        "aiida-qe-demo",
+        "aiida-optimade",
+        "pgsu",
+        "aiida-statistics-query",
+        "aiida-integration-tests",
+        "aiida-net-ansible",
+        "aiida-upgrade",
+        "aiida-support",
+        "aiida-export-migration-tests",
+        "aiida-prerequisites",
+        "aiida-plugin-template",
+        "aiida-tutorials-latex",
+        "aiida-sssp",
+        "aiida-restapi-container",
+        "aiida-diff",
+        "github-action-benchmark",
+        "aiida_demos",
+        "aiida-ontology",
+        "aiida-max-examples",
+        "reentry",
+        "pylint-aiida",
+        "contributed-project-templates",
+        "topika",
+        "aiida-archive",
+        "aiida-bot-app",
+        "aiida-plugin-ci",
+        "aiida-tcod",
+        "aiida-plugin-migrator",
+        "aiida_docker_compose",
+        "jekyll-theme-slate"
+      ],
+      "teams": [],
+      "readme_url": null,
+      "readme_content": null,
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "The organization hosts and maintains the AiiDA open-source scientific workflow management software with dozens of community-driven repositories and contributors, indicating a collaborative OSS development focus rather than a commercial or formal academic department.",
+    "description": "The development team of AiiDA",
+    "relatedToOrganization": [
+      "École Polytechnique Fédérale de Lausanne",
+      {
+        "type": "Organization",
+        "legalName": "École Polytechnique Fédérale de Lausanne",
+        "hasRorId": null,
+        "alternateNames": [
+          "EPFL",
+          "Ecole Polytechnique Federale de Lausanne"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/",
+        "attributionConfidence": 0.95,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "type": "InfosciencePublication",
+              "uuid": "4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+              "title": "AiiDA: automated interactive infrastructure and database for computational science",
+              "authors": [
+                "Giovanni Pizzi",
+                "Nicola Marzari",
+                "Andrea Cepellotti",
+                "Riccardo Sabatini",
+                "Boris Kozinsky"
+              ],
+              "abstract": null,
+              "doi": "10.1016/j.commatsci.2015.09.013",
+              "publication_date": null,
+              "publication_type": null,
+              "url": null,
+              "repository_url": null,
+              "lab": null,
+              "subjects": []
+            },
+            "confidence": 0.9,
+            "justification": "This foundational publication on AiiDA was authored by EPFL faculty Giovanni Pizzi and Nicola Marzari and is indexed in Infoscience.",
+            "matchedOn": [
+              "doi",
+              "authors",
+              "title"
+            ]
+          }
+        ]
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Information engineering",
+      "Systems science and engineering",
+      "Physics",
+      "Chemistry"
+    ],
+    "disciplineJustification": [
+      "Information engineering: core development of data management, provenance tracking, REST API and related software components",
+      "Systems science and engineering: design and implementation of modular, event-based, high-throughput workflow engines",
+      "Physics: primary use case in computational materials physics and high-throughput materials discovery",
+      "Chemistry: supported workflows for materials chemistry, defect chemistry and plugin integration with quantum chemistry codes"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLJustification": "1. Multiple Infoscience entities (publications and authors) related to the AiiDA project are indexed in EPFL's Infoscience repository, demonstrating a strong scholarly linkage to EPFL researchers (confidence contribution: 0.4).\n2. The organization \"AiiDA team\" is directly related to the organization École Polytechnique Fédérale de Lausanne (EPFL) as identified by enrichment (RELATED_TO_ORGANIZATION), providing an explicit institutional connection (confidence contribution: 0.25).\nTotal confidence = 0.4 + 0.25 = 0.65 (>= 0.5 -> relatedToEPFL = true).",
+    "relatedToEPFLConfidence": 0.65,
+    "academicCatalogRelations": [
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "42da2218-ba4d-479e-8eb7-ddbe1f1ba532",
+          "name": "Pizzi, Giovanni",
+          "email": null,
+          "orcid": "0000-0002-3583-4377",
+          "affiliation": "PRNMARVEL-GE",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/42da2218-ba4d-479e-8eb7-ddbe1f1ba532"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match on author name 'Giovanni Pizzi' found via Infoscience author search.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+          "title": "AiiDA: automated interactive infrastructure and database for computational science",
+          "authors": [
+            "Pizzi, Giovanni",
+            "Cepellotti, Andrea",
+            "Sabatini, Riccardo",
+            "Marzari, Nicola",
+            "Kozinsky, Boris"
+          ],
+          "abstract": "Computational science has seen in the last decades a spectacular rise in the scope, breadth, and depth of its efforts. Notwithstanding this prevalence and impact, it is often still performed using the renaissance model of individual artisans gathered in a workshop, under the guidance of an established mentor. In this paper, we present AiiDA, a robust and scalable computational infrastructure that allows researchers to automate complex workflows and store the entire provenance of the data.",
+          "doi": "10.1016/j.commatsci.2015.09.013",
+          "publication_date": "2016",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+          "lab": null,
+          "subjects": [
+            "High-throughput",
+            "Materials database",
+            "Scientific workflow",
+            "Directed acyclic graph",
+            "Provenance"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Publication title contains 'AiiDA', matching the organization project name and author affiliation includes Giovanni Pizzi.",
+        "matchedOn": [
+          "title",
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "4a53cc45-a5db-492d-86ad-3c17a595a022",
+          "title": "AiiDA 1.0, a scalable computational infrastructure for automated reproducible workflows and data provenance",
+          "authors": [
+            "Huber, Sebastiaan P.",
+            "Zoupanos, Spyros",
+            "Uhrin, Martin",
+            "Talirz, Leopold",
+            "Kahle, Leonid",
+            "Haeuselmann, Rico",
+            "Gresch, Dominik",
+            "Mueller, Tiziano",
+            "Yakutovich, Aliaksandr V.",
+            "Andersen, Casper W.",
+            "Ramirez, Francisco F.",
+            "Adorf, Carl S.",
+            "Gargiulo, Fernando",
+            "Kumbhar, Snehal",
+            "Passaro, Elsa",
+            "Johnston, Conrad",
+            "Merkys, Andrius",
+            "Cepellotti, Andrea",
+            "Mounet, Nicolas",
+            "Marzari, Nicola",
+            "Kozinsky, Boris",
+            "Pizzi, Giovanni"
+          ],
+          "abstract": "The ever-growing availability of computing power and the sustained development of advanced computational methods have contributed much to recent scientific progress. These developments present new challenges driven by the sheer amount of calculations and data to manage. The paper presents AiiDA 1.0, which addresses the issues of scalability and reproducibility in computational workflows by providing an automated, provenance-tracking solution.",
+          "doi": "10.1038/s41597-020-00638-4",
+          "publication_date": "2020-09-08",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/4a53cc45-a5db-492d-86ad-3c17a595a022",
+          "lab": null,
+          "subjects": [
+            "Multidisciplinary Sciences",
+            "Science & Technology - Other Topics"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Publication title and abstract reference 'AiiDA', and Giovanni Pizzi is listed among authors.",
+        "matchedOn": [
+          "title",
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "person",
+        "entity": {
+          "type": "InfoscienceAuthor",
+          "uuid": "a5f0ecbc-d842-4c81-bffd-734686d58080",
+          "name": "Marzari, Nicola",
+          "email": null,
+          "orcid": null,
+          "affiliation": "THEOS",
+          "profile_url": "https://infoscience.epfl.ch/entities/person/a5f0ecbc-d842-4c81-bffd-734686d58080"
+        },
+        "confidence": 0.95,
+        "justification": "Exact match on author name 'Nicola Marzari' found via Infoscience author search.",
+        "matchedOn": [
+          "name"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+          "title": "AiiDA: automated interactive infrastructure and database for computational science",
+          "authors": [
+            "Pizzi, Giovanni",
+            "Cepellotti, Andrea",
+            "Sabatini, Riccardo",
+            "Marzari, Nicola",
+            "Kozinsky, Boris"
+          ],
+          "abstract": "Computational science has seen in the last decades a spectacular rise in the scope, breadth, and depth of its efforts. Notwithstanding this prevalence and impact, it is often still performed using the renaissance model of individual artisans gathered in a workshop, under the guidance of an established mentor. In this paper, we present AiiDA, a robust and scalable computational infrastructure that allows researchers to automate complex workflows and store the entire provenance of the data.",
+          "doi": "10.1016/j.commatsci.2015.09.013",
+          "publication_date": "2016",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+          "lab": null,
+          "subjects": [
+            "High-throughput",
+            "Materials database",
+            "Scientific workflow",
+            "Directed acyclic graph",
+            "Provenance"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Nicola Marzari is listed as an author of this AiiDA publication.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "77d16d78-a99b-41d8-bad2-7fb434591304",
+          "title": "AiiDA-defects: an automated and fully reproducible workflow for the complete characterization of defect chemistry in functional materials",
+          "authors": [
+            "Muy, Sokseiha",
+            "Johnston, Conrad",
+            "Marzari, Nicola"
+          ],
+          "abstract": "Functional materials that enable many technological applications in our everyday lives owe their unique properties to defects that are carefully engineered and incorporated into these materials during processing. However, optimizing and characterizing these defects is very challenging in practice, making reproducible and automated workflows essential. We present AiiDA-defects, a workflow suite that automates the end-to-end characterization of defect chemistry in materials.",
+          "doi": "10.1088/2516-1075/ace014",
+          "publication_date": "2023-06-01",
+          "publication_type": "text::journal::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/77d16d78-a99b-41d8-bad2-7fb434591304",
+          "lab": null,
+          "subjects": [
+            "Chemistry, Physical",
+            "Materials Science, Multidisciplinary",
+            "Physics, Condensed Matter",
+            "Chemistry, Materials Science"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Nicola Marzari is listed as a co-author of this AiiDA workflow publication.",
+        "matchedOn": [
+          "authors"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+          "title": "AiiDA: automated interactive infrastructure and database for computational science",
+          "authors": [
+            "Pizzi, Giovanni",
+            "Cepellotti, Andrea",
+            "Sabatini, Riccardo",
+            "Marzari, Nicola",
+            "Kozinsky, Boris"
+          ],
+          "abstract": "Computational science has seen in the last decades a spectacular rise in the scope, breadth, and depth of its efforts. Notwithstanding this prevalence and impact, it is often still performed using the renaissance model of individual artisans gathered in a workshop, under the guidance of an established mentor. In this paper, we present AiiDA, a robust and scalable computational infrastructure that allows researchers to automate complex workflows and store the entire provenance of the data.",
+          "doi": "10.1016/j.commatsci.2015.09.013",
+          "publication_date": "2016",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/4ace1cf6-af76-4db3-9214-4bd792fe47cc",
+          "lab": null,
+          "subjects": [
+            "High-throughput",
+            "Materials database",
+            "Scientific workflow",
+            "Directed acyclic graph",
+            "Provenance"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Major AiiDA publication matching the organization's project name and affiliation.",
+        "matchedOn": [
+          "title"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "4a53cc45-a5db-492d-86ad-3c17a595a022",
+          "title": "AiiDA 1.0, a scalable computational infrastructure for automated reproducible workflows and data provenance",
+          "authors": [
+            "Huber, Sebastiaan P.",
+            "Zoupanos, Spyros",
+            "Uhrin, Martin",
+            "Talirz, Leopold",
+            "Kahle, Leonid",
+            "Haeuselmann, Rico",
+            "Gresch, Dominik",
+            "Mueller, Tiziano",
+            "Yakutovich, Aliaksandr V.",
+            "Andersen, Casper W.",
+            "Ramirez, Francisco F.",
+            "Adorf, Carl S.",
+            "Gargiulo, Fernando",
+            "Kumbhar, Snehal",
+            "Passaro, Elsa",
+            "Johnston, Conrad",
+            "Merkys, Andrius",
+            "Cepellotti, Andrea",
+            "Mounet, Nicolas",
+            "Marzari, Nicola",
+            "Kozinsky, Boris",
+            "Pizzi, Giovanni"
+          ],
+          "abstract": "The ever-growing availability of computing power and the sustained development of advanced computational methods have contributed much to recent scientific progress. These developments present new challenges driven by the sheer amount of calculations and data to manage. The paper presents AiiDA 1.0, which addresses the issues of scalability and reproducibility in computational workflows by providing an automated, provenance-tracking solution.",
+          "doi": "10.1038/s41597-020-00638-4",
+          "publication_date": "2020-09-08",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/4a53cc45-a5db-492d-86ad-3c17a595a022",
+          "lab": null,
+          "subjects": [
+            "Multidisciplinary Sciences",
+            "Science & Technology - Other Topics"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Key infrastructure update matching the AiiDA project and affiliated with the team members.",
+        "matchedOn": [
+          "title"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "63c9d52a-b6b1-4ca3-be2c-6530c0688a31",
+          "title": "AiiDAlab - an ecosystem for developing, executing, and sharing scientific workflows",
+          "authors": [
+            "Yakutovich, Aliaksandr",
+            "Eimre, Kristjan",
+            "Schutt, Ole",
+            "Talirz, Leopold",
+            "Adorf, Carl S.",
+            "Andersen, Casper W.",
+            "Ditler, Edward",
+            "Du, Dou",
+            "Passerone, Daniele",
+            "Smit, Berend",
+            "Marzari, Nicola",
+            "Pizzi, Giovanni",
+            "Pignedoli, Carlo A."
+          ],
+          "abstract": "Cloud platforms allow users to execute tasks directly from their web browser and are a key enabling technology not only for commerce but also for computational science. Research software is often developed by scientists with limited experience in (and time for) user interface design, which can make deployment and sharing cumbersome. AiiDAlab addresses these challenges by providing a web-based ecosystem for developing, executing, and sharing scientific workflows.",
+          "doi": "10.1016/j.commatsci.2020.110165",
+          "publication_date": "2021-02-15",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/63c9d52a-b6b1-4ca3-be2c-6530c0688a31",
+          "lab": null,
+          "subjects": [
+            "Materials Science, Multidisciplinary",
+            "Materials Science",
+            "web platform",
+            "scientific workflows",
+            "simulations"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Web-based interface for the AiiDA ecosystem, matching organization affiliation and project name.",
+        "matchedOn": [
+          "title"
+        ]
+      },
+      {
+        "catalogType": "infoscience",
+        "entityType": "publication",
+        "entity": {
+          "type": "InfosciencePublication",
+          "uuid": "e2db54d9-06bd-4455-98a8-8b67c5982716",
+          "title": "Workflows in AiiDA: Engineering a high-throughput, event-based engine for robust and modular computational workflows",
+          "authors": [
+            "Uhrin, Martin",
+            "Huber, Sebastiaan Philippe",
+            "Yu, Jusong",
+            "Marzari, Nicola",
+            "Pizzi, Giovanni"
+          ],
+          "abstract": "Over the last two decades, the field of computational science has seen a dramatic shift towards incorporating high-throughput computation and big-data analysis as fundamental pillars of the scientific discovery process. This has necessitated the development of tools and techniques to deal with the growing scale and complexity of data. We present the AiiDA workflow engine, designed for robustness, modularity, and high-throughput execution.",
+          "doi": "10.1016/j.commatsci.2020.110086",
+          "publication_date": "2020-11-16",
+          "publication_type": "text::journal::journal article::research article",
+          "url": "https://infoscience.epfl.ch/entities/publication/e2db54d9-06bd-4455-98a8-8b67c5982716",
+          "lab": null,
+          "subjects": [
+            "Data management",
+            "Database",
+            "Data sharing",
+            "Provenance",
+            "Computational workflows"
+          ]
+        },
+        "confidence": 0.9,
+        "justification": "Detailed description of AiiDA's workflow engine, matching the organization project name.",
+        "matchedOn": [
+          "title"
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 11630,
+    "estimated_output_tokens": 4250,
+    "estimated_total_tokens": 15880,
+    "duration": 317.32217,
+    "start_time": "2025-11-07T10:12:48.581122",
+    "end_time": "2025-11-07T10:18:05.903292",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4891,
+    "github_rate_reset": "2025-11-07T10:58:02"
+  }
+}

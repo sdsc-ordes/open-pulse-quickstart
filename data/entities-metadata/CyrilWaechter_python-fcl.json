@@ -1,0 +1,415 @@
+{
+  "link": "https://github.com/CyrilWaechter/python-fcl",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:30:45.723434",
+  "output": {
+    "name": "python-fcl",
+    "applicationCategory": [
+      "Computer engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/CyrilWaechter/python-fcl"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2020-07-20",
+    "datePublished": "2021-07-29",
+    "description": "Python bindings for the Flexible Collision Library (FCL) version 0.7.0, providing collision detection, distance computation, and continuous collision detection for geometric models in Python.",
+    "featureList": [
+      "Collision Detection",
+      "Distance Computation",
+      "Continuous Collision Detection"
+    ],
+    "image": [],
+    "isAccessibleForFree": true,
+    "isBasedOn": "https://github.com/BerkeleyAutomation/python-fcl",
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/BSD-3-Clause.html",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Jelle Feringa",
+        "email": "jelleferinga@gmail.com",
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Matthew Matl",
+        "email": "mmat*l@eecs.berkeley.edu",
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": [
+          "University of California, Berkeley"
+        ],
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Shirokuma",
+        "email": "rootstock_acg@yahoo.co.jp",
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Michael Dawson-Haggerty",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Linux",
+      "MacOS",
+      "Windows"
+    ],
+    "programmingLanguage": [
+      "Python",
+      "Cython"
+    ],
+    "softwareRequirements": [
+      "Flexible Collision Library (FCL)",
+      "OctoMap",
+      "numpy",
+      "Cython"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/CyrilWaechter/python-fcl",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/CyrilWaechter/python-fcl#readme",
+    "hasExecutableInstructions": "https://github.com/CyrilWaechter/python-fcl#installation",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/CyrilWaechter/python-fcl/blob/master/README.md",
+    "hasFunding": null,
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering"
+    ],
+    "disciplineJustification": [
+      "Implements collision and proximity algorithms for geometric models in software, relevant to computer engineering"
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [
+      "University of California, Berkeley",
+      "University of California, Santa Cruz",
+      "University of Michigan",
+      "Kerfed",
+      "BIMInsight",
+      "LANpartei"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "University of California, Berkeley",
+        "hasRorId": "https://ror.org/02yc5vq85",
+        "alternateNames": [
+          "UC Berkeley",
+          "Berkeley"
+        ],
+        "organizationType": "University",
+        "parentOrganization": "University of California",
+        "country": "United States",
+        "website": "https://www.berkeley.edu/",
+        "attributionConfidence": 0.9,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "University of California, Santa Cruz",
+        "hasRorId": "https://ror.org/02z3pze26",
+        "alternateNames": [
+          "UC Santa Cruz"
+        ],
+        "organizationType": "University",
+        "parentOrganization": "University of California",
+        "country": "United States",
+        "website": "https://www.ucsc.edu/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "University of Michigan",
+        "hasRorId": "https://ror.org/04pn9xn65",
+        "alternateNames": [
+          "UMich"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.umich.edu/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "Kerfed",
+        "hasRorId": null,
+        "alternateNames": [],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": null,
+        "website": "https://kerfed.com/",
+        "attributionConfidence": 0.7,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "BIMInsight",
+        "hasRorId": null,
+        "alternateNames": [],
+        "organizationType": "Company",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://biminsight.ch/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Organization",
+        "legalName": "LANpartei",
+        "hasRorId": null,
+        "alternateNames": [],
+        "organizationType": "Association",
+        "parentOrganization": null,
+        "country": "Germany",
+        "website": "https://lanpartei.de/",
+        "attributionConfidence": 0.3,
+        "academicCatalogRelations": []
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Primary author Matthew Matl's email domain indicates affiliation with UC Berkeley"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "This repository contains the source code for a software library"
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.0,
+    "relatedToEPFLJustification": "Exhaustive review of repository metadata, author information, commit history, related organizations, and documentation yielded no evidence of an affiliation or relationship with EPFL. Specifically: (1) no @epfl.ch email addresses among commit authors; (2) no ORCID employment or affiliation records referencing EPFL; (3) no mentions of EPFL, École Polytechnique Fédérale de Lausanne, or SDSC in the README or description; (4) related organizations do not include EPFL or EPFL-linked entities; (5) no Infoscience entities found; (6) no GitHub organization memberships tied to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "Matthew Matl",
+        "email": "matthewcmatl@gmail.com",
+        "commits": {
+          "total": 49,
+          "firstCommitDate": "2017-09-27",
+          "lastCommitDate": "2019-06-12"
+        }
+      },
+      {
+        "name": "Jelle Feringa",
+        "email": "jelleferinga@gmail.com",
+        "commits": {
+          "total": 27,
+          "firstCommitDate": "2014-10-17",
+          "lastCommitDate": "2017-03-16"
+        }
+      },
+      {
+        "name": "Michael Dawson-Haggerty",
+        "email": "mik3dh@gmail.com",
+        "commits": {
+          "total": 27,
+          "firstCommitDate": "2017-10-08",
+          "lastCommitDate": "2023-08-16"
+        }
+      },
+      {
+        "name": "CyrilWaechter",
+        "email": "cyril@biminsight.ch",
+        "commits": {
+          "total": 21,
+          "firstCommitDate": "2020-07-23",
+          "lastCommitDate": "2024-01-01"
+        }
+      },
+      {
+        "name": "mikedh",
+        "email": "mik3dh@gmail.com",
+        "commits": {
+          "total": 21,
+          "firstCommitDate": "2017-10-08",
+          "lastCommitDate": "2023-08-16"
+        }
+      },
+      {
+        "name": "nekanat",
+        "email": "nekanat.stock@gmail.com",
+        "commits": {
+          "total": 21,
+          "firstCommitDate": "2013-10-01",
+          "lastCommitDate": "2014-07-20"
+        }
+      },
+      {
+        "name": "Michael Dawson-Haggerty",
+        "email": "mikedh@kerfed.com",
+        "commits": {
+          "total": 9,
+          "firstCommitDate": "2021-09-09",
+          "lastCommitDate": "2023-01-10"
+        }
+      },
+      {
+        "name": "Dmitry Neverov",
+        "email": "mail@dmitryneverov.xyz",
+        "commits": {
+          "total": 8,
+          "firstCommitDate": "2020-04-27",
+          "lastCommitDate": "2020-04-27"
+        }
+      },
+      {
+        "name": "Eric Vin",
+        "email": "evin@ucsc.edu",
+        "commits": {
+          "total": 7,
+          "firstCommitDate": "2023-08-15",
+          "lastCommitDate": "2023-08-16"
+        }
+      },
+      {
+        "name": "Mike Danielczuk",
+        "email": "michael.danielczuk@gmail.com",
+        "commits": {
+          "total": 7,
+          "firstCommitDate": "2022-01-04",
+          "lastCommitDate": "2022-07-08"
+        }
+      },
+      {
+        "name": "Jack Bowman",
+        "email": "jackbow@umich.edu",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2023-01-17",
+          "lastCommitDate": "2023-01-19"
+        }
+      },
+      {
+        "name": "Rijad Muminovic",
+        "email": "rijad95@gmail.com",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2019-05-06",
+          "lastCommitDate": "2019-05-06"
+        }
+      },
+      {
+        "name": "Eric Vin",
+        "email": "8935814+Eric-Vin@users.noreply.github.com",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2023-08-15",
+          "lastCommitDate": "2023-08-15"
+        }
+      },
+      {
+        "name": "Stefan Bethge",
+        "email": "stefan+github@lanpartei.de",
+        "commits": {
+          "total": 3,
+          "firstCommitDate": "2017-03-06",
+          "lastCommitDate": "2017-03-13"
+        }
+      },
+      {
+        "name": "mjd3",
+        "email": "michael.danielczuk@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2022-01-04",
+          "lastCommitDate": "2022-07-08"
+        }
+      },
+      {
+        "name": "Jack",
+        "email": "jackbow@umich.edu",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2023-01-17",
+          "lastCommitDate": "2023-01-19"
+        }
+      },
+      {
+        "name": "Nahouhak",
+        "email": "cyrwae@hotmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2021-07-27",
+          "lastCommitDate": "2021-07-27"
+        }
+      },
+      {
+        "name": "zhuhongji",
+        "email": "fireyoucan@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2018-05-04",
+          "lastCommitDate": "2018-05-04"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://pypi.org/project/python-fcl/",
+      "https://github.com/flexible-collision-library/fcl"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 33270,
+    "estimated_output_tokens": 3007,
+    "estimated_total_tokens": 36277,
+    "duration": 222.897086,
+    "start_time": "2025-11-04T18:27:02.826068",
+    "end_time": "2025-11-04T18:30:45.723154",
+    "status_code": 200
+  }
+}

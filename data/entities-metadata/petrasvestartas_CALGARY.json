@@ -1,0 +1,192 @@
+{
+  "link": "https://github.com/petrasvestartas/CALGARY",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:18:21.957400",
+  "output": {
+    "name": "CALGARY",
+    "applicationCategory": null,
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/CALGARY"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2025-01-07",
+    "datePublished": "2025-01-07",
+    "description": "Temporary repository for testing and developing material for CALGARY workshop.",
+    "featureList": null,
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/NOASSERTION",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": null,
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Petras Vestartas",
+              "description": null,
+              "url": null,
+              "parent_organization": null,
+              "website": null,
+              "publication_count": 19,
+              "research_areas": []
+            },
+            "confidence": 0.95,
+            "justification": "Author profile for Petras Vestartas was found using search_infoscience_authors_tool.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using lo...",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Wood-wood Connections",
+                "Joinery",
+                "Robotic Fabrication",
+                "Raw-Timber",
+                "Assembly"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Found doctoral thesis by Petras Vestartas via get_author_publications_tool; matches author name and DOI.",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "authors",
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries. While loc...",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Laser Scanning",
+                "Industrial Robot",
+                "Robotic Fabrication",
+                "Unprocessed Timber",
+                "Raw-wood"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Found conference paper by Petras Vestartas via get_author_publications_tool; matches author and DOI.",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "authors",
+              "doi"
+            ]
+          }
+        ]
+      }
+    ],
+    "operatingSystem": null,
+    "programmingLanguage": null,
+    "softwareRequirements": null,
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/petrasvestartas/CALGARY",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/CALGARY/blob/main/README.md",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/CALGARY/blob/main/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/CALGARY/blob/main/README.md",
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Education"
+    ],
+    "disciplineJustification": [
+      "Repository houses educational materials for a workshop."
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [],
+    "relatedToOrganizationsROR": [],
+    "relatedToOrganizationJustification": null,
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Repository contains placeholder code and development materials for the CALGARY workshop."
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 1.0,
+    "relatedToEPFLJustification": "The sole author of this repository, Petras Vestartas, has multiple entries in EPFL’s Infoscience database confirming his academic involvement with EPFL. Specifically:\n\n1. A personal profile for Petras Vestartas (Infoscience person entity, externalId 0000-0002-4428-1110) indicates he is recorded in EPFL’s research repository.\n2. A doctoral thesis titled “Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver” (DOI 10.5075/epfl-thesis-8928) is hosted in EPFL’s Infoscience, evidencing his PhD at EPFL in 2021.\n3. A conference paper “Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication” (ISARC2020/0107) is also present in EPFL’s Infoscience database.\n\nEach Infoscience entry carries a high confidence weight of 0.4. Summing these gives 1.2, which is capped at the maximum 1.0. There is no conflicting or additional evidence (e.g., GitHub email domain, ORCID employment, README mentions) that would alter this strong EPFL affiliation signal. Therefore, the repository is related to EPFL with a confidence of 1.0.",
+    "gitAuthors": [
+      {
+        "name": "Petras Vestartas",
+        "email": "petrasvestartas@gmail.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2025-01-07",
+          "lastCommitDate": "2025-01-07"
+        }
+      }
+    ],
+    "webpagesToCheck": null,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 11332,
+    "estimated_output_tokens": 2205,
+    "estimated_total_tokens": 13537,
+    "duration": 151.587061,
+    "start_time": "2025-11-04T17:15:50.370099",
+    "end_time": "2025-11-04T17:18:21.957160",
+    "status_code": 200
+  }
+}

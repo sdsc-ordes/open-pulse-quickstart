@@ -1,0 +1,107 @@
+{
+  "link": "https://github.com/EmoryUniversityTheoreticalBiophysics",
+  "type": "organization",
+  "parsedTimestamp": "2025-11-07T09:05:07.044840",
+  "output": {
+    "name": "Emory University Theoretical Biophysics",
+    "organizationType": "Academic Research Group",
+    "githubOrganizationMetadata": {
+      "login": "EmoryUniversityTheoreticalBiophysics",
+      "name": "Emory University Theoretical Biophysics",
+      "description": null,
+      "email": "ilya.nemenman@emory.edu",
+      "location": "Emory University, Atlanta, GA 30322, USA",
+      "company": null,
+      "blog": "http://nemenmanlab.org",
+      "twitter_username": null,
+      "public_repos": 9,
+      "public_gists": 0,
+      "followers": 2,
+      "following": 0,
+      "created_at": "2012-12-05T16:42:10Z",
+      "updated_at": "2021-09-01T16:56:08Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2972942?v=4",
+      "html_url": "https://github.com/EmoryUniversityTheoreticalBiophysics",
+      "gravatar_id": null,
+      "type": "Organization",
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5NzI5NDI=",
+      "url": "https://api.github.com/orgs/EmoryUniversityTheoreticalBiophysics",
+      "repos_url": "https://api.github.com/orgs/EmoryUniversityTheoreticalBiophysics/repos",
+      "events_url": "https://api.github.com/orgs/EmoryUniversityTheoreticalBiophysics/events",
+      "hooks_url": "https://api.github.com/orgs/EmoryUniversityTheoreticalBiophysics/hooks",
+      "issues_url": "https://api.github.com/orgs/EmoryUniversityTheoreticalBiophysics/issues",
+      "members_url": "https://api.github.com/orgs/EmoryUniversityTheoreticalBiophysics/members{/member}",
+      "public_members": [
+        "david-hofmann",
+        "jakirkham"
+      ],
+      "repositories": [
+        "ContinuousMIEstimation",
+        "SirIsaac",
+        "ComputationalModelingTextbook",
+        "NB-QFT-learning",
+        "BacterialPopulationDynamics",
+        "NonGaussianLearning",
+        "C.-elegans",
+        "Projects",
+        "Neural_Decoding"
+      ],
+      "teams": [],
+      "readme_url": null,
+      "readme_content": null,
+      "social_accounts": [],
+      "pinned_repositories": []
+    },
+    "organizationTypeJustification": "Emory University Theoretical Biophysics is based at Emory University, hosts academic-style repositories focusing on computational and theoretical research, and is led by a university faculty member, indicating an academic research group.",
+    "description": "The Emory University Theoretical Biophysics group, led by Prof. Ilya Nemenman, develops computational, statistical, and theoretical methods for understanding biological systems. Research topics include information theory, inference algorithms, neural decoding, population dynamics, and quantitative models of cellular and organismal processes.",
+    "relatedToOrganization": [
+      "Emory University",
+      {
+        "type": "Organization",
+        "legalName": "Emory University",
+        "hasRorId": "https://ror.org/03czfpz43",
+        "alternateNames": null,
+        "organizationType": "university",
+        "parentOrganization": null,
+        "country": "United States",
+        "website": "https://www.emory.edu/",
+        "attributionConfidence": 0.8,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [],
+    "discipline": [
+      "Physics",
+      "Biology",
+      "Statistics",
+      "Theoretical computer science",
+      "Systems science and engineering"
+    ],
+    "disciplineJustification": [
+      "The group focuses on theoretical modeling and physical principles in biological contexts, aligning with Physics.",
+      "The research addresses biological systems such as bacterial populations and C. elegans, indicating Biology.",
+      "The development of statistical inference and information estimation methods reflects a core reliance on Statistics.",
+      "Algorithmic learning, non-Gaussian learning, and inference methods align with Theoretical computer science.",
+      "Modeling of complex biological networks and system dynamics corresponds to Systems science and engineering."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLJustification": "Comprehensive Review of EPFL Relationship Evidence:\n\n1. Organization Name: \"Emory University Theoretical Biophysics\" does not contain “EPFL” or any EPFL-related term. (No contribution)\n2. Description: The description refers exclusively to Emory University and Prof. Ilya Nemenman’s group, with no mention of EPFL, SDSC, or Swiss Data Science Center. (No contribution)\n3. GitHub Metadata:\n   • Email Domain: ilya.nemenman@emory.edu (emory.edu, not epfl.ch) (No contribution)\n   • Website/Blog: http://nemenmanlab.org (not an epfl.ch domain) (No contribution)\n   • Location: \"Emory University, Atlanta, GA 30322, USA\" (Not Lausanne, Switzerland) (No contribution)\n4. Parent Organization / ROR ID: Related to Emory University (ROR: https://ror.org/03czfpz43), no link to EPFL or joint EPFL+ETH entity. (No contribution)\n5. Infoscience / README / Company / Organization Membership: No Infoscience records, no README content, no company field, no EPFL GitHub organization membership. (No contribution)\n\nCumulative Confidence Calculation:\nSum of positive evidence weights = 0.0 (no applicable evidence found) → Capped at 0.0\n\nThreshold Check:\n0.0 < 0.5 → relatedToEPFL = false",
+    "relatedToEPFLConfidence": 0.0,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 7501,
+    "estimated_output_tokens": 639,
+    "estimated_total_tokens": 8140,
+    "duration": 85.46622,
+    "start_time": "2025-11-07T09:03:41.578389",
+    "end_time": "2025-11-07T09:05:07.044609",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4892,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

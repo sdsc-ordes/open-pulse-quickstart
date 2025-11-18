@@ -1,0 +1,315 @@
+{
+  "link": "https://github.com/petrasvestartas/compas-dev.github.io",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T17:54:27.659872",
+  "output": {
+    "name": "COMPAS.dev",
+    "applicationCategory": [
+      "Architecture",
+      "Engineering",
+      "Software documentation"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/compas-dev.github.io"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2024-02-03",
+    "datePublished": "2024-02-03",
+    "description": "Source code for COMPAS.dev website, providing documentation, tutorials, and community resources for the COMPAS computational framework used in architectural and engineering workflows.",
+    "featureList": [
+      "Modular Vue-based documentation site",
+      "Live development server with hot-reload",
+      "Production build pipelines",
+      "Linting and code quality enforcement",
+      "Tutorial and Getting Started pages",
+      "Community contribution guidelines",
+      "Donation and association information"
+    ],
+    "image": [
+      {
+        "contentUrl": "https://raw.githubusercontent.com/petrasvestartas/compas-dev.github.io/main/src/assets/compas_logo_blue.png",
+        "keywords": "logo"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/MIT",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [
+          "compas-dev"
+        ],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Maintainer and primary author",
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Petras Vestartas",
+              "description": null,
+              "url": null,
+              "parent_organization": null,
+              "website": null,
+              "publication_count": null,
+              "research_areas": []
+            },
+            "confidence": 0.95,
+            "justification": "Exact match on author profile for \"Petras Vestartas\" found via Infoscience author search; ORCID provided enhances confidence.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name",
+              "orcid"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using local resources.",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "thesis::doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Wood-wood Connections",
+                "Joinery",
+                "Robotic Fabrication",
+                "Raw-Timber",
+                "Assembly"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Retrieved from Petras Vestartas’s publication list via get_author_publications_tool; matches author name and DOI.",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "title",
+              "doi"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries.",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "text::conference output::conference proceedings::conference paper",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Laser Scanning",
+                "Industrial Robot",
+                "Robotic Fabrication",
+                "Unprocessed Timber",
+                "Raw-wood"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Retrieved from Petras Vestartas’s publication list via get_author_publications_tool; matches author name and DOI.",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "title",
+              "doi"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Person",
+        "name": "Tom Van Mele",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [
+          "compas-dev"
+        ],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      },
+      {
+        "type": "Person",
+        "name": "Gonzalo Casas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [],
+        "affiliation": null,
+        "affiliations": [
+          "compas-dev"
+        ],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Other"
+    ],
+    "programmingLanguage": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Vue"
+    ],
+    "softwareRequirements": [
+      "Node.js",
+      "Yarn",
+      "npm",
+      "pnpm",
+      "Bun"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://compas.dev/",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://compas.dev/",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/compas-dev.github.io/blob/main/README.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": null,
+    "hasFunding": [],
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Computer engineering",
+      "Architecture"
+    ],
+    "disciplineJustification": [
+      "Provides documentation for computational design software used in architectural and engineering workflows"
+    ],
+    "relatedDatasets": [],
+    "relatedPublications": [],
+    "relatedModels": [],
+    "relatedAPIs": [],
+    "relatedToOrganizations": [
+      "compas-dev",
+      "Eidgenössische Technische Hochschule Zürich"
+    ],
+    "relatedToOrganizationsROR": [
+      {
+        "type": "Organization",
+        "legalName": "compas-dev",
+        "hasRorId": null,
+        "alternateNames": null,
+        "organizationType": "GitHub organization",
+        "parentOrganization": "GitHub, Inc.",
+        "country": null,
+        "website": "https://github.com/compas-dev",
+        "attributionConfidence": 1.0,
+        "academicCatalogRelations": null
+      },
+      {
+        "type": "Organization",
+        "legalName": "Eidgenössische Technische Hochschule Zürich",
+        "hasRorId": "https://ror.org/03yrm5c26",
+        "alternateNames": [
+          "ETH Zurich",
+          "Swiss Federal Institute of Technology Zurich",
+          "ETHZ"
+        ],
+        "organizationType": "University",
+        "parentOrganization": null,
+        "country": "Switzerland",
+        "website": "https://ethz.ch/",
+        "attributionConfidence": 0.5,
+        "academicCatalogRelations": null
+      }
+    ],
+    "relatedToOrganizationJustification": [
+      "Repository is hosted under the compas-dev GitHub organization"
+    ],
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains source code for the compas.dev website",
+      "Hosts documentation, tutorials, and community resources for COMPAS"
+    ],
+    "relatedToEPFL": true,
+    "relatedToEPFLConfidence": 1.0,
+    "relatedToEPFLJustification": "The assessment uncovered three independent Infoscience records directly linking the primary maintainer (Petras Vestartas) to EPFL’s research repository. Each Infoscience entity carries a high confidence weight (0.4), and summing these three evidence items (0.4 + 0.4 + 0.4 = 1.2) yields a cumulative score of 1.2, which is capped at 1.0. No conflicting evidence was found, and no other EPFL-related signals were detected. Given that the total confidence exceeds the 0.5 threshold, the repository is determined to be related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "tomvanmele",
+        "email": "tom.v.mele@gmail.com",
+        "commits": {
+          "total": 99,
+          "firstCommitDate": "2023-10-27",
+          "lastCommitDate": "2024-02-03"
+        }
+      },
+      {
+        "name": "Gonzalo Casas",
+        "email": "casas@arch.ethz.ch",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2024-02-02",
+          "lastCommitDate": "2024-02-02"
+        }
+      },
+      {
+        "name": "Tom Van Mele",
+        "email": "tom.v.mele@gmail.com",
+        "commits": {
+          "total": 2,
+          "firstCommitDate": "2023-10-27",
+          "lastCommitDate": "2024-02-03"
+        }
+      }
+    ],
+    "webpagesToCheck": [
+      "https://compas.dev/",
+      "https://github.com/petrasvestartas/compas-dev.github.io"
+    ],
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 15563,
+    "estimated_output_tokens": 2626,
+    "estimated_total_tokens": 18189,
+    "duration": 251.594789,
+    "start_time": "2025-11-04T17:50:16.064911",
+    "end_time": "2025-11-04T17:54:27.659700",
+    "status_code": 200
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "link": "https://github.com/petrasvestartas/nesting",
+  "type": "repository",
+  "parsedTimestamp": "2025-11-04T18:08:50.063409",
+  "output": {
+    "name": "nesting",
+    "applicationCategory": [
+      "Industrial and production engineering"
+    ],
+    "citation": null,
+    "codeRepository": [
+      "https://github.com/petrasvestartas/nesting"
+    ],
+    "conditionsOfAccess": null,
+    "dateCreated": "2022-06-11",
+    "datePublished": "2023-01-29",
+    "description": "Graphical algorithm to find a possible solutions to 2D nesting problems.",
+    "featureList": [
+      "GPU-based raster representation for nesting",
+      "Iterative piece placement minimizing waste",
+      "OpenGL rendering of layout",
+      "OpenCV-based image processing for placement detection"
+    ],
+    "image": null,
+    "isAccessibleForFree": true,
+    "isBasedOn": null,
+    "isPluginModuleOf": null,
+    "license": "https://spdx.org/licenses/NOASSERTION",
+    "author": [
+      {
+        "type": "Person",
+        "name": "Petras Vestartas",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "petrasvestartas"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Primary developer",
+        "biography": null,
+        "academicCatalogRelations": [
+          {
+            "catalogType": "infoscience",
+            "entityType": "person",
+            "entity": {
+              "uuid": "e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "name": "Vestartas, Petras",
+              "email": null,
+              "orcid": "0000-0002-4428-1110",
+              "affiliation": null,
+              "profile_url": "https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2",
+              "publication_count": null,
+              "research_interests": []
+            },
+            "confidence": 0.95,
+            "justification": "Exact match for author name 'Petras Vestartas' via Infoscience author search.",
+            "externalId": "0000-0002-4428-1110",
+            "matchedOn": [
+              "name"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "ed896354-8feb-457a-9fed-60f57631af4c",
+              "title": "Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication",
+              "authors": [
+                "Vestartas, Petras",
+                "Weinand, Yves"
+              ],
+              "abstract": "This paper presents an integrated raw-wood fabrication workflow using an industrial robot arm and a laser scanner. The research is situated in a Swiss mountain forestry context where timber in its natural form could be applied locally without relying on large centralized timber industries.",
+              "doi": "10.22260/ISARC2020/0107",
+              "publication_date": "2020-10-27",
+              "publication_type": "conference proceedings",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/173318",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Laser Scanning",
+                "Industrial Robot",
+                "Robotic Fabrication",
+                "Unprocessed Timber",
+                "Raw-wood"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Author 'Vestartas, Petras' appears on publication metadata; retrieved via author publications tool.",
+            "externalId": "10.22260/ISARC2020/0107",
+            "matchedOn": [
+              "authors"
+            ]
+          },
+          {
+            "catalogType": "infoscience",
+            "entityType": "publication",
+            "entity": {
+              "uuid": "554eb1e3-2930-4b6d-b584-6ba91b6d43b8",
+              "title": "Design-to-Fabrication Workflow for Raw-Sawn-Timber using Joinery Solver",
+              "authors": [
+                "Vestartas, Petras"
+              ],
+              "abstract": "Currently, the Swiss timber industry in mountain areas largely exports unprocessed lumber and imports finished timber products due to the lack of digital tools. By using new digital design-to-production workflows, it is possible to investigate new building systems for small-scale structures using local timber stocks.",
+              "doi": "10.5075/epfl-thesis-8928",
+              "publication_date": "2021",
+              "publication_type": "doctoral thesis",
+              "url": "https://infoscience.epfl.ch/record/20.500.14299/181450",
+              "repository_url": null,
+              "lab": null,
+              "subjects": [
+                "Wood-wood Connections",
+                "Joinery",
+                "Robotic Fabrication",
+                "Raw-Timber",
+                "Assembly"
+              ]
+            },
+            "confidence": 0.9,
+            "justification": "Author 'Vestartas, Petras' is sole author; retrieved via author publications tool.",
+            "externalId": "10.5075/epfl-thesis-8928",
+            "matchedOn": [
+              "authors"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Person",
+        "name": "sasam2",
+        "email": null,
+        "emails": [],
+        "orcidId": null,
+        "gitAuthorIds": [
+          "sasam2"
+        ],
+        "affiliation": null,
+        "affiliations": [],
+        "currentAffiliation": null,
+        "affiliationHistory": [],
+        "contributionSummary": "Contributor",
+        "biography": null,
+        "academicCatalogRelations": []
+      }
+    ],
+    "operatingSystem": [
+      "Windows"
+    ],
+    "programmingLanguage": [
+      "C++"
+    ],
+    "softwareRequirements": [
+      "freeglut (GLUT)",
+      "GLUI",
+      "GLEW",
+      "Boost 1.56",
+      "CGAL 3.9",
+      "OpenCV 2.3.1/2.4.9",
+      "CMake 2.8.12.2",
+      "Visual Studio 2010",
+      "Git",
+      "Cygwin with make, perl, python"
+    ],
+    "processorRequirements": null,
+    "memoryRequirements": null,
+    "requiresGPU": null,
+    "supportingData": [],
+    "url": "https://github.com/petrasvestartas/nesting",
+    "identifier": null,
+    "hasAcknowledgements": null,
+    "hasDocumentation": "https://github.com/petrasvestartas/nesting/blob/main/README.md",
+    "hasExecutableInstructions": "https://github.com/petrasvestartas/nesting/blob/main/BUILD.md",
+    "hasExecutableNotebook": [],
+    "hasParameter": [],
+    "readme": "https://github.com/petrasvestartas/nesting/blob/main/README.md",
+    "hasFunding": null,
+    "hasSoftwareImage": [],
+    "imagingModality": null,
+    "fairLevel": null,
+    "graph": null,
+    "discipline": [
+      "Industrial and production engineering"
+    ],
+    "disciplineJustification": [
+      "Addresses irregular strip packing and nesting problems relevant to industrial production and manufacturing processes."
+    ],
+    "relatedDatasets": null,
+    "relatedPublications": null,
+    "relatedModels": null,
+    "relatedAPIs": null,
+    "relatedToOrganizations": [],
+    "relatedToOrganizationsROR": [],
+    "relatedToOrganizationJustification": null,
+    "repositoryType": "software",
+    "repositoryTypeJustification": [
+      "Contains source code and build instructions for a 2D nesting optimization tool."
+    ],
+    "relatedToEPFL": false,
+    "relatedToEPFLConfidence": 0.4,
+    "relatedToEPFLJustification": "The repository is authored by Petras Vestartas, who has multiple entries in the EPFL Infoscience database. Specifically:\n\n1. Petras Vestartas has an Infoscience person profile (https://infoscience.epfl.ch/entities/person/e6ef0944-84c5-4456-9106-bd0d4f59b0d2) and two EPFL Infoscience publications (a conference paper and a doctoral thesis). This provides the strongest available link to EPFL (INFOSCIENCE_ENTITY: 0.4).\n\nNo other evidence was found (no @epfl.ch email, no ORCID employment/affiliation, no GitHub bio/README/company mentioning EPFL, no EPFL organization membership, and no epfl.ch website domain). The cumulative confidence is 0.4, below the 0.5 threshold, so the repository is not considered related to EPFL.",
+    "gitAuthors": [
+      {
+        "name": "sasam2",
+        "email": "sasam2@workmail.com",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2017-11-22",
+          "lastCommitDate": "2017-11-22"
+        }
+      },
+      {
+        "name": "sofia",
+        "email": "sofia@DESKTOP-O2APKQV",
+        "commits": {
+          "total": 4,
+          "firstCommitDate": "2019-05-18",
+          "lastCommitDate": "2019-05-18"
+        }
+      },
+      {
+        "name": "sasam2",
+        "email": "33865438+sasam2@users.noreply.github.com",
+        "commits": {
+          "total": 1,
+          "firstCommitDate": "2017-11-21",
+          "lastCommitDate": "2017-11-21"
+        }
+      }
+    ],
+    "webpagesToCheck": null,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 13380,
+    "estimated_output_tokens": 2044,
+    "estimated_total_tokens": 15424,
+    "duration": 187.263998,
+    "start_time": "2025-11-04T18:05:42.799224",
+    "end_time": "2025-11-04T18:08:50.063222",
+    "status_code": 200
+  }
+}

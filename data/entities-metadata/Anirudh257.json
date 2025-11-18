@@ -1,0 +1,65 @@
+{
+  "link": "https://github.com/Anirudh257",
+  "type": "user",
+  "parsedTimestamp": "2025-11-07T08:45:38.224477",
+  "output": {
+    "name": "Anirudh Thatipelli",
+    "fullname": "Anirudh Thatipelli",
+    "githubHandle": "Anirudh257",
+    "githubUserMetadata": {
+      "login": "Anirudh257",
+      "name": "Anirudh Thatipelli",
+      "bio": null,
+      "email": "thatipellianirudh@gmail.com",
+      "location": "Orlando, Florida",
+      "company": "PhD, University of Central Florida",
+      "blog": "https://anirudh257.github.io/",
+      "twitter_username": null,
+      "public_repos": 196,
+      "public_gists": 6,
+      "followers": 129,
+      "following": 1045,
+      "created_at": "2015-11-24T15:10:01Z",
+      "updated_at": "2025-09-24T17:55:39Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16001446?v=4",
+      "html_url": "https://github.com/Anirudh257",
+      "orcid": null,
+      "orcid_activities": null,
+      "organizations": [],
+      "social_accounts": [
+        {
+          "provider": "LINKEDIN",
+          "url": "https://www.linkedin.com/in/anirudh-thatipelli/",
+          "display_name": "in/anirudh-thatipelli"
+        }
+      ],
+      "readme_url": null,
+      "readme_content": null
+    },
+    "relatedToOrganization": [],
+    "relatedToOrganizationJustification": [],
+    "discipline": [],
+    "disciplineJustification": [],
+    "position": [],
+    "positionJustification": [],
+    "relatedToEPFL": false,
+    "relatedToEPFLJustification": "No evidence supporting an EPFL affiliation was found in any available metadata or auxiliary sources. Specifically:\n1. EMAIL_DOMAIN: The user’s email is thatipellianirudh@gmail.com, not an @epfl.ch address.\n2. BIO_MENTION: The bio is null and contains no mention of EPFL or SDSC.\n3. COMPANY_FIELD: The company field is “PhD, University of Central Florida,” which does not reference EPFL or SDSC.\n4. LOCATION: The location is “Orlando, Florida,” not Lausanne, Switzerland.\n5. ORCID_EMPLOYMENT/AFFILIATION: No ORCID ID or activities are provided, so no EPFL affiliation is recorded.\n6. ORGANIZATION_MEMBERSHIP: The user is not a member of any EPFL-related GitHub organizations.\n7. README_MENTION: There is no README content to review for EPFL mentions.\n8. RELATED_ORGANIZATION / INFOSCIENCE_ENTITY: No related organizations or Infoscience entries linked to EPFL were found.\n\nAll checked evidence contributed 0.0 to the confidence. The cumulative confidence score is 0.0, which is below the 0.5 threshold, so the user is not related to EPFL.",
+    "relatedToEPFLConfidence": 0.0,
+    "academicCatalogRelations": []
+  },
+  "stats": {
+    "agent_input_tokens": 0,
+    "agent_output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_input_tokens": 6391,
+    "estimated_output_tokens": 677,
+    "estimated_total_tokens": 7068,
+    "duration": 66.928476,
+    "start_time": "2025-11-07T08:44:31.295783",
+    "end_time": "2025-11-07T08:45:38.224259",
+    "status_code": 200,
+    "github_rate_limit": 5000,
+    "github_rate_remaining": 4947,
+    "github_rate_reset": "2025-11-07T09:40:18"
+  }
+}

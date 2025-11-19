@@ -26,7 +26,7 @@ TBD: You can run this quickstart in Renku or in local by using the dockerimage w
 
 ### Development metrics 
 
-To be extended...
+The standard for community metrics are the CHAOSS metrics.
 
 ![alt text](docs/images/GrimoireLabAnalysis.png)
 
@@ -35,7 +35,10 @@ To be extended...
 Documentation: https://chaoss.community/
 CHAOSS Metrics: https://chaoss.community/kbtopic/metrics-and-metrics-models-by-topic/
 
-For entities of interest, you can get more information about them here: 
+For entities of interest, you can get more information about them here: OSS Insight.
+Link: https://ossinsight.io/
+Documentation: https://ossinsight.io/docs/api
+Here each GitHub repository is related to the evolution of certain metrics. [DeepLab Cut Example](https://ossinsight.io/analyze/DeepLabCut/DeepLabCut#overview) 
 
 ### Community Network
 
@@ -55,8 +58,6 @@ Link to Neo4j Open Pulse Instance:
 Documentation: https://neo4j.com/docs/
 Cypher Tutorial: https://neo4j.com/docs/cypher-manual/current/appendix/tutorials/
 
-
-
 ### Repositories Metadata
 
 Metadata and semantic properties are stored in a RDF-compatible database based on the Imaging Plaza Ontology (ORD Project). We can query its results with SPARQL queries.
@@ -69,4 +70,3 @@ You can also combine the queries to tentris about the extracted data with querie
 Link to Tentris Open Pulse: http://128.178.219.51:7502/ui
 Documentation: https://docs.tentris.io/
 SPARQL Tutorial: https://sparql.dev/
-

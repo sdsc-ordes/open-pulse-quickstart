@@ -4,11 +4,10 @@
 
 1. Choose your team captain !
 2. Each team member makes an account on [RenkuLab](https://renkulab.io/)
-3. The team captain copies the [project quickstart](https://renkulab.io/p/open-pulse-hackathon/quickstart) into their renku user profile
-4. Captain adds all his team members (renku users) to that project
-5. Team sets up their project: add your own code repository and add your own data (Notes: do any code/data connections before launching a work session.)
-6. If you want to launch the quickstart session, you will be prompted to enter the connection secrets (see documents).
-7. If you want to launch a session with all the code from all connected code repositories, we recommend launching the standard VSCode interface of Renku and working there.
+3. Join all together your project in the open-pulse-hackathon (same name as on discord).
+4. Team sets up their project: add your own code repository and add your own data (Notes: do any code/data connections before launching a work session.)
+5. If you want to launch the quickstart session, you will be prompted to enter the connection secrets (see documents).
+6. If you want to launch a session with all the code from all connected code repositories, we recommend launching the standard VSCode interface of Renku and working there.
 
 ![alt text](docs/images/Renku.png)
 
@@ -16,7 +15,7 @@ Here are the [Open Pulse Hackathon Renku Project](https://renkulab.io/g/open-pul
 
 For further Jupyter Hub Documentation you can read [here](https://jupyterhub.readthedocs.io/en/stable/);
 
-You can also clone the repository and work locally via the `uv` setup if you prefer. 
+You can also clone the repository and work locally via the `uv` setup if you prefer (see README in each of the quickstarts for neoj and tentris). 
 
 ## How to submit your project?
 
@@ -33,6 +32,22 @@ You’re also welcome to include supplemental material such as:
 - Documentation, datasets, or other resources that support your work
 
 During the final session, all projects will be presented and participants will vote using stickers to recognize the
+
+## Data available
+
+Communities that have been crawled through (hence in the graph and metadata available):
+
+    - ENAC
+    - SDSC
+    - DeepLabCut
+    - SCALA Graph
+    - Materials Cloud
+    - EPFL Center for Imaging
+    - Imaging Plaza
+    - 50 top “EPFL” users 
+    - 50 top users among “ETHZ”,“UZH”, “UNINE”, “UNIBE”, “UNIGE” and “UNIL”
+
+Note: Total of ~1M nodes and growing.
 
 ## Credits
 

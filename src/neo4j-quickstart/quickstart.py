@@ -52,7 +52,10 @@ def connect_neo4j():
     return downloader
 
 # ------------------------------------------------------------------
-# EXTRACT CUSTOM SUBSET OF DATA FROM NEO4J WITH CYPHER QUERRIES
+# EXAMPLE OF CYPHER QUERIES FOR GRAPH EXPLORING AND GRAPH PATTERNS
+
+# Here is an example of using the Neo4J Downloader to run some custom queries on the graph.
+# You can explore graph patterns (such as shortest path between 2 nodes) : (https://neo4j.com/docs/cypher-manual/current/patterns/).
 # ------------------------------------------------------------------
 
 downloader = connect_neo4j()

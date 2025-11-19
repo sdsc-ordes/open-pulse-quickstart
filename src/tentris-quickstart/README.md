@@ -1,3 +1,15 @@
+# QuickStart Tentris
+
+For open pulse project, you will manipulate graph data with Tentris. The example notebook will guide you on how to download and visualize the graph. Should you prefer scripts, one is also available to you.
+
+## Working on Renku with Jupyter Notebook 
+
+This set-up provides jupyter notebook support if this is your preferred working method.
+
+Please see instructions in `2025-mini-hackathon.md` at the root of the repository for more instructions.
+
+## Working locally
+
 ### 🚀 Part 1: Create the Environment (In Your Terminal)
 
 First, install `uv`. Then, run **all** of the following commands in your system terminal (like Terminal, PowerShell, or bash) from the root folder of the `tentris-quickstart` project.
@@ -20,6 +32,12 @@ Run **one** of these commands in your terminal.
 
 **2. Create the Environment and Install Packages:**
 These commands will create a local `.venv` folder, install all project dependencies (including `ipykernel`), and register it as a named kernel for Jupyter/VS Code.
+
+Option A: 
+
+You can also go to `src/tentris-quickstart` and run `uv sync`.
+
+Option B:
 
 ```bash
 # 1. Clean up any old environment (optional, but safe)

@@ -1,0 +1,27 @@
+{
+  "name": "open-pulse-neo4j-interface-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+  "customizations": {
+    "vscode": {
+    "settings": {
+      "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+      "python.envFile": "${workspaceFolder}/.env"
+    },
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "tamasfe.even-better-toml",
+        "github.copilot",
+        "github.copilot-chat"
+      ]
+    }
+  },
+
+  "postCreateCommand": "rm -rf .venv && uv venv && uv pip install -e src/neo4j-quickstart -e src/ossinsight-quickstart -e src/tentris-quickstart && echo '. $PWD/.venv/bin/activate' >> /home/vscode/.bashrc"
+}

@@ -1,0 +1,14 @@
+[project]
+name = "ossinsight-quickstart"
+version = "0.1.0"
+description = "Quickstart for using OSS Insight for Open Pulse"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bokeh>=3.8.1",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.1",
+]
+
+

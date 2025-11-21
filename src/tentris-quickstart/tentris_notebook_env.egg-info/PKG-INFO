@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: tentris-notebook-env
+Version: 0.1.0
+Summary: Python environment for the Tentris SPARQL query notebook.
+Requires-Python: >=3.12
+Requires-Dist: tentris
+Requires-Dist: rdflib
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pytz
+Requires-Dist: pyparsing
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: ipykernel
+Requires-Dist: jupyter-client

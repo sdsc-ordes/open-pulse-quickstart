@@ -1,0 +1,10 @@
+tentris
+rdflib
+pandas
+numpy
+pytz
+pyparsing
+requests
+python-dotenv
+ipykernel
+jupyter-client

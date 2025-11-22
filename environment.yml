@@ -33,4 +33,7 @@ dependencies:
       - tentris
       - rdflib
 
+      # For OSS
+      - bokeh>=3.8.1
+
 prefix: /opt/conda

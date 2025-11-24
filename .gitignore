@@ -1,5 +1,6 @@
 # Tentris environment
 src/tentris-quickstart/.venv/
+.egg-info
 
 # Local environment
 .venv/

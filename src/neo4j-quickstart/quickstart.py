@@ -188,14 +188,10 @@ print(sdsc_df.shape)
 # -----------------------------------------------------------------------
 
 # From Dataframes to Graphs (via Pydantic)
-graph = df_to_pydantic_models(sdsc_df, relationships)
 sdsc_graph = df_to_pydantic_models(sdsc_df, relationships)
 epfl_graph = df_to_pydantic_models(epfl_df, relationships)
 
 # Full Graphs
-
-output_path = Path("plots/graphs/graph_200_visualization.png")
-visualize_graph(graph, output_path)
 
 output_path = Path("plots/graphs/sdsc_graph.png")
 visualize_graph(sdsc_graph, output_path)
@@ -206,9 +202,6 @@ visualize_graph(epfl_graph, output_path)
 # Clusters 
 
 output_dir = Path("plots/clusters/")
-
-cluster_prefix_name = "200_first_nodes"
-visualize_clusters(graph, output_dir, cluster_prefix_name)
 
 cluster_prefix_name = "sdsc"
 visualize_clusters(sdsc_graph, output_dir, cluster_prefix_name)

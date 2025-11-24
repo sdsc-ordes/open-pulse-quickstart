@@ -2,6 +2,12 @@ import pandas as pd
 import numpy as np
 
 def neo4j_to_dataframe(nodes_ids, nodes_features, edges_indices, relationships):
+    # Step 0: Check all the inputs exist
+    try:
+        assert nodes_ids and nodes_features and edges_indices and relationships
+    except AssertionError:
+        raise ValueError("One of the input dictionaries is empty. Please check the inputs.")
+        
     rows = []
 
     # Step 1: Build lookup tables {node_id: features_dict}

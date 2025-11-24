@@ -127,24 +127,31 @@ print("RESULTS: shortest paths between organizations: ", distance_orgs)
 
 # ---------------------------
 # EXTRACT ALL DATA FROM NEO4J
+
+# We recommend extracting subgraphs. Limit the depth as extraction time can grow quickly.
+# Here is an example of extracting a subgraph around all organizations (org nodes) with depth
+# The fitler query can be anything. Be sure that it returns nodes "n" (and nothing else).
 # ---------------------------
 
-def extract_data(nodes, relationships):
+def extract_data(relationships, filter_query, depth=2):
     downloader = connect_neo4j()
 
     try:
-        nodes_ids, nodes_features = downloader.retrieve_nodes(nodes)
-        edges_indices, edges_attributes = downloader.retrieve_edges(relationships)
-
+        nodes_ids, nodes_features, edges_indices, edges_attributes = downloader.retrieve_subgraph(relationships, filter_query, depth)
         return nodes_ids, nodes_features, edges_indices, edges_attributes
     finally:
         downloader.close()
 
 
-nodes_ids, nodes_features, edges_indices, edges_attributes = extract_data(nodes, relationships)
+# CHANGE THIS QUERY AT WILL BUT BE SURE IT RETURNS NODES "n"
+cypher_query_filter = """
+MATCH (n:org)
+RETURN n; 
+"""
+nodes_ids, nodes_features, edges_indices, edges_attributes = extract_data(relationships, cypher_query_filter, depth=1)
 # example of looking at the output
-# print(nodes_ids["org"])
-# print(nodes_features["org"])
+# print(nodes_ids["repo"][:5])
+# print(nodes_features["repo"][:5])
 # print(edges_indices)
 
 # -------------------------------------------

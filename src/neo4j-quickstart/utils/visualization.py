@@ -186,6 +186,7 @@ def visualize_graph(
     discovered_nodes: Optional[Dict[str, tuple]] = None,
     figsize: tuple = (24, 24),
     dpi: int = 300,
+    title: str = ""
 ):
     """
     Visualize a GitHub relationship graph using the Pydantic models.
@@ -566,7 +567,7 @@ def visualize_graph(
         # Title and styling with modern aesthetics
         component_info = f' | {len(components)} cluster(s)' if len(components) > 1 else ''
         ax.set_title(
-            f'GitHub Network Graph\n'
+            f'Network Graph: {title} \n'
             f'{len(graph.users)} Users • {len(graph.orgs)} Organizations • {len(graph.repos)} Repositories{component_info}',
             fontsize=18,
             fontweight='bold',
